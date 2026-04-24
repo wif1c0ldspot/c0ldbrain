@@ -1,10 +1,11 @@
 ---
 confidence: high
 created: '2026-04-16'
-priority: reference
+priority: important
 sources:
 - rohit4verse-claude-code-architecture-2026-04
 - hwchase17-agent-harnesses-2026-04
+- jarvis-obsidian-claude-code-cyrilxbt-2026-04
 status: current
 summary: Anthropic's production agent harness with 55 directories and 331 modules.
   Features async generator loops, tool concurrency classification, four-layer architecture
@@ -18,7 +19,7 @@ tags:
 - developer-tools
 title: Claude Code
 type: concept
-updated: 2026-04-17
+updated: '2026-04-24'
 ---
 
 

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sources": {
+    "jarvis-obsidian-claude-code-cyrilxbt-2026-04": {
+      "type": "source",
+      "status": "compiled",
+      "ingested_at": "2026-04-24",
+      "source": "https://x.com/cyrilxbt/status/2047246104421388461",
+      "fetched_at": "2026-04-24",
+      "compiled_at": "2026-04-24",
+      "source_page": "wiki/sources/jarvis-obsidian-claude-code-cyrilxbt-2026-04.md",
+      "concept_pages_updated": [
+        "claude-code"
+      ],
+      "confidence": "medium",
+      "priority": "important",
+      "note": "X Article behind auth wall - metadata + community reference compiled"
+    }
+  },
+  "last_compile": "2026-04-24",
+  "concept_count": 0
+}

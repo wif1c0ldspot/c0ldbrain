@@ -192,6 +192,8 @@
   },
   "active": "185a00b8c69db220",
   "lastOpenFiles": [
+    "wiki/MANIFEST.json",
+    "wiki/sources/jarvis-obsidian-claude-code-cyrilxbt-2026-04.md",
     "_scripts/property_fix_log.json",
     "_scripts/fix_properties.py",
     "SCHEMA.md",
@@ -219,14 +221,12 @@
     "wiki/sources/hermes-kanban-gumbyender-2026-04.md",
     "wiki/concepts/hermes-kanban-bridge.md",
     "raw/github/hermes-kanban-gumbyender-2026-04.md",
-    "wiki/concepts/openchronicle.md",
     "wiki/plans",
     "Personal/Joel_Chua_CV_2026.pdf",
     "Joel_Chua_CV_Optimized_2026.pdf",
     "_scripts/__pycache__/compile.cpython-313.pyc",
     "_scripts/__pycache__/compile.cpython-311.pyc",
     "_scripts/__pycache__",
-    "raw/articles",
-    "wiki/synthesis"
+    "raw/articles"
   ]
 }
