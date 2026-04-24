@@ -20,6 +20,7 @@ tags:
 title: 5 Explosive GitHub Agent Projects (GitTrend Roundup)
 type: source
 updated: 2026-04-17
+compiled: true
 ---
 
 

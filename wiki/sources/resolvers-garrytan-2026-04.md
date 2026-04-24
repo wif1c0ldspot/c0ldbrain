@@ -1,5 +1,5 @@
 ---
-title: "Resolvers: The Routing Table for Intelligence"
+title: 'Resolvers: The Routing Table for Intelligence'
 type: source
 tags:
 - ai-agents
@@ -17,7 +17,9 @@ status: current
 agents:
 - hermes
 priority: important
-summary: "Garry Tan's article on resolvers as the routing table for agent intelligence - replacing 20,000 lines of context with 200 lines of routing logic."
+summary: Garry Tan's article on resolvers as the routing table for agent intelligence
+  - replacing 20,000 lines of context with 200 lines of routing logic.
+compiled: true
 ---
 
 # Resolvers: The Routing Table for Intelligence

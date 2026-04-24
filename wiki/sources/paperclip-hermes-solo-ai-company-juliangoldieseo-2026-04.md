@@ -1,16 +1,23 @@
 ---
-title: "Paperclip + Hermes Agent: Solo AI Company Stack"
-author: "@juliangoldieseo"
+title: 'Paperclip + Hermes Agent: Solo AI Company Stack'
+author: '@juliangoldieseo'
 date: 2026-04-21
-source: "https://x.com/juliangoldieseo/status/2046311395952910636"
-tags: [agent-stacks, hermes-agent, orchestration, solo-operators, automation]
+source: https://x.com/juliangoldieseo/status/2046311395952910636
+tags:
+- agent-stacks
+- hermes-agent
+- orchestration
+- solo-operators
+- automation
 type: source
 created: 2026-04-21
 updated: 2026-04-22
 confidence: medium
 status: current
 priority: important
-summary: "Paperclip + Hermes Agent stack for solo AI company. Orchestration meets memory for compounding improvement."
+summary: Paperclip + Hermes Agent stack for solo AI company. Orchestration meets memory
+  for compounding improvement.
+compiled: true
 ---
 
 ## Summary

@@ -1,10 +1,21 @@
 ---
-title: "Your Company Needs a Brain, Not More Connectors"
-author: "@contextconor (Conor Brennan-Burke)"
+title: Your Company Needs a Brain, Not More Connectors
+author: '@contextconor (Conor Brennan-Burke)'
 date: 2026-04-20
-source: "https://x.com/contextconor/status/2045957951278739520"
-tags: [source, knowledge-management, ai-agents, context-engineering]
+source: https://x.com/contextconor/status/2045957951278739520
+tags:
+- source
+- knowledge-management
+- ai-agents
+- context-engineering
 type: source
+priority: important
+updated: '2026-04-24'
+created: '2026-04-24'
+confidence: high
+status: current
+summary: Auto-generated placeholder for Your Company Needs a Brain, Not More Connectors
+compiled: true
 ---
 
 ## Summary

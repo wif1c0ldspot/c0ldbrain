@@ -1,14 +1,22 @@
 ---
-title: "Agent Memory Benchmark Critique (ATANT)"
+title: Agent Memory Benchmark Critique (ATANT)
 type: source
-tags: [arxiv, benchmark, continuity, locomo, longmemeval, evaluation]
+tags:
+- arxiv
+- benchmark
+- continuity
+- locomo
+- longmemeval
+- evaluation
 created: 2026-04-20
 updated: 2026-04-20
 confidence: high
 status: current
-priority: high
+priority: important
 url: https://arxiv.org/abs/2604.06710
-summary: "ATANT framework shows existing memory benchmarks don't measure 'continuity' — median covers 1 of 7 required properties"
+summary: ATANT framework shows existing memory benchmarks don't measure 'continuity'
+  — median covers 1 of 7 required properties
+compiled: true
 ---
 
 # ATANT: Agent Memory Benchmark Critique

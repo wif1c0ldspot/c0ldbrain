@@ -1,13 +1,17 @@
 ---
-title: "Speech Recognition"
+title: Speech Recognition
 type: concept
-tags: ['voice-ai', 'ml-models', 'multimodal']
+tags:
+- voice-ai
+- ml-models
+- multimodal
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
-status: current
+status: stub
 priority: reference
-summary: "Speech-to-text and voice recognition for AI agents. See voice-ai for broader voice ecosystem."
+summary: Speech-to-text and voice recognition for AI agents. See voice-ai for broader
+  voice ecosystem.
 ---
 
 # Speech Recognition

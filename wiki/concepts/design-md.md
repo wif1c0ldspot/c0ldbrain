@@ -1,14 +1,21 @@
 ---
 title: DESIGN.md
 type: concept
-tags: [ai-agents, developer-tools, design-systems, knowledge-management]
+tags:
+- ai-agents
+- developer-tools
+- design-systems
+- knowledge-management
 sources:
 - design-md-google-labs-2026-04
 updated: 2026-04-22
 confidence: high
 status: current
 priority: important
-summary: "File format for describing visual identity to AI coding agents. Combines YAML design tokens with markdown rationale. Enables reproducible, agent-driven UI generation from structured design specifications."
+summary: File format for describing visual identity to AI coding agents. Combines
+  YAML design tokens with markdown rationale. Enables reproducible, agent-driven UI
+  generation from structured design specifications.
+created: '2026-04-24'
 ---
 
 # DESIGN.md

@@ -1,16 +1,29 @@
 ---
-title: "AXIOM: Learning to Play Games with Expanding Object-Centric Active Inference"
+title: 'AXIOM: Learning to Play Games with Expanding Object-Centric Active Inference'
 type: source
-tags: [active-inference, object-centric, world-models, bayesian, free-energy-principle, brain-inspired]
-authors: [Conor Heins, Toon Van de Maele, Alexander Tschantz, Karl Friston, et al.]
+tags:
+- active-inference
+- object-centric
+- world-models
+- bayesian
+- free-energy-principle
+- brain-inspired
+authors:
+- Conor Heins
+- Toon Van de Maele
+- Alexander Tschantz
+- Karl Friston
+- et al.
 created: '2026-04-19'
 updated: '2026-04-19'
 confidence: medium
 status: current
 priority: important
-arxiv: "2505.24784"
-url: "https://arxiv.org/abs/2505.24784"
-summary: "Object-centric active inference agent masters games in 10K steps with minimal parameters and no gradient optimization."
+arxiv: '2505.24784'
+url: https://arxiv.org/abs/2505.24784
+summary: Object-centric active inference agent masters games in 10K steps with minimal
+  parameters and no gradient optimization.
+compiled: true
 ---
 
 # AXIOM: Learning to Play Games in Minutes with Expanding Object-Centric Models

@@ -1,14 +1,16 @@
 ---
-title: "Token Optimization & Efficiency"
+title: Token Optimization & Efficiency
 type: concept
-tags: ['llm-optimization', 'context-management']
+tags:
+- llm-optimization
+- context-management
 created: 2026-04-18
 updated: 2026-04-18
 confidence: medium
 status: stub
-priority: low
-summary: "Strategies to reduce token usage while maintaining output quality"
-note: "Auto-created stub — 2 broken link(s) point here"
+priority: reference
+summary: Strategies to reduce token usage while maintaining output quality
+note: Auto-created stub — 2 broken link(s) point here
 ---
 
 # Token Optimization & Efficiency

@@ -1,13 +1,20 @@
 ---
-title: "PASS@(k,T): Proving RL Expands Capability Beyond Reliability"
+title: 'PASS@(k,T): Proving RL Expands Capability Beyond Reliability'
 type: source
-tags: ['arxiv', 'rl', 'tool-use', 'emergence', 'ai-agents']
+tags:
+- arxiv
+- rl
+- tool-use
+- emergence
+- ai-agents
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
 status: current
 priority: reference
-summary: "Proof that RL genuinely expands capability (not just reliability) in tool-use agents. Scored 9/10."
+summary: Proof that RL genuinely expands capability (not just reliability) in tool-use
+  agents. Scored 9/10.
+compiled: true
 ---
 
 # PASS@(k,T): Proving RL Expands Capability Beyond Reliability

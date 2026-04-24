@@ -1,13 +1,19 @@
 ---
-title: "Daily Research: Agentic Memory — 2026-04-18"
+title: 'Daily Research: Agentic Memory — 2026-04-18'
 type: source
-tags: [research, agent-memory, context-engineering, daily-research]
+tags:
+- research
+- agent-memory
+- context-engineering
+- daily-research
 created: '2026-04-18'
 updated: '2026-04-18'
 confidence: high
 status: current
 priority: reference
-summary: "Daily research log — Cloudflare Agent Memory, 5 new ArXiv papers, context engineering crystallizing, camp convergence"
+summary: Daily research log — Cloudflare Agent Memory, 5 new ArXiv papers, context
+  engineering crystallizing, camp convergence
+compiled: true
 ---
 
 # Daily Research: Agentic Memory — 2026-04-18

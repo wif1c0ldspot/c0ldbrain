@@ -15,8 +15,9 @@ status: current
 agents:
 - hermes
 priority: important
-summary: Letta — platform for building stateful AI agents with advanced memory,
-  self-improvement over time, 21.9k GitHub stars.
+summary: Letta — platform for building stateful AI agents with advanced memory, self-improvement
+  over time, 21.9k GitHub stars.
+compiled: true
 ---
 
 # Letta

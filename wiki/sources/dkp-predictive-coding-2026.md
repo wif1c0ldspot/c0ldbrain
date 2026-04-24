@@ -1,16 +1,26 @@
 ---
-title: "Accelerated Predictive Coding Networks via Direct Kolen-Pollack Feedback Alignment"
+title: Accelerated Predictive Coding Networks via Direct Kolen-Pollack Feedback Alignment
 type: source
-tags: [predictive-coding, feedback-alignment, hardware-efficient, brain-inspired]
-authors: [Davide Casnici, Martin Lefebvre, Justin Dauwels, Charlotte Frenkel]
+tags:
+- predictive-coding
+- feedback-alignment
+- hardware-efficient
+- brain-inspired
+authors:
+- Davide Casnici
+- Martin Lefebvre
+- Justin Dauwels
+- Charlotte Frenkel
 created: '2026-04-19'
 updated: '2026-04-19'
 confidence: high
 status: current
 priority: reference
-arxiv: "2602.15571"
-url: "https://arxiv.org/abs/2602.15571"
-summary: "DKP-PC reduces predictive coding error propagation from O(L) to O(1) using learnable direct feedback connections."
+arxiv: '2602.15571'
+url: https://arxiv.org/abs/2602.15571
+summary: DKP-PC reduces predictive coding error propagation from O(L) to O(1) using
+  learnable direct feedback connections.
+compiled: true
 ---
 
 # Accelerated Predictive Coding Networks via Direct Kolen-Pollack Feedback Alignment

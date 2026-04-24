@@ -14,6 +14,7 @@ tags:
 title: Teknium - Hermes LLM-Wiki Integration Announcement
 type: source
 updated: '2026-04-07'
+compiled: true
 ---
 
 

@@ -1,13 +1,19 @@
 ---
-title: "ImplicitMemBench: Benchmark for Implicit/Procedural Memory in LLMs"
+title: 'ImplicitMemBench: Benchmark for Implicit/Procedural Memory in LLMs'
 type: source
-tags: ['arxiv', 'benchmark', 'procedural-memory', 'llm', 'ai-agents']
+tags:
+- arxiv
+- benchmark
+- procedural-memory
+- llm
+- ai-agents
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
 status: current
 priority: reference
-summary: "First benchmark for implicit/procedural memory in LLMs. Scored 9/10."
+summary: First benchmark for implicit/procedural memory in LLMs. Scored 9/10.
+compiled: true
 ---
 
 # ImplicitMemBench: Benchmark for Implicit/Procedural Memory in LLMs

@@ -1,10 +1,20 @@
 ---
-title: "SKILL0: In-Context Agentic RL for Skill Internalization"
+title: 'SKILL0: In-Context Agentic RL for Skill Internalization'
 type: source
-tags: [ai-agents, procedural-memory, habit-formation, skill-internalization, reinforcement-learning]
+tags:
+- ai-agents
+- procedural-memory
+- habit-formation
+- skill-internalization
+- reinforcement-learning
 confidence: high
 status: current
-summary: "Converts dynamic skill loading into permanent procedural knowledge via RL. Score: 9/10 emergence potential."
+summary: 'Converts dynamic skill loading into permanent procedural knowledge via RL.
+  Score: 9/10 emergence potential.'
+priority: important
+updated: '2026-04-24'
+created: '2026-04-24'
+compiled: true
 ---
 
 # SKILL0: In-Context Agentic RL for Skill Internalization

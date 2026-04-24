@@ -1,7 +1,11 @@
 ---
-title: "PomClaw — Enterprise Distributed AI Agent Platform"
+title: PomClaw — Enterprise Distributed AI Agent Platform
 type: source
-tags: [agent-infrastructure, distributed-memory, openclaw, enterprise-agent]
+tags:
+- agent-infrastructure
+- distributed-memory
+- openclaw
+- enterprise-agent
 created: 2026-04-21
 updated: 2026-04-21
 confidence: medium
@@ -9,6 +13,10 @@ status: current
 url: https://github.com/pomclaw/pomclaw
 stars: 35
 language: Go
+priority: reference
+summary: Auto-generated placeholder for PomClaw — Enterprise Distributed AI Agent
+  Platform
+compiled: true
 ---
 
 # PomClaw — Enterprise Distributed AI Agent Platform

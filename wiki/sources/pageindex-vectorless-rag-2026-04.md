@@ -2,7 +2,7 @@
 compiled: 2026-04-15
 confidence: high
 created: '2026-04-16'
-priority: 2
+priority: important
 source_url: https://github.com/VectifyAI/PageIndex
 stars: 25.2k
 status: current

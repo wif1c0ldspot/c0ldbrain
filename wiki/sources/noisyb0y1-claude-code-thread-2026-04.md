@@ -20,6 +20,7 @@ title: 'Noisyb0y1: Google Engineer Claude Code Automation Thread'
 type: source
 updated: '2026-04-18'
 url: https://x.com/noisyb0y1/status/2043609541477044439
+compiled: true
 ---
 
 

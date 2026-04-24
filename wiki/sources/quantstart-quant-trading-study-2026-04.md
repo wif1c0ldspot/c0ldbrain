@@ -11,7 +11,9 @@ updated: '2026-04-07'
 confidence: high
 status: current
 priority: important
-summary: "QuantStart article (Part I) covering career expectations, required mathematical/statistical background, and recommended textbook curriculum for quantitative trading."
+summary: QuantStart article (Part I) covering career expectations, required mathematical/statistical
+  background, and recommended textbook curriculum for quantitative trading.
+compiled: true
 ---
 
 # QuantStart Self-Study Plan for Quantitative Trading

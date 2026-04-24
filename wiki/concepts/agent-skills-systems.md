@@ -1,13 +1,21 @@
 ---
-title: "Agent Skills Systems"
+title: Agent Skills Systems
 type: concept
-tags: [ai-coding-agents, skill-systems, engineering-practices, lifecycle, agent-extensibility]
+tags:
+- ai-coding-agents
+- skill-systems
+- engineering-practices
+- lifecycle
+- agent-extensibility
 created: '2026-04-21'
 updated: '2026-04-21'
 confidence: high
 status: current
-priority: high
-summary: "Pattern of organizing AI coding agent capabilities as structured skills mapped to software development lifecycle phases. Skills encode workflows, quality gates, and best practices — not just prompts. Anti-rationalization and verification are mandatory."
+priority: important
+summary: Pattern of organizing AI coding agent capabilities as structured skills mapped
+  to software development lifecycle phases. Skills encode workflows, quality gates,
+  and best practices — not just prompts. Anti-rationalization and verification are
+  mandatory.
 sources:
 - agent-skills-osmani-2026-04
 ---

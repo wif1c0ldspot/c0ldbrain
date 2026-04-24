@@ -13,9 +13,10 @@ tags:
 - open-source
 - vendor-lock-in
 title: Agent Harnesses Are How You Build Agents (And They're Not Going Anywhere)
-type: article
+type: source
 updated: '2026-04-18'
 url: https://x.com/hwchase17/status/2042978500567609738
+compiled: true
 ---
 
 

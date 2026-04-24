@@ -20,6 +20,7 @@ tags:
 title: gstack - Garry Tan's Claude Code Setup
 type: source
 updated: 2026-04-17
+compiled: true
 ---
 
 

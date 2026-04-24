@@ -1,13 +1,17 @@
 ---
-title: "Automation Patterns"
+title: Automation Patterns
 type: concept
-tags: ['ai-agents', 'automation', 'patterns']
+tags:
+- ai-agents
+- automation
+- patterns
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
-status: current
+status: stub
 priority: reference
-summary: "Patterns for AI-driven automation. See claude-caveman-prompting-strategy-2026-04 for automation strategies."
+summary: Patterns for AI-driven automation. See claude-caveman-prompting-strategy-2026-04
+  for automation strategies.
 ---
 
 # Automation Patterns

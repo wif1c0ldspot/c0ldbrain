@@ -1,13 +1,19 @@
 ---
 title: Context Constitution
 type: concept
-tags: [agent-memory, context-engineering, letta, camp-2, agent-learning]
+tags:
+- agent-memory
+- context-engineering
+- letta
+- camp-2
+- agent-learning
 created: 2026-04-22
 updated: 2026-04-22
 confidence: high
 status: current
-priority: high
-summary: "Letta's philosophical and technical framework for treating agent learning as a context management problem — agents learn by managing their own context"
+priority: important
+summary: Letta's philosophical and technical framework for treating agent learning
+  as a context management problem — agents learn by managing their own context
 ---
 
 # Context Constitution

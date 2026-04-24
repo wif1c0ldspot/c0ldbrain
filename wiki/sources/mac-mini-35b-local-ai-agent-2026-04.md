@@ -2,7 +2,7 @@
 compiled: 2026-04-15
 confidence: high
 created: '2026-04-16'
-priority: 2
+priority: important
 source_url: https://x.com/leopardracer/status/2043631410045452360
 status: current
 summary: 'Production guide: running 35B MoE model on $599 Mac Mini M4 (16GB) via llama.cpp

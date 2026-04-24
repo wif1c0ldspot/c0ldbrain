@@ -1,13 +1,17 @@
 ---
-title: "Financial Ai"
+title: Financial Ai
 type: concept
-tags: ['quantitative-trading', 'ai-agents', 'finance']
+tags:
+- quantitative-trading
+- ai-agents
+- finance
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
-status: current
+status: stub
 priority: reference
-summary: "AI applications in finance and trading. See quantitative-trading for trading-specific approaches."
+summary: AI applications in finance and trading. See quantitative-trading for trading-specific
+  approaches.
 ---
 
 # Financial Ai

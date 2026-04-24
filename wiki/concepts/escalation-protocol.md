@@ -1,14 +1,16 @@
 ---
-title: "Escalation Protocol"
+title: Escalation Protocol
 type: concept
-tags: ['agentic-ai', 'infrastructure']
+tags:
+- agentic-ai
+- infrastructure
 created: 2026-04-18
 updated: 2026-04-18
 confidence: medium
 status: stub
-priority: low
-summary: "Pattern for escalating agent tasks to human review or higher-capability models"
-note: "Auto-created stub — 1 broken link(s) point here"
+priority: reference
+summary: Pattern for escalating agent tasks to human review or higher-capability models
+note: Auto-created stub — 1 broken link(s) point here
 ---
 
 # Escalation Protocol

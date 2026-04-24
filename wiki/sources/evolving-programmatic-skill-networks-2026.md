@@ -1,10 +1,20 @@
 ---
-title: "Evolving Programmatic Skill Networks (PSN)"
+title: Evolving Programmatic Skill Networks (PSN)
 type: source
-tags: [ai-agents, skill-graphs, programmatic-skills, compositional-generalization, emergence]
+tags:
+- ai-agents
+- skill-graphs
+- programmatic-skills
+- compositional-generalization
+- emergence
 confidence: high
 status: current
-summary: "Skills as executable programs in evolving compositional networks. Score: 10/10 emergence potential — highest this cycle."
+summary: 'Skills as executable programs in evolving compositional networks. Score:
+  10/10 emergence potential — highest this cycle.'
+priority: important
+updated: '2026-04-24'
+created: '2026-04-24'
+compiled: true
 ---
 
 # Evolving Programmatic Skill Networks (PSN)

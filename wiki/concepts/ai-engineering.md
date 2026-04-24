@@ -1,14 +1,16 @@
 ---
-title: "AI Engineering"
+title: AI Engineering
 type: concept
-tags: ['ai-agents', 'infrastructure']
+tags:
+- ai-agents
+- infrastructure
 created: 2026-04-18
 updated: 2026-04-18
 confidence: medium
 status: stub
-priority: low
-summary: "Discipline of building production AI systems — MLOps, evaluation, monitoring"
-note: "Auto-created stub — 2 broken link(s) point here"
+priority: reference
+summary: Discipline of building production AI systems — MLOps, evaluation, monitoring
+note: Auto-created stub — 2 broken link(s) point here
 ---
 
 # AI Engineering

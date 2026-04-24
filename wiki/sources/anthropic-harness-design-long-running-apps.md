@@ -1,9 +1,19 @@
 ---
-title: "Anthropic Harness Design Long Running Apps"
+title: Anthropic Harness Design Long Running Apps
 date: 2026-04-17
 type: source
 compiled: true
-tags: []
+tags:
+- source
+- ai-agents
+- agent-harness
+- anthropic
+priority: reference
+updated: '2026-04-24'
+created: '2026-04-24'
+confidence: high
+status: current
+summary: Auto-generated placeholder for Anthropic Harness Design Long Running Apps
 ---
 
      1|---

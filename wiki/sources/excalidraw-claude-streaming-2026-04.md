@@ -1,13 +1,21 @@
 ---
-title: "Excalidraw Diagrams Streaming to Claude"
+title: Excalidraw Diagrams Streaming to Claude
 type: source
-source_url: "https://x.com//status/2039422442339233816"
-author: "@excalidraw"
+source_url: https://x.com//status/2039422442339233816
+author: '@excalidraw'
 created: '2026-04-01'
 confidence: medium
 status: current
-tags: [source, diagrams, excalidraw, claude, visualization]
-summary: "Excalidraw diagrams now stream shape-by-shape to Claude as generated"
+tags:
+- source
+- diagrams
+- excalidraw
+- claude
+- visualization
+summary: Excalidraw diagrams now stream shape-by-shape to Claude as generated
+priority: reference
+updated: '2026-04-01'
+compiled: true
 ---
 
 ## Summary

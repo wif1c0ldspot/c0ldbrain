@@ -1,13 +1,17 @@
 ---
-title: "Ai Safety"
+title: Ai Safety
 type: concept
-tags: ['ai-security', 'safety', 'alignment']
+tags:
+- ai-security
+- safety
+- alignment
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
-status: current
+status: stub
 priority: reference
-summary: "AI safety considerations for agent systems including alignment, oversight, and containment."
+summary: AI safety considerations for agent systems including alignment, oversight,
+  and containment.
 ---
 
 # Ai Safety

@@ -1,13 +1,17 @@
 ---
-title: "Context Management"
+title: Context Management
 type: concept
-tags: ['ai-agents', 'context-engineering', 'token-optimization']
+tags:
+- ai-agents
+- context-engineering
+- token-optimization
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
-status: current
+status: stub
 priority: reference
-summary: "Context window management and optimization for LLM agents. See context-engineering-synthesis for unified view."
+summary: Context window management and optimization for LLM agents. See context-engineering-synthesis
+  for unified view.
 ---
 
 # Context Management

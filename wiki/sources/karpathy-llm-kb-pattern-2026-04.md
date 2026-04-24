@@ -1,13 +1,21 @@
 ---
-title: "LLM Knowledge Bases Pattern"
+title: LLM Knowledge Bases Pattern
 type: source
-source_url: "https://x.com//status/2039805659525644595"
-author: "@karpathy"
+source_url: https://x.com//status/2039805659525644595
+author: '@karpathy'
 created: '2026-04-02'
 confidence: high
 status: current
-tags: [source, knowledge-management, patterns, llm-wiki]
-summary: "Core pattern for using LLMs to build personal knowledge bases - the foundational thread"
+tags:
+- source
+- knowledge-management
+- patterns
+- llm-wiki
+summary: Core pattern for using LLMs to build personal knowledge bases - the foundational
+  thread
+priority: reference
+updated: '2026-04-02'
+compiled: true
 ---
 
 ## Summary

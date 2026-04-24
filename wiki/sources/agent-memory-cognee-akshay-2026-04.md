@@ -1,5 +1,5 @@
 ---
-title: "Build Agents That Never Forget — Agent Memory Layers"
+title: Build Agents That Never Forget — Agent Memory Layers
 type: source
 tags:
 - ai-agents
@@ -18,7 +18,10 @@ status: current
 agents:
 - hermes
 priority: important
-summary: "First-principles walkthrough of agent memory through 4 layers (list, markdown, vectors, graph-vector hybrid) introducing Cognee as open-source three-store knowledge engine."
+summary: First-principles walkthrough of agent memory through 4 layers (list, markdown,
+  vectors, graph-vector hybrid) introducing Cognee as open-source three-store knowledge
+  engine.
+compiled: true
 ---
 
 # Build Agents That Never Forget — Akshay (@akshay_pachaar)

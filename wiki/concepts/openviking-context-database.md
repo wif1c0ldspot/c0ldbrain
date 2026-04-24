@@ -1,13 +1,19 @@
 ---
 title: OpenViking Context Database
 type: concept
-tags: [agent-memory, context-engineering, bytedance, open-source, camp-2]
+tags:
+- agent-memory
+- context-engineering
+- bytedance
+- open-source
+- camp-2
 created: 2026-04-22
 updated: 2026-04-22
 confidence: high
 status: current
-priority: high
-summary: "ByteDance's open-source context database for AI agents — unified management of memory, resources, and skills at 22.7K stars"
+priority: important
+summary: ByteDance's open-source context database for AI agents — unified management
+  of memory, resources, and skills at 22.7K stars
 ---
 
 # OpenViking Context Database

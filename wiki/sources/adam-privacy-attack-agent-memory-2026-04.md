@@ -1,14 +1,22 @@
 ---
-title: "ADAM: Privacy Attack on Agent Memory"
+title: 'ADAM: Privacy Attack on Agent Memory'
 type: source
-tags: [arxiv, security, privacy, agent-memory, attack, extraction]
+tags:
+- arxiv
+- security
+- privacy
+- agent-memory
+- attack
+- extraction
 created: 2026-04-20
 updated: 2026-04-20
 confidence: high
 status: current
 priority: critical
 url: https://arxiv.org/abs/2604.09747
-summary: "100% success rate extracting sensitive data from agent memory systems — more severe than memory poisoning"
+summary: 100% success rate extracting sensitive data from agent memory systems — more
+  severe than memory poisoning
+compiled: true
 ---
 
 # ADAM: Privacy Attack on Agent Memory

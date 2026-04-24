@@ -1,13 +1,20 @@
 ---
-title: "Basal Ganglia RL Framework: Three-Layer BG Emulation"
+title: 'Basal Ganglia RL Framework: Three-Layer BG Emulation'
 type: source
-tags: ['arxiv', 'basal-ganglia', 'rl', 'neuroscience', 'ai-agents']
+tags:
+- arxiv
+- basal-ganglia
+- rl
+- neuroscience
+- ai-agents
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
 status: current
 priority: reference
-summary: "Three-layer basal ganglia emulation with dopamine-modulated STDP. Scored 8/10."
+summary: Three-layer basal ganglia emulation with dopamine-modulated STDP. Scored
+  8/10.
+compiled: true
 ---
 
 # Basal Ganglia RL Framework: Three-Layer BG Emulation

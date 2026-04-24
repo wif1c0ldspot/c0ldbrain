@@ -1,10 +1,21 @@
 ---
-title: "Weekly Synthesis — Agentic Memory Research"
+title: Weekly Synthesis — Agentic Memory Research
 date: 2026-04-20
 type: source
 compiled: true
-tags: ["source", "hermes", "agent", "memory", "synthesis"]
-source: "raw/syntheses/weekly-synthesis-2026-04-20.md"
+tags:
+- source
+- hermes
+- agent
+- memory
+- synthesis
+source: raw/syntheses/weekly-synthesis-2026-04-20.md
+priority: reference
+updated: '2026-04-24'
+created: '2026-04-24'
+confidence: high
+status: current
+summary: Auto-generated placeholder for Weekly Synthesis — Agentic Memory Research
 ---
 
 ---

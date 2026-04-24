@@ -1,17 +1,28 @@
 ---
-title: "OpenChronicle: Open-source, local-first memory for any tool-capable LLM agent"
-author: "Einsia"
+title: 'OpenChronicle: Open-source, local-first memory for any tool-capable LLM agent'
+author: Einsia
 date: 2026-04-23
-source: "https://github.com/Einsia/OpenChronicle"
+source: https://github.com/Einsia/OpenChronicle
 type: source
-tags: [ai-agents, memory-systems, mcp-protocol, local-models, open-source]
+tags:
+- ai-agents
+- memory-systems
+- mcp-protocol
+- local-models
+- open-source
 confidence: high
 status: current
 stars: 276
 forks: 4
 language: Python
 license: MIT
-summary: "Open-source alternative to OpenAI Chronicle. macOS AX Tree-first context capture → Markdown + SQLite memory. MCP endpoint for any tool-capable agent. Model-agnostic, local-first, MIT-licensed."
+summary: Open-source alternative to OpenAI Chronicle. macOS AX Tree-first context
+  capture → Markdown + SQLite memory. MCP endpoint for any tool-capable agent. Model-agnostic,
+  local-first, MIT-licensed.
+priority: important
+updated: '2026-04-24'
+created: '2026-04-24'
+compiled: true
 ---
 
 ## Summary

@@ -1,0 +1,17 @@
+{
+  "name": "Ingestion Timeline",
+  "description": "Sources by creation date \u2014 shows ingestion cadence and gaps",
+  "type": "calendar",
+  "source": "wiki/sources",
+  "dateProperty": "date",
+  "columns": [
+    {
+      "property": "title",
+      "label": "Title"
+    },
+    {
+      "property": "author",
+      "label": "Author"
+    }
+  ]
+}

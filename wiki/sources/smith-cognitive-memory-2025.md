@@ -1,10 +1,21 @@
 ---
-title: "SMITH: Unifying Dynamic Tool Creation and Experience Sharing via Cognitive Memory"
+title: 'SMITH: Unifying Dynamic Tool Creation and Experience Sharing via Cognitive
+  Memory'
 type: source
-tags: [ai-agents, cognitive-architecture, procedural-memory, declarative-memory, tool-creation]
+tags:
+- ai-agents
+- cognitive-architecture
+- procedural-memory
+- declarative-memory
+- tool-creation
 confidence: high
 status: current
-summary: "Separate procedural (tool creation) and declarative (knowledge) pathways in unified memory hub. Score: 9/10."
+summary: 'Separate procedural (tool creation) and declarative (knowledge) pathways
+  in unified memory hub. Score: 9/10.'
+priority: important
+updated: '2026-04-24'
+created: '2026-04-24'
+compiled: true
 ---
 
 # SMITH: Unifying Dynamic Tool Creation and Experience Sharing via Cognitive Memory

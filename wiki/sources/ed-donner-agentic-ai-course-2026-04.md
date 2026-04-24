@@ -15,9 +15,10 @@ confidence: high
 status: current
 agents:
 - hermes
-priority: medium
-summary: Repository for Complete Agentic AI Engineering Course by Ed Donner,
-  teaching agent building patterns, 4.6k GitHub stars.
+priority: important
+summary: Repository for Complete Agentic AI Engineering Course by Ed Donner, teaching
+  agent building patterns, 4.6k GitHub stars.
+compiled: true
 ---
 
 # Complete Agentic AI Engineering Course

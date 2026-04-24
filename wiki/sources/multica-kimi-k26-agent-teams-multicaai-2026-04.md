@@ -1,16 +1,24 @@
 ---
-title: "Multica × Kimi K2.6: Build an Agent Engineering Squad in an Afternoon"
-author: "@multicaai"
+title: 'Multica × Kimi K2.6: Build an Agent Engineering Squad in an Afternoon'
+author: '@multicaai'
 date: 2026-04-21
-source: "https://x.com/multicaai/status/2046333601302925536"
-tags: [multi-agent, agent-platform, agent-teams, kimi-k26, autopilot, agent-harness]
+source: https://x.com/multicaai/status/2046333601302925536
+tags:
+- multi-agent
+- agent-platform
+- agent-teams
+- kimi-k26
+- autopilot
+- agent-harness
 type: source
 created: 2026-04-21
 updated: 2026-04-22
 confidence: medium
 status: current
 priority: important
-summary: "Multica integrates Kimi K2.6 as agent runtime for multi-agent engineering squads. 5-agent team with shared issues and PRs."
+summary: Multica integrates Kimi K2.6 as agent runtime for multi-agent engineering
+  squads. 5-agent team with shared issues and PRs.
+compiled: true
 ---
 
 ## Summary

@@ -1,13 +1,21 @@
 ---
-title: "Karpathy's Self-Improving Second Brain"
+title: Karpathy's Self-Improving Second Brain
 type: source
-source_url: "https://x.com//status/2039963758790156555"
-author: "@karpathy"
+source_url: https://x.com//status/2039963758790156555
+author: '@karpathy'
 created: '2026-04-03'
 confidence: high
 status: current
-tags: [source, knowledge-management, self-improvement, llm-wiki]
-summary: "Karpathy's setup for the ultimate self-improving second brain with zero manual editing"
+tags:
+- source
+- knowledge-management
+- self-improvement
+- llm-wiki
+summary: Karpathy's setup for the ultimate self-improving second brain with zero manual
+  editing
+priority: reference
+updated: '2026-04-03'
+compiled: true
 ---
 
 ## Summary

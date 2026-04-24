@@ -1,15 +1,21 @@
 ---
-title: "AI Memory Tools: Two Camps"
+title: 'AI Memory Tools: Two Camps'
 type: source
-tags: [agentic-ai, memory-systems, context-substrate, research]
-source_url: "https://x.com/witcheer/status/2044456778843238689"
-author: "@witcheer"
+tags:
+- agentic-ai
+- memory-systems
+- context-substrate
+- research
+source_url: https://x.com/witcheer/status/2044456778843238689
+author: '@witcheer'
 created: 2026-04-16
 updated: 2026-04-18
 confidence: high
 status: current
 priority: important
-summary: "Analysis of 450+ agent-memory repos identifying two paradigms: Memory Backends (recall) vs Context Substrates (compounding)"
+summary: 'Analysis of 450+ agent-memory repos identifying two paradigms: Memory Backends
+  (recall) vs Context Substrates (compounding)'
+compiled: true
 ---
 
 ## Summary

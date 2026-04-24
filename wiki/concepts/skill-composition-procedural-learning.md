@@ -1,13 +1,34 @@
 ---
 title: Skill Composition & Procedural Learning (Basal Ganglia Pathway)
 type: concept
-tags: [ai-agents, brain-inspired, skill-composition, procedural-memory, basal-ganglia, reinforcement-learning]
-sources: [herakles-skill-chaining-2025, skillx-skill-kb-2026, toolrla-reward-decomposition-2026, pass-k-t-rl-capability-2026, metaclaw-meta-learning-2026, steps-compositional-generalization-2026, pi07-compositional-robotics-2026, evolving-programmatic-skill-networks-2026, skill0-skill-internalization-2026, smith-cognitive-memory-2025, synergistic-rl-cerebellum-basalganglia-2025]
+tags:
+- ai-agents
+- brain-inspired
+- skill-composition
+- procedural-memory
+- basal-ganglia
+- reinforcement-learning
+sources:
+- herakles-skill-chaining-2025
+- skillx-skill-kb-2026
+- toolrla-reward-decomposition-2026
+- pass-k-t-rl-capability-2026
+- metaclaw-meta-learning-2026
+- steps-compositional-generalization-2026
+- pi07-compositional-robotics-2026
+- evolving-programmatic-skill-networks-2026
+- skill0-skill-internalization-2026
+- smith-cognitive-memory-2025
+- synergistic-rl-cerebellum-basalganglia-2025
 confidence: high
 status: current
-agents: [hermes]
+agents:
+- hermes
 priority: critical
-summary: "Pathway 2 of brain-inspired AI architecture: skill composition and procedural learning inspired by basal ganglia mechanisms for emergent agent capabilities."
+summary: 'Pathway 2 of brain-inspired AI architecture: skill composition and procedural
+  learning inspired by basal ganglia mechanisms for emergent agent capabilities.'
+updated: '2026-04-24'
+created: '2026-04-24'
 ---
 
 # Skill Composition & Procedural Learning (Basal Ganglia Pathway)

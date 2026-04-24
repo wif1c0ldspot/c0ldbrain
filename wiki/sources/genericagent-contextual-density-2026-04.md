@@ -1,7 +1,12 @@
 ---
-title: GenericAgent: Contextual Information Density Maximization
+title: 'GenericAgent: Contextual Information Density Maximization'
 type: source
-tags: [arxiv, agent-memory, context-engineering, token-efficiency, self-evolving]
+tags:
+- arxiv
+- agent-memory
+- context-engineering
+- token-efficiency
+- self-evolving
 created: 2026-04-22
 updated: 2026-04-22
 confidence: high
@@ -9,7 +14,9 @@ status: current
 priority: high
 url: https://arxiv.org/abs/2604.17091
 category: Hybrid
-summary: "Token-efficient self-evolving agent that maximizes contextual information density — addresses fundamental context overflow for long-horizon agents"
+summary: Token-efficient self-evolving agent that maximizes contextual information
+  density — addresses fundamental context overflow for long-horizon agents
+compiled: true
 ---
 
 # GenericAgent: Token-Efficient Self-Evolving LLM Agent

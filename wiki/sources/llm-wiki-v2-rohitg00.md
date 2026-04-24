@@ -18,6 +18,7 @@ tags:
 title: LLM Wiki v2 — Extending Karpathy's Pattern with Memory Lifecycle
 type: source
 updated: 2026-04-14
+compiled: true
 ---
 
 

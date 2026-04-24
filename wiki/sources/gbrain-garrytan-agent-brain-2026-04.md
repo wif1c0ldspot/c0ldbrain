@@ -1,10 +1,21 @@
 ---
-title: "GBrain — Garry Tan's Agent Brain System"
-author: "@AYi_AInotes (link), Garry Tan (creator)"
+title: GBrain — Garry Tan's Agent Brain System
+author: '@AYi_AInotes (link), Garry Tan (creator)'
 date: 2026-04-20
-source: "https://github.com/garrytan/gbrain"
-tags: [source, ai-agents, knowledge-management, agent-architecture]
+source: https://github.com/garrytan/gbrain
+tags:
+- source
+- ai-agents
+- knowledge-management
+- agent-architecture
 type: source
+priority: important
+updated: '2026-04-24'
+created: '2026-04-24'
+confidence: high
+status: current
+summary: Auto-generated placeholder for GBrain — Garry Tan's Agent Brain System
+compiled: true
 ---
 
 ## Summary

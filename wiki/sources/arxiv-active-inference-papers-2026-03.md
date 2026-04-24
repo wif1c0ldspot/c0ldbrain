@@ -1,15 +1,24 @@
 ---
-title: "Active Inference & Predictive Coding Papers (March 2026)"
+title: Active Inference & Predictive Coding Papers (March 2026)
 type: source
-tags: [active-inference, predictive-coding, free-energy-principle, neuroscience, emergent-behavior, brain-inspired-ai]
+tags:
+- active-inference
+- predictive-coding
+- free-energy-principle
+- neuroscience
+- emergent-behavior
+- brain-inspired-ai
 created: 2026-04-18
 status: current
 confidence: high
 priority: critical
-summary: "Recent arXiv papers on Active Inference and Predictive Coding with high emergence potential for brain-inspired agent architectures"
+summary: Recent arXiv papers on Active Inference and Predictive Coding with high emergence
+  potential for brain-inspired agent architectures
 sources:
-  - arxiv:2603.20927
-  - arxiv:2603.09600
+- arxiv:2603.20927
+- arxiv:2603.09600
+updated: '2026-04-18'
+compiled: true
 ---
 
 # Active Inference & Predictive Coding Papers (March 2026)

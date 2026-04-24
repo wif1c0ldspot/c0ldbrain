@@ -1,19 +1,25 @@
 ---
-title: "Daily Research: Agentic Memory (2026-04-19)"
+title: 'Daily Research: Agentic Memory (2026-04-19)'
 type: source
-tags: [memory-systems, context-engineering, daily-research, ai-agents]
+tags:
+- memory-systems
+- context-engineering
+- daily-research
+- ai-agents
 created: '2026-04-19'
 updated: '2026-04-19'
 confidence: high
 status: current
-priority: medium
-summary: "Daily research covering Cloudflare Agent Memory, demand paging paradigm, SimpleMem MCP, memory security (OWASP ASI06), and context engineering crystallization."
-source_url: "~/trainings/agentic-memory/daily/2026-04-19-research.md"
+priority: important
+summary: Daily research covering Cloudflare Agent Memory, demand paging paradigm,
+  SimpleMem MCP, memory security (OWASP ASI06), and context engineering crystallization.
+source_url: ~/trainings/agentic-memory/daily/2026-04-19-research.md
 sources:
 - cloudflare-agent-memory-2026-04
 - missing-memory-hierarchy-arxiv-2026-04
 - simplemem-github-2026-04
 - agent-memory-poisoning-security-2026-04
+compiled: true
 ---
 
 # Daily Research: Agentic Memory (2026-04-19)

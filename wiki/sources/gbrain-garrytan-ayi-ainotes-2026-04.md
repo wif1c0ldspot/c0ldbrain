@@ -1,10 +1,22 @@
 ---
-title: "GBrain — Garry's Opinionated OpenClaw/Hermes Agent Brain"
+title: GBrain — Garry's Opinionated OpenClaw/Hermes Agent Brain
 date: 2026-04-20
 type: source
 compiled: true
-tags: ["source", "hermes", "agent", "memory", "agent-brain"]
-source: "raw/social/gbrain-garrytan-ayi-ainotes-2026-04.md"
+tags:
+- source
+- hermes
+- agent
+- memory
+- agent-brain
+source: raw/social/gbrain-garrytan-ayi-ainotes-2026-04.md
+priority: reference
+updated: '2026-04-24'
+created: '2026-04-24'
+confidence: high
+status: current
+summary: Auto-generated placeholder for GBrain — Garry's Opinionated OpenClaw/Hermes
+  Agent Brain
 ---
 
 ---

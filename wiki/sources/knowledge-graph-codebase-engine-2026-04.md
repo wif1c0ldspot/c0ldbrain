@@ -1,13 +1,20 @@
 ---
-title: "Knowledge Graph Engine for Codebase"
+title: Knowledge Graph Engine for Codebase
 type: source
-source_url: "https://x.com//status/2040464288264139002"
-author: "@dev"
+source_url: https://x.com//status/2040464288264139002
+author: '@dev'
 created: '2026-04-04'
 confidence: medium
 status: current
-tags: [source, knowledge-graph, codebase, tooling]
-summary: "Open source knowledge graph engine for codebase understanding and navigation"
+tags:
+- source
+- knowledge-graph
+- codebase
+- tooling
+summary: Open source knowledge graph engine for codebase understanding and navigation
+priority: reference
+updated: '2026-04-04'
+compiled: true
 ---
 
 ## Summary

@@ -14,6 +14,7 @@ tags:
 title: Hermes Agent Skills Hub
 type: source
 updated: '2026-04-07'
+compiled: true
 ---
 
 

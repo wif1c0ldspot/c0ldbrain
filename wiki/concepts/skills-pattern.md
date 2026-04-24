@@ -1,13 +1,16 @@
 ---
 title: Skills Pattern
 type: concept
-tags: [ai-agents, architecture, mcp]
+tags:
+- ai-agents
+- architecture
+- mcp
 created: 2026-04-18
 updated: 2026-04-18
 confidence: medium
-status: current
+status: stub
 priority: important
-summary: "Agent capability discovery and execution via skill manifests"
+summary: Agent capability discovery and execution via skill manifests
 ---
 
 # Skills Pattern

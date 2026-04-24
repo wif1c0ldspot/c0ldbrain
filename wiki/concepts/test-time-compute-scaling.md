@@ -1,13 +1,17 @@
 ---
-title: "Test Time Compute Scaling"
+title: Test Time Compute Scaling
 type: concept
-tags: ['ml-models', 'inference', 'reasoning']
+tags:
+- ml-models
+- inference
+- reasoning
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
-status: current
+status: stub
 priority: reference
-summary: "Scaling compute at test time for reasoning improvement. See recursive-language-models for practical implementation."
+summary: Scaling compute at test time for reasoning improvement. See recursive-language-models
+  for practical implementation.
 ---
 
 # Test Time Compute Scaling

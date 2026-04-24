@@ -1,15 +1,26 @@
 ---
-title: "The Definitive Guide to Harness Engineering"
-author: "@trae_ai (TRAE)"
+title: The Definitive Guide to Harness Engineering
+author: '@trae_ai (TRAE)'
 date: 2026-04-24
 type: source
 compiled: true
-tags: [source, agent-harness, harness-engineering, REST-framework, PPAF, production-agents, REPL]
+tags:
+- source
+- agent-harness
+- harness-engineering
+- REST-framework
+- PPAF
+- production-agents
+- REPL
 source_url: https://x.com/trae_ai/status/2047145274200768969
 confidence: high
 status: current
-priority: high
-summary: "Comprehensive framework for Harness Engineering by TRAE. Defines R.E.S.T objectives, PPAF cycle, REPL harness architecture, 6 design principles, 4 sandbox levels, and token transformation pipeline. Term coined by Mitchell Hashimoto."
+priority: important
+summary: Comprehensive framework for Harness Engineering by TRAE. Defines R.E.S.T
+  objectives, PPAF cycle, REPL harness architecture, 6 design principles, 4 sandbox
+  levels, and token transformation pipeline. Term coined by Mitchell Hashimoto.
+updated: '2026-04-24'
+created: '2026-04-24'
 ---
 
 # The Definitive Guide to Harness Engineering

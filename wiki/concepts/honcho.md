@@ -1,14 +1,21 @@
 ---
 title: Honcho
 type: concept
-tags: [memory-systems, ai-agents, knowledge-management, hermes]
+tags:
+- memory-systems
+- ai-agents
+- knowledge-management
+- hermes
 sources:
 - honcho-hermes-lcm-stack-bayendor-2026-04
 updated: 2026-04-22
 confidence: high
 status: current
 priority: important
-summary: "Open-source persistent memory and user-modeling layer for AI agents. Dual-peer architecture (user peer + AI peer) with hybrid recall, async writeback, and cross-session continuity. Not a chat buffer — a structured memory system."
+summary: Open-source persistent memory and user-modeling layer for AI agents. Dual-peer
+  architecture (user peer + AI peer) with hybrid recall, async writeback, and cross-session
+  continuity. Not a chat buffer — a structured memory system.
+created: '2026-04-24'
 ---
 
 # Honcho

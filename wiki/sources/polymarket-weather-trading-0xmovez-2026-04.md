@@ -1,10 +1,24 @@
 ---
-title: "Polymarket Weather Trading with Hermes Agent — @0xmovez"
-author: "@0xmovez"
+title: Polymarket Weather Trading with Hermes Agent — @0xmovez
+author: '@0xmovez'
 date: 2026-04-19
-source: "https://x.com/0xmovez/status/2045080054917476451"
+source: https://x.com/0xmovez/status/2045080054917476451
 type: source
-tags: [polymarket, prediction-markets, weather-trading, agent-trading, hermes-agent, quantitative-trading]
+tags:
+- polymarket
+- prediction-markets
+- weather-trading
+- agent-trading
+- hermes-agent
+- quantitative-trading
+priority: reference
+updated: '2026-04-24'
+created: '2026-04-24'
+confidence: high
+status: current
+summary: Auto-generated placeholder for Polymarket Weather Trading with Hermes Agent
+  — @0xmovez
+compiled: true
 ---
 
 ## Summary

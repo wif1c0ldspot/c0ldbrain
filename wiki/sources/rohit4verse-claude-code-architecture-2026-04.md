@@ -19,6 +19,7 @@ tags:
 title: How I built harness for my agent using Claude Code leaks
 type: source
 updated: 2026-04-17
+compiled: true
 ---
 
 

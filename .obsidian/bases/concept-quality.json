@@ -1,0 +1,43 @@
+{
+  "name": "Concept Quality",
+  "description": "Concept pages by quality \u2014 stubs surface for attention",
+  "type": "table",
+  "source": "wiki/concepts",
+  "columns": [
+    {
+      "property": "title",
+      "label": "Title",
+      "width": 300
+    },
+    {
+      "property": "status",
+      "label": "Status",
+      "width": 80
+    },
+    {
+      "property": "confidence",
+      "label": "Confidence",
+      "width": 90
+    },
+    {
+      "property": "priority",
+      "label": "Priority",
+      "width": 90
+    },
+    {
+      "property": "tags",
+      "label": "Tags",
+      "width": 250
+    },
+    {
+      "property": "updated",
+      "label": "Updated",
+      "width": 100
+    }
+  ],
+  "sort": {
+    "property": "updated",
+    "direction": "asc"
+  },
+  "groupBy": "status"
+}

@@ -1,16 +1,23 @@
 ---
-title: "The Missing Memory Hierarchy: Demand Paging for LLM Context"
+title: 'The Missing Memory Hierarchy: Demand Paging for LLM Context'
 type: source
-tags: [memory-systems, research, context-engineering, arxiv, demand-paging]
+tags:
+- memory-systems
+- research
+- context-engineering
+- arxiv
+- demand-paging
 created: '2026-04-19'
 updated: '2026-04-19'
 confidence: high
 status: current
-priority: high
-summary: "ArXiv paper introducing Pichay — a demand paging system for LLM context windows. Maps agent memory to OS virtual memory concepts."
-source_url: "https://arxiv.org/abs/2603.09023"
+priority: important
+summary: ArXiv paper introducing Pichay — a demand paging system for LLM context windows.
+  Maps agent memory to OS virtual memory concepts.
+source_url: https://arxiv.org/abs/2603.09023
 sources:
 - arxiv-2603-09023
+compiled: true
 ---
 
 # The Missing Memory Hierarchy: Demand Paging for LLM Context

@@ -18,6 +18,7 @@ tags:
 title: 'Hermes Agent: The Practitioner''s Reference (2026)'
 type: source
 updated: '2026-04-14'
+compiled: true
 ---
 
 

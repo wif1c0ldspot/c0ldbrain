@@ -1,5 +1,5 @@
 ---
-title: "Top 67 Claude Skills - Full Dev Team Stack"
+title: Top 67 Claude Skills - Full Dev Team Stack
 type: source
 tags:
 - ai-agents
@@ -18,7 +18,10 @@ status: current
 agents:
 - hermes
 priority: important
-summary: "67 curated Claude Skills organized by use case: meta (Skill Creator, Write a Skill), planning (Grill Me, PRD), development (TDD, QA), tooling (Pre-Commit, Git Guardrails), writing, design, business, media, multi-agent orchestration."
+summary: '67 curated Claude Skills organized by use case: meta (Skill Creator, Write
+  a Skill), planning (Grill Me, PRD), development (TDD, QA), tooling (Pre-Commit,
+  Git Guardrails), writing, design, business, media, multi-agent orchestration.'
+compiled: true
 ---
 
 # Top 67 Claude Skills That Turn $20 Subscription Into Full Dev Team - Mr. Buzzoni (@polydao)

@@ -1,14 +1,16 @@
 ---
-title: "Agentic Scaling"
+title: Agentic Scaling
 type: concept
-tags: ['agentic-ai', 'research']
+tags:
+- agentic-ai
+- research
 created: 2026-04-18
 updated: 2026-04-18
 confidence: medium
 status: stub
-priority: low
-summary: "Research on scaling laws for agentic AI systems and emergent capabilities"
-note: "Auto-created stub — 1 broken link(s) point here"
+priority: reference
+summary: Research on scaling laws for agentic AI systems and emergent capabilities
+note: Auto-created stub — 1 broken link(s) point here
 ---
 
 # Agentic Scaling

@@ -2,7 +2,7 @@
 compiled: 2026-04-15
 confidence: high
 created: '2026-04-16'
-priority: 2
+priority: important
 source_url: https://github.com/rowboatlabs/rowboat
 stars: 12.4k
 status: current

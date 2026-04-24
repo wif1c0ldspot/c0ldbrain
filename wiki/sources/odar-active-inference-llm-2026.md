@@ -1,16 +1,32 @@
 ---
-title: "ODAR: Principled Adaptive Routing for LLM Reasoning via Active Inference"
+title: 'ODAR: Principled Adaptive Routing for LLM Reasoning via Active Inference'
 type: source
-tags: [active-inference, llm-routing, free-energy-principle, test-time-compute, brain-inspired]
-authors: [Siyuan Ma, Bo Gao, Xiaojun Jia, Simeng Qin, Tianlin Li, Ke Ma, Xiaoshuang Jia, Wenqi Ren, Yang Liu]
+tags:
+- active-inference
+- llm-routing
+- free-energy-principle
+- test-time-compute
+- brain-inspired
+authors:
+- Siyuan Ma
+- Bo Gao
+- Xiaojun Jia
+- Simeng Qin
+- Tianlin Li
+- Ke Ma
+- Xiaoshuang Jia
+- Wenqi Ren
+- Yang Liu
 created: '2026-04-19'
 updated: '2026-04-19'
 confidence: high
 status: current
 priority: critical
-arxiv: "2602.23681"
-url: "https://arxiv.org/abs/2602.23681"
-summary: "Active inference framework for adaptive LLM reasoning routing — 98.2% MATH, 82% compute reduction, validated on Llama 4 + DeepSeek."
+arxiv: '2602.23681'
+url: https://arxiv.org/abs/2602.23681
+summary: Active inference framework for adaptive LLM reasoning routing — 98.2% MATH,
+  82% compute reduction, validated on Llama 4 + DeepSeek.
+compiled: true
 ---
 
 # ODAR: Principled Adaptive Routing for LLM Reasoning via Active Inference

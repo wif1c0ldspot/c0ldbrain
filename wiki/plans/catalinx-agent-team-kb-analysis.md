@@ -1,9 +1,14 @@
 ---
-title: "Catalinx: Paperclip, Competitors & Knowledge Base Architecture"
+title: 'Catalinx: Paperclip, Competitors & Knowledge Base Architecture'
 created: 2026-04-22
 status: active
 company: Catalinx (3 engineers, mobile apps)
 stack: GCP + Cloudflare
+priority: reference
+updated: '2026-04-22'
+confidence: medium
+summary: 'Auto-generated placeholder for Catalinx: Paperclip, Competitors & Knowledge
+  Base Architecture'
 ---
 
 # Paperclip, Competitors & Knowledge Base Architecture for Catalinx

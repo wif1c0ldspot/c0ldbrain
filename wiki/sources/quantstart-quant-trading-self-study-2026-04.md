@@ -13,6 +13,7 @@ status: current
 priority: important
 summary: QuantStart article outlining career paths, required background (math, stats,
   programming), and self-study curriculum for quantitative trading.
+compiled: true
 ---
 
 # QuantStart Self-Study Plan for Quantitative Trading

@@ -1,7 +1,12 @@
 ---
 title: Harness Design
 type: concept
-tags: [ai-engineering, agentic-coding, harness-design, multi-agent, context-management]
+tags:
+- ai-engineering
+- agentic-coding
+- harness-design
+- multi-agent
+- context-management
 sources:
 - anthropic-harness-design-long-running-apps
 - thealexker-harness-optimization-guide-2026-04
@@ -12,8 +17,9 @@ created: '2026-04-19'
 updated: '2026-04-19'
 confidence: high
 status: current
-priority: high
-summary: "Design patterns for AI agent harnesses — GAN-inspired multi-agent systems, progressive disclosure, R.P.I. framework, context management, and optimization strategies"
+priority: important
+summary: Design patterns for AI agent harnesses — GAN-inspired multi-agent systems,
+  progressive disclosure, R.P.I. framework, context management, and optimization strategies
 ---
 
 # Harness Design

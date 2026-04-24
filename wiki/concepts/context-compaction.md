@@ -1,13 +1,16 @@
 ---
 title: Context Compaction
 type: concept
-tags: [ai-agents, context-management, efficiency]
+tags:
+- ai-agents
+- context-management
+- efficiency
 created: 2026-04-18
 updated: 2026-04-18
 confidence: medium
-status: current
+status: stub
 priority: important
-summary: "Techniques for reducing context window usage while preserving key information"
+summary: Techniques for reducing context window usage while preserving key information
 ---
 
 # Context Compaction

@@ -1,13 +1,19 @@
 ---
-title: "Hierarchical Memory Architectures"
+title: Hierarchical Memory Architectures
 type: concept
-tags: [agent-memory, hierarchy, architecture, os-analogy, convergence]
+tags:
+- agent-memory
+- hierarchy
+- architecture
+- os-analogy
+- convergence
 created: 2026-04-20
 updated: 2026-04-20
 confidence: high
 status: current
-priority: high
-summary: "Multiple independent teams converging on OS-inspired hierarchical memory for LLM agents"
+priority: important
+summary: Multiple independent teams converging on OS-inspired hierarchical memory
+  for LLM agents
 ---
 
 # Hierarchical Memory Architectures

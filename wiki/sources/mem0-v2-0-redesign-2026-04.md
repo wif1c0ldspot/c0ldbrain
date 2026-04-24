@@ -1,12 +1,19 @@
 ---
-title: "Mem0 v2.0.0 — Ground-Up Redesign"
+title: Mem0 v2.0.0 — Ground-Up Redesign
 type: source
-tags: [memory-systems, mem0, agent-memory, sdk]
+tags:
+- memory-systems
+- mem0
+- agent-memory
+- sdk
 created: 2026-04-21
 updated: 2026-04-21
 confidence: high
 status: current
 url: https://github.com/mem0ai/mem0/releases
+priority: reference
+summary: Auto-generated placeholder for Mem0 v2.0.0 — Ground-Up Redesign
+compiled: true
 ---
 
 # Mem0 Python SDK v2.0.0 — Ground-Up Redesign

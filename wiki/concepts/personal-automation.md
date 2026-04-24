@@ -1,13 +1,16 @@
 ---
-title: "Personal Automation"
+title: Personal Automation
 type: concept
-tags: ['ai-agents', 'automation', 'productivity']
+tags:
+- ai-agents
+- automation
+- productivity
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
-status: current
+status: stub
 priority: reference
-summary: "Personal automation workflows with AI agents. See agentic-ai for agent patterns."
+summary: Personal automation workflows with AI agents. See agentic-ai for agent patterns.
 ---
 
 # Personal Automation

@@ -1,9 +1,18 @@
 ---
-title: "0Xricker Markov Chain Quant Trading 2026 04"
+title: 0Xricker Markov Chain Quant Trading 2026 04
 date: 2026-04-17
 type: source
 compiled: true
-tags: []
+tags:
+- source
+- quantitative-trading
+- markov-chain
+priority: reference
+updated: '2026-04-24'
+created: '2026-04-24'
+confidence: high
+status: current
+summary: Auto-generated placeholder for 0Xricker Markov Chain Quant Trading 2026 04
 ---
 
      1|---

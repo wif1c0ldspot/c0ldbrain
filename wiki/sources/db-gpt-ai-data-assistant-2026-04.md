@@ -18,6 +18,7 @@ agents:
 priority: important
 summary: DB-GPT — open-source agentic AI data assistant for AI + Data products, text-to-SQL,
   multi-database support, 18.5k GitHub stars.
+compiled: true
 ---
 
 # DB-GPT

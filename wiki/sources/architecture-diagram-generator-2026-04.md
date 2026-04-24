@@ -2,7 +2,7 @@
 compiled: 2026-04-15
 confidence: high
 created: '2026-04-16'
-priority: 2
+priority: important
 source_url: https://github.com/Cocoon-AI/architecture-diagram-generator
 status: current
 summary: Claude.ai Skill by Cocoon AI that generates professional dark-themed architecture

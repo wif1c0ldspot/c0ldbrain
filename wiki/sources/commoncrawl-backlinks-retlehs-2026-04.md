@@ -1,10 +1,22 @@
 ---
-title: "Free Backlink Extraction via Common Crawl"
-author: "@retlehs (Ben Word)"
+title: Free Backlink Extraction via Common Crawl
+author: '@retlehs (Ben Word)'
 date: 2026-04-20
-source: "https://x.com/retlehs/status/2045169132748877992"
-tags: [source, seo, web-graph, open-data, research]
+source: https://x.com/retlehs/status/2045169132748877992
+tags:
+- source
+- seo
+- web-graph
+- open-data
+- research
 type: source
+priority: reference
+updated: '2026-04-24'
+created: '2026-04-24'
+confidence: high
+status: current
+summary: Auto-generated placeholder for Free Backlink Extraction via Common Crawl
+compiled: true
 ---
 
 ## Summary

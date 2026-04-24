@@ -1,13 +1,20 @@
 ---
 title: CLI vs MCP for Agent Memory
 type: concept
-tags: [agent-memory, mcp, cli, cognee, context-engineering, token-efficiency]
+tags:
+- agent-memory
+- mcp
+- cli
+- cognee
+- context-engineering
+- token-efficiency
 created: 2026-04-22
 updated: 2026-04-22
 confidence: medium
 status: developing
-priority: medium
-summary: "Emerging debate over whether CLI-based memory interfaces outperform MCP-based ones for agent memory — fewer tokens, simpler auth, deeper LLM training coverage"
+priority: important
+summary: Emerging debate over whether CLI-based memory interfaces outperform MCP-based
+  ones for agent memory — fewer tokens, simpler auth, deeper LLM training coverage
 ---
 
 # CLI vs MCP for Agent Memory

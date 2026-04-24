@@ -1,12 +1,21 @@
 ---
-title: "Skill Graphs 2.0: Atoms, Molecules, Compounds"
-author: "@shivsakhuja"
+title: 'Skill Graphs 2.0: Atoms, Molecules, Compounds'
+author: '@shivsakhuja'
 date: 2026-04-23
-source: "https://x.com/shivsakhuja/status/2047124337191444844"
+source: https://x.com/shivsakhuja/status/2047124337191444844
 type: source
-tags: [ai-agents, skill-graphs, skill-composition, agent-orchestration]
+tags:
+- ai-agents
+- skill-graphs
+- skill-composition
+- agent-orchestration
 confidence: high
 status: current
+priority: important
+updated: '2026-04-24'
+created: '2026-04-24'
+summary: 'Auto-generated placeholder for Skill Graphs 2.0: Atoms, Molecules, Compounds'
+compiled: true
 ---
 
 ## Summary

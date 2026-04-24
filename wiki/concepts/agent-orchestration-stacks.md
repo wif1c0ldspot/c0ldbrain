@@ -1,13 +1,21 @@
 ---
-title: "Agent Orchestration Stacks"
+title: Agent Orchestration Stacks
 type: concept
-tags: [agent-stacks, orchestration, memory, solo-operators, automation, compounding]
+tags:
+- agent-stacks
+- orchestration
+- memory
+- solo-operators
+- automation
+- compounding
 created: '2026-04-21'
 updated: '2026-04-21'
 confidence: medium
 status: current
-priority: moderate
-summary: "Pattern of combining orchestration (task routing, multi-agent coordination) with persistent memory (skills, preferences, context) to create agent stacks that compound in value over time. Target: solo operators and small teams."
+priority: important
+summary: 'Pattern of combining orchestration (task routing, multi-agent coordination)
+  with persistent memory (skills, preferences, context) to create agent stacks that
+  compound in value over time. Target: solo operators and small teams.'
 sources:
 - paperclip-hermes-solo-ai-company-juliangoldieseo-2026-04
 ---

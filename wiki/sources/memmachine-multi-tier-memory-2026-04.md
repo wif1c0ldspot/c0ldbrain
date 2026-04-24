@@ -1,15 +1,22 @@
 ---
-title: "MemMachine: Multi-Tier Agent Memory System"
+title: 'MemMachine: Multi-Tier Agent Memory System'
 type: source
-tags: [arxiv, agent-memory, token-efficiency, benchmark, locomo]
+tags:
+- arxiv
+- agent-memory
+- token-efficiency
+- benchmark
+- locomo
 created: 2026-04-20
 updated: 2026-04-20
 confidence: high
 status: current
-priority: high
+priority: important
 url: https://arxiv.org/abs/2604.04853
 category: Hybrid
-summary: "Open-source memory with short-term, episodic, and profile memory. Achieves 0.9169 LoCoMo with 80% fewer tokens than Mem0"
+summary: Open-source memory with short-term, episodic, and profile memory. Achieves
+  0.9169 LoCoMo with 80% fewer tokens than Mem0
+compiled: true
 ---
 
 # MemMachine: Multi-Tier Agent Memory System

@@ -1,13 +1,19 @@
 ---
-title: "Claim-Based Memory"
+title: Claim-Based Memory
 type: concept
-tags: [memory-systems, knowledge-graphs, agent-memory, claim-based, pckc]
+tags:
+- memory-systems
+- knowledge-graphs
+- agent-memory
+- claim-based
+- pckc
 created: 2026-04-21
 updated: 2026-04-21
 confidence: high
 status: current
-priority: high
-summary: "Memory as typed claims with authority-based proofs instead of text summaries. Enables truth-filtering, contradiction detection, and temporal validity."
+priority: important
+summary: Memory as typed claims with authority-based proofs instead of text summaries.
+  Enables truth-filtering, contradiction detection, and temporal validity.
 sources:
 - chum-mem-pckc-2026-04
 - cavemem-cross-agent-memory-2026-04

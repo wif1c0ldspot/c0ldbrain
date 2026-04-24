@@ -1,10 +1,22 @@
 ---
-title: "How Memory Works in a Multi-Agent System: Inside Multica"
-author: "@mem0ai"
+title: 'How Memory Works in a Multi-Agent System: Inside Multica'
+author: '@mem0ai'
 date: 2026-04-19
-source: "https://x.com/mem0ai/status/2045519377655890111"
+source: https://x.com/mem0ai/status/2045519377655890111
 type: source
-tags: [multi-agent, memory-systems, relational-memory, agent-harness]
+tags:
+- multi-agent
+- memory-systems
+- relational-memory
+- agent-harness
+priority: reference
+updated: '2026-04-24'
+created: '2026-04-24'
+confidence: high
+status: current
+summary: 'Auto-generated placeholder for How Memory Works in a Multi-Agent System:
+  Inside Multica'
+compiled: true
 ---
 
 ## Summary

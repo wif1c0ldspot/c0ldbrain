@@ -1,16 +1,23 @@
 ---
-title: "OpenViking: Volcengine's Context Database"
+title: 'OpenViking: Volcengine''s Context Database'
 type: source
-tags: [github, agent-memory, context-database, volcengine, open-source]
+tags:
+- github
+- agent-memory
+- context-database
+- volcengine
+- open-source
 created: 2026-04-20
 updated: 2026-04-20
 confidence: high
 status: current
-priority: high
+priority: important
 url: https://github.com/volcengine/OpenViking
 stars: 22623
 category: Hybrid
-summary: "First 'context database' for AI agents — unifies memory, RAG, and skill management in a single system"
+summary: First 'context database' for AI agents — unifies memory, RAG, and skill management
+  in a single system
+compiled: true
 ---
 
 # OpenViking: Volcengine's Context Database

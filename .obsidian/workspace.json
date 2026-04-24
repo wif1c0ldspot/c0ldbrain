@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c29e720c17c51c7d",
+        "id": "bd674fc7c26e8037",
         "type": "tabs",
         "children": [
           {
-            "id": "f8f3c67950101d3c",
+            "id": "185a00b8c69db220",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -179,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 228.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8f3c67950101d3c",
+  "active": "185a00b8c69db220",
   "lastOpenFiles": [
+    "_scripts/property_fix_log.json",
+    "_scripts/fix_properties.py",
+    "SCHEMA.md",
+    "CATALINX_PTE_LTD_FRS_2025.md",
+    "wiki/sources/2026-04-20-research.md",
     "Untitled.base",
     "ABOUT.md",
     "wiki/concepts/financial-llms.md",
@@ -218,9 +220,6 @@
     "wiki/concepts/hermes-kanban-bridge.md",
     "raw/github/hermes-kanban-gumbyender-2026-04.md",
     "wiki/concepts/openchronicle.md",
-    "wiki/sources/openchronicle-einsia-2026-04.md",
-    "raw/github/openchronicle-einsia-2026-04.md",
-    "raw/articles/building-agents-mcp-production.md",
     "wiki/plans",
     "Personal/Joel_Chua_CV_2026.pdf",
     "Joel_Chua_CV_Optimized_2026.pdf",
@@ -228,7 +227,6 @@
     "_scripts/__pycache__/compile.cpython-311.pyc",
     "_scripts/__pycache__",
     "raw/articles",
-    "wiki/synthesis",
-    "outputs/analyses"
+    "wiki/synthesis"
   ]
 }

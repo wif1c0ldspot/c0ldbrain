@@ -1,13 +1,21 @@
 ---
-title: "Mistake Notebook Learning (MNL) — ACL 2026 Findings"
+title: Mistake Notebook Learning (MNL) — ACL 2026 Findings
 type: source
-tags: [memory-systems, learning-from-mistakes, agent-memory, acl-2026]
+tags:
+- memory-systems
+- learning-from-mistakes
+- agent-memory
+- acl-2026
 created: 2026-04-21
 updated: 2026-04-21
 confidence: medium
 status: current
 url: https://github.com/Bairong-Xdynamics/MistakeNotebookLearning
 stars: 137
+priority: reference
+summary: Auto-generated placeholder for Mistake Notebook Learning (MNL) — ACL 2026
+  Findings
+compiled: true
 ---
 
 # Mistake Notebook Learning (MNL)

@@ -2,7 +2,7 @@
 compiled: 2026-04-15
 confidence: high
 created: '2026-04-16'
-priority: 2
+priority: important
 source_url: https://x.com/hwchase17/status/2042978500567609738?s=46&t=CLd5pEAh4JLH9Y655r58aA
 stars: 1.8M
 status: current

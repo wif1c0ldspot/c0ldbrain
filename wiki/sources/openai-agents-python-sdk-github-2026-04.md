@@ -1,13 +1,25 @@
 ---
-title: "OpenAI Agents Python SDK — GitHub Repository"
-author: "@openai"
+title: OpenAI Agents Python SDK — GitHub Repository
+author: '@openai'
 date: 2026-04-19
-source: "https://github.com/openai/openai-agents-python"
+source: https://github.com/openai/openai-agents-python
 type: source
-tags: [openai, agent-harness, multi-agent, python, framework]
+tags:
+- openai
+- agent-harness
+- multi-agent
+- python
+- framework
 stars: 22600
 forks: 3600
 language: python
+priority: reference
+updated: '2026-04-24'
+created: '2026-04-24'
+confidence: high
+status: current
+summary: Auto-generated placeholder for OpenAI Agents Python SDK — GitHub Repository
+compiled: true
 ---
 
 ## Summary

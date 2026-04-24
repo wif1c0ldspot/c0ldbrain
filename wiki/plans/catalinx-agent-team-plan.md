@@ -4,6 +4,10 @@ created: 2026-04-22
 status: active
 company: Catalinx (3 engineers, mobile apps)
 stack: GCP + Cloudflare
+priority: reference
+updated: '2026-04-22'
+confidence: medium
+summary: Auto-generated placeholder for Catalinx Multi-Agent Team Deployment Plan
 ---
 
 # Catalinx Agent Team — Deployment Plan

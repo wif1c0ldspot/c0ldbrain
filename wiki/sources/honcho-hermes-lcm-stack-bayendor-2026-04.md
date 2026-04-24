@@ -1,14 +1,22 @@
 ---
-title: "How Honcho + Hermes-LCM Made Our Hermes Agent Smarter"
+title: How Honcho + Hermes-LCM Made Our Hermes Agent Smarter
 type: source
-tags: [ai-agents, hermes, memory-systems, observability, infrastructure]
+tags:
+- ai-agents
+- hermes
+- memory-systems
+- observability
+- infrastructure
 sources: []
 updated: 2026-04-22
 confidence: high
 status: current
-summary: "David Bayendor's production stack combining Hermes Agent (execution), self-hosted Honcho (memory), and Hermes-LCM (measurement/control). Emphasizes claim-mechanism-proof architecture for repeatable agent systems."
+summary: David Bayendor's production stack combining Hermes Agent (execution), self-hosted
+  Honcho (memory), and Hermes-LCM (measurement/control). Emphasizes claim-mechanism-proof
+  architecture for repeatable agent systems.
 created: 2026-04-22
 priority: important
+compiled: true
 ---
 
 # How Honcho + Hermes-LCM Made Our Hermes Agent Smarter

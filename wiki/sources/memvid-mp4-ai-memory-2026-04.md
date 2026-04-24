@@ -1,13 +1,20 @@
 ---
-title: "Memvid: Video-Based AI Memory"
+title: 'Memvid: Video-Based AI Memory'
 type: source
-source_url: "https://x.com//status/2040400654385197201"
-author: "@memvid"
+source_url: https://x.com//status/2040400654385197201
+author: '@memvid'
 created: '2026-04-04'
 confidence: medium
 status: current
-tags: [source, memory-systems, video, compression]
-summary: "Memvid replaces vector databases with MP4 files for AI memory storage"
+tags:
+- source
+- memory-systems
+- video
+- compression
+summary: Memvid replaces vector databases with MP4 files for AI memory storage
+priority: reference
+updated: '2026-04-04'
+compiled: true
 ---
 
 ## Summary

@@ -1,13 +1,17 @@
 ---
-title: "Domain Intel"
+title: Domain Intel
 type: concept
-tags: ['security', 'reconnaissance', 'devops']
+tags:
+- security
+- reconnaissance
+- devops
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
-status: current
+status: stub
 priority: reference
-summary: "Passive domain reconnaissance and intelligence gathering. See commoncrawl-backlink-extraction for related techniques."
+summary: Passive domain reconnaissance and intelligence gathering. See commoncrawl-backlink-extraction
+  for related techniques.
 ---
 
 # Domain Intel

@@ -16,9 +16,10 @@ tags:
 - context-management
 - inference-scaling
 title: Recursive Language Models (RLMs) — Predict RLM by Trampoline AI
-type: article
+type: source
 updated: '2026-04-18'
 url: https://x.com/gablesperance/status/2042950334469787975
+compiled: true
 ---
 
 

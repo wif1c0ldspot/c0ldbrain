@@ -1,14 +1,22 @@
 ---
 title: Hermes-LCM
 type: concept
-tags: [ai-agents, hermes, observability, infrastructure, developer-tools]
+tags:
+- ai-agents
+- hermes
+- observability
+- infrastructure
+- developer-tools
 sources:
 - honcho-hermes-lcm-stack-bayendor-2026-04
 updated: 2026-04-22
 confidence: high
 status: current
 priority: important
-summary: "Lifecycle Control and Measurement layer for Hermes Agent stacks. Provides observability, verification, and repeatability — the difference between vibe-based automation and data-based execution."
+summary: Lifecycle Control and Measurement layer for Hermes Agent stacks. Provides
+  observability, verification, and repeatability — the difference between vibe-based
+  automation and data-based execution.
+created: '2026-04-24'
 ---
 
 # Hermes-LCM

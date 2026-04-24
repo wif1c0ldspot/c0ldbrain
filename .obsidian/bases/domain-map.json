@@ -1,0 +1,28 @@
+{
+  "name": "Domain Map",
+  "description": "Concepts by knowledge domain \u2014 shows concentration and gaps",
+  "type": "board",
+  "source": "wiki/concepts",
+  "columns": [
+    {
+      "property": "title",
+      "label": "Title"
+    },
+    {
+      "property": "confidence",
+      "label": "Confidence"
+    },
+    {
+      "property": "priority",
+      "label": "Priority"
+    }
+  ],
+  "groupBy": "priority",
+  "filters": [
+    {
+      "property": "status",
+      "operator": "!=",
+      "value": "stub"
+    }
+  ]
+}

@@ -1,9 +1,19 @@
 ---
-title: "Magika Google 2026 04"
+title: Magika Google 2026 04
 date: 2026-04-17
 type: source
 compiled: true
-tags: []
+tags:
+- source
+- developer-tools
+- google
+- open-source
+priority: reference
+updated: '2026-04-24'
+created: '2026-04-24'
+confidence: high
+status: current
+summary: Auto-generated placeholder for Magika Google 2026 04
 ---
 
      1|---

@@ -1,16 +1,25 @@
 ---
-title: "RLMs Are the New Reasoning Models"
-author: "@raw_works (Raymond Weitekamp)"
+title: RLMs Are the New Reasoning Models
+author: '@raw_works (Raymond Weitekamp)'
 date: 2026-04-21
-source: "https://x.com/raw_works/status/2046240194999755153"
-tags: [rlm, recursive-language-models, reasoning, test-time-compute, inference-scaling, dspy, benchmarks]
+source: https://x.com/raw_works/status/2046240194999755153
+tags:
+- rlm
+- recursive-language-models
+- reasoning
+- test-time-compute
+- inference-scaling
+- dspy
+- benchmarks
 type: source
 created: 2026-04-21
 updated: 2026-04-22
 confidence: medium
 status: current
 priority: important
-summary: "Recursive Language Models merge reasoning and tool use into one abstraction. Beats frontier LLMs at 100x smaller size."
+summary: Recursive Language Models merge reasoning and tool use into one abstraction.
+  Beats frontier LLMs at 100x smaller size.
+compiled: true
 ---
 
 ## Summary

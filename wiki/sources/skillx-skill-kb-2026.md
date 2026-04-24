@@ -1,10 +1,19 @@
 ---
-title: "SkillX: Automatically Constructing Skill Knowledge Bases for Agents"
+title: 'SkillX: Automatically Constructing Skill Knowledge Bases for Agents'
 type: source
-tags: [ai-agents, skill-knowledge-base, cross-agent-transfer, compositional-generalization]
+tags:
+- ai-agents
+- skill-knowledge-base
+- cross-agent-transfer
+- compositional-generalization
 confidence: high
 status: current
-summary: "Automated framework for constructing plug-and-play skill KBs reusable across agents. Score: 9/10 emergence potential."
+summary: 'Automated framework for constructing plug-and-play skill KBs reusable across
+  agents. Score: 9/10 emergence potential.'
+priority: important
+updated: '2026-04-24'
+created: '2026-04-24'
+compiled: true
 ---
 
 # SkillX: Automatically Constructing Skill Knowledge Bases for Agents

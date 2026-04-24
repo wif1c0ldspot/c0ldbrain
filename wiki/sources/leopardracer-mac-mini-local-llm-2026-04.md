@@ -22,6 +22,7 @@ title: 'Leopardracer: $600 Mac Mini Running 35B AI Model'
 type: source
 updated: '2026-04-18'
 url: https://x.com/leopardracer/status/2043631410045452360
+compiled: true
 ---
 
 

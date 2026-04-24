@@ -1,13 +1,16 @@
 ---
 title: Tool Orchestration
 type: concept
-tags: [ai-agents, mcp, tools]
+tags:
+- ai-agents
+- mcp
+- tools
 created: 2026-04-18
 updated: 2026-04-18
 confidence: medium
-status: current
+status: stub
 priority: important
-summary: "Coordinating multiple tool calls in agent workflows"
+summary: Coordinating multiple tool calls in agent workflows
 ---
 
 # Tool Orchestration

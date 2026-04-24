@@ -1,13 +1,18 @@
 ---
-title: "Demand Paging for Agent Memory"
+title: Demand Paging for Agent Memory
 type: concept
-tags: [memory-systems, context-engineering, agent-architecture, systems-design]
+tags:
+- memory-systems
+- context-engineering
+- agent-architecture
+- systems-design
 created: '2026-04-19'
 updated: '2026-04-19'
 confidence: medium
 status: emerging
-priority: high
-summary: "Reframing agent memory management through OS virtual memory concepts — demand paging, working sets, eviction policies."
+priority: important
+summary: Reframing agent memory management through OS virtual memory concepts — demand
+  paging, working sets, eviction policies.
 sources:
 - missing-memory-hierarchy-arxiv-2026-04
 ---

@@ -1,10 +1,21 @@
 ---
-title: "Synergistic RL by Cooperation of Cerebellum and Basal Ganglia"
+title: Synergistic RL by Cooperation of Cerebellum and Basal Ganglia
 type: source
-tags: [brain-inspired, basal-ganglia, cerebellum, dual-system, neuromorphic, reinforcement-learning]
+tags:
+- brain-inspired
+- basal-ganglia
+- cerebellum
+- dual-system
+- neuromorphic
+- reinforcement-learning
 confidence: high
 status: current
-summary: "Dual-system RL with cerebellum (predictive/supervised) + BG (reward-driven). Score: 9/10 emergence potential."
+summary: 'Dual-system RL with cerebellum (predictive/supervised) + BG (reward-driven).
+  Score: 9/10 emergence potential.'
+priority: reference
+updated: '2026-04-24'
+created: '2026-04-24'
+compiled: true
 ---
 
 # Synergistic RL by Cooperation of Cerebellum and Basal Ganglia

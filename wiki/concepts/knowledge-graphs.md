@@ -1,13 +1,17 @@
 ---
-title: "Knowledge Graphs"
+title: Knowledge Graphs
 type: concept
-tags: ['knowledge-management', 'graph-databases', 'rag']
+tags:
+- knowledge-management
+- graph-databases
+- rag
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
-status: current
+status: stub
 priority: reference
-summary: "Graph-based knowledge representation for AI agents. See cognee for a production implementation."
+summary: Graph-based knowledge representation for AI agents. See cognee for a production
+  implementation.
 ---
 
 # Knowledge Graphs

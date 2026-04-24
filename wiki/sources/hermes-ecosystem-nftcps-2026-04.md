@@ -1,10 +1,23 @@
 ---
-title: "Hermes Agent Ecosystem — 5 Key Projects (Apr 2026)"
-author: "@NFTCPS (鸟哥 | 蓝鸟会)"
+title: Hermes Agent Ecosystem — 5 Key Projects (Apr 2026)
+author: '@NFTCPS (鸟哥 | 蓝鸟会)'
 date: 2026-04-20
-source: "https://x.com/nftcps/status/2046076635200553224"
-tags: [source, ai-agents, hermes, ecosystem, agent-architecture]
+source: https://x.com/nftcps/status/2046076635200553224
+tags:
+- source
+- ai-agents
+- hermes
+- ecosystem
+- agent-architecture
 type: source
+priority: important
+updated: '2026-04-24'
+created: '2026-04-24'
+confidence: high
+status: current
+summary: Auto-generated placeholder for Hermes Agent Ecosystem — 5 Key Projects (Apr
+  2026)
+compiled: true
 ---
 
 ## Summary

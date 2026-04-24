@@ -1,10 +1,21 @@
 ---
-title: "LLM Wiki vs NotebookLM — Artem Zhutov Critique"
-author: "@artemxtech"
+title: LLM Wiki vs NotebookLM — Artem Zhutov Critique
+author: '@artemxtech'
 date: 2026-04-20
-source: "https://x.com/artemxtech/status/2045912259210485815"
-tags: [source, knowledge-management, llm-wiki, notebooklm]
+source: https://x.com/artemxtech/status/2045912259210485815
+tags:
+- source
+- knowledge-management
+- llm-wiki
+- notebooklm
 type: source
+priority: reference
+updated: '2026-04-24'
+created: '2026-04-24'
+confidence: high
+status: current
+summary: Auto-generated placeholder for LLM Wiki vs NotebookLM — Artem Zhutov Critique
+compiled: true
 ---
 
 ## Summary

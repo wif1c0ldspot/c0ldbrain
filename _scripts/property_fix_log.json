@@ -1,0 +1,36 @@
+[
+  {
+    "date": "2026-04-24",
+    "mode": "dry-run",
+    "files_scanned": 360,
+    "files_changed": 257,
+    "files_applied": 0,
+    "change_types": {
+      "updated": 66,
+      "status": 93,
+      "priority": 121,
+      "created": 39,
+      "confidence": 25,
+      "summary": 31,
+      "compiled": 115,
+      "type": 2
+    }
+  },
+  {
+    "date": "2026-04-24",
+    "mode": "apply",
+    "files_scanned": 360,
+    "files_changed": 257,
+    "files_applied": 257,
+    "change_types": {
+      "updated": 66,
+      "status": 93,
+      "priority": 121,
+      "created": 39,
+      "confidence": 25,
+      "summary": 31,
+      "compiled": 115,
+      "type": 2
+    }
+  }
+]

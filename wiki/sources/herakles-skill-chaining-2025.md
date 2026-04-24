@@ -1,10 +1,19 @@
 ---
-title: "HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents"
+title: 'HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents'
 type: source
-tags: [ai-agents, skill-chaining, hierarchical-rl, compositional-generalization]
+tags:
+- ai-agents
+- skill-chaining
+- hierarchical-rl
+- compositional-generalization
 confidence: high
 status: current
-summary: "Hierarchical RL + language for automatic skill chaining in autotelic agents. Score: 9/10 emergence potential."
+summary: 'Hierarchical RL + language for automatic skill chaining in autotelic agents.
+  Score: 9/10 emergence potential.'
+priority: important
+updated: '2026-04-24'
+created: '2026-04-24'
+compiled: true
 ---
 
 # HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents

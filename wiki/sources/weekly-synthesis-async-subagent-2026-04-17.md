@@ -14,6 +14,7 @@ tags:
 title: 'Weekly Synthesis: Async Subagent Pattern'
 type: source
 updated: '2026-04-18'
+compiled: true
 ---
 
 

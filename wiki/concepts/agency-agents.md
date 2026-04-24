@@ -1,13 +1,17 @@
 ---
-title: "Agency Agents"
+title: Agency Agents
 type: concept
-tags: ['ai-agents', 'agency', 'autonomy']
+tags:
+- ai-agents
+- agency
+- autonomy
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
-status: current
+status: stub
 priority: reference
-summary: "Agent systems with high degrees of autonomy and agency. See agentic-ai for core concepts."
+summary: Agent systems with high degrees of autonomy and agency. See agentic-ai for
+  core concepts.
 ---
 
 # Agency Agents

@@ -1,7 +1,12 @@
 ---
-title: "chum-mem — PCKC Proof-Carrying Knowledge Compiler"
+title: chum-mem — PCKC Proof-Carrying Knowledge Compiler
 type: source
-tags: [memory-systems, knowledge-graphs, agent-memory, pckc, claim-based-memory]
+tags:
+- memory-systems
+- knowledge-graphs
+- agent-memory
+- pckc
+- claim-based-memory
 created: 2026-04-21
 updated: 2026-04-21
 confidence: high
@@ -9,6 +14,9 @@ status: current
 url: https://github.com/sly-codechum/chum-mem
 stars: 29
 language: Rust
+priority: reference
+summary: Auto-generated placeholder for chum-mem — PCKC Proof-Carrying Knowledge Compiler
+compiled: true
 ---
 
 # chum-mem — Proof-Carrying Knowledge Compiler

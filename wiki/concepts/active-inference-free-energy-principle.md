@@ -1,17 +1,26 @@
 ---
-title: "Active Inference & Free Energy Principle"
+title: Active Inference & Free Energy Principle
 type: concept
-tags: [active-inference, free-energy-principle, predictive-coding, neuroscience, agent-architecture, emergence, variational-inference]
+tags:
+- active-inference
+- free-energy-principle
+- predictive-coding
+- neuroscience
+- agent-architecture
+- emergence
+- variational-inference
 created: 2026-04-18
 status: current
 confidence: high
 priority: critical
-summary: "Unified framework for perception, learning, planning, and control based on variational free energy minimization"
+summary: Unified framework for perception, learning, planning, and control based on
+  variational free energy minimization
 related_concepts:
-  - brain-inspired-agent-architecture
-  - predictive-coding-hierarchy
-  - emergent-agent-evolution-synthesis
-  - memory-systems
+- brain-inspired-agent-architecture
+- predictive-coding-hierarchy
+- emergent-agent-evolution-synthesis
+- memory-systems
+updated: '2026-04-18'
 ---
 
 # Active Inference & Free Energy Principle

@@ -1,15 +1,24 @@
 ---
-title: "CORAL — Human-Agent-Society/CORAL"
+title: CORAL — Human-Agent-Society/CORAL
 type: source
-tags: [github, multi-agent, self-evolving, auto-research, coding-agents]
+tags:
+- github
+- multi-agent
+- self-evolving
+- auto-research
+- coding-agents
 source_url: https://github.com/Human-Agent-Society/CORAL
-sources: [raw/github/coral-human-agent-society-2026-04.md, raw/social/coral-multiagent-discovery.md]
+sources:
+- raw/github/coral-human-agent-society-2026-04.md
+- raw/social/coral-multiagent-discovery.md
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: high
 status: current
 priority: important
-summary: "Multi-agent self-evolution infrastructure. Coding agents in git worktrees, shared .coral/ state, eval loops, heartbeat prompts. 526 stars, MIT."
+summary: Multi-agent self-evolution infrastructure. Coding agents in git worktrees,
+  shared .coral/ state, eval loops, heartbeat prompts. 526 stars, MIT.
+compiled: true
 ---
 
 # CORAL — Human-Agent-Society/CORAL

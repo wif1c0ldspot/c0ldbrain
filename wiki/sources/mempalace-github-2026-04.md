@@ -18,6 +18,7 @@ agents:
 priority: important
 summary: MemPalace GitHub repo — hierarchical AI memory system with MCP integration,
   96.6% LongMemEval score, lossless storage.
+compiled: true
 ---
 
 # MemPalace GitHub Repository

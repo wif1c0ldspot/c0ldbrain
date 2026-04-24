@@ -1,13 +1,21 @@
 ---
-title: "Skill Graphs"
+title: Skill Graphs
 type: concept
-tags: [ai-agents, skill-graphs, skill-composition, agent-orchestration, agent-extensibility]
+tags:
+- ai-agents
+- skill-graphs
+- skill-composition
+- agent-orchestration
+- agent-extensibility
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: high
 status: current
-priority: high
-summary: "Three-level framework for composing agent skills: atoms (deterministic primitives), molecules (explicit orchestration of 2-10 atoms), and compounds (high-level playbooks requiring human supervision). Solves the reliability problem of deep skill graph dependencies."
+priority: important
+summary: 'Three-level framework for composing agent skills: atoms (deterministic primitives),
+  molecules (explicit orchestration of 2-10 atoms), and compounds (high-level playbooks
+  requiring human supervision). Solves the reliability problem of deep skill graph
+  dependencies.'
 sources:
 - skill-graphs-shivsakhuja-2026-04
 ---

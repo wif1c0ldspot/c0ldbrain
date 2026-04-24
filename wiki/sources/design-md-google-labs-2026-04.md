@@ -1,14 +1,22 @@
 ---
-title: "DESIGN.md — Format Specification for Agent Design Systems"
+title: DESIGN.md — Format Specification for Agent Design Systems
 type: source
-tags: [ai-agents, developer-tools, design-systems, hermes, infrastructure]
+tags:
+- ai-agents
+- developer-tools
+- design-systems
+- hermes
+- infrastructure
 sources: []
 updated: 2026-04-22
 confidence: high
 status: current
-summary: "Google Labs open-source format for describing visual identity to coding agents. Combines YAML design tokens with markdown rationale. Includes CLI toolkit for lint, diff, export, and spec generation."
+summary: Google Labs open-source format for describing visual identity to coding agents.
+  Combines YAML design tokens with markdown rationale. Includes CLI toolkit for lint,
+  diff, export, and spec generation.
 created: 2026-04-22
 priority: important
+compiled: true
 ---
 
 # DESIGN.md — Format Specification for Agent Design Systems

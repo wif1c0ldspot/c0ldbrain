@@ -1,13 +1,22 @@
 ---
-title: "When to Forget: A Memory Governance Primitive"
+title: 'When to Forget: A Memory Governance Primitive'
 type: source
-tags: [brain-inspired-ai, memory-governance, hippocampus-pathway, memory-pruning, continual-learning]
+tags:
+- brain-inspired-ai
+- memory-governance
+- hippocampus-pathway
+- memory-pruning
+- continual-learning
 sources: []
 created: '2026-04-20'
 confidence: high
 status: current
 priority: important
-summary: "Memory Worth (MW) metric — a lightweight 2-counter signal tracking memory quality through outcome co-occurrence. Converges to conditional success probability. Spearman rho=0.89 vs ground truth."
+summary: Memory Worth (MW) metric — a lightweight 2-counter signal tracking memory
+  quality through outcome co-occurrence. Converges to conditional success probability.
+  Spearman rho=0.89 vs ground truth.
+updated: '2026-04-20'
+compiled: true
 ---
 
 # When to Forget: A Memory Governance Primitive

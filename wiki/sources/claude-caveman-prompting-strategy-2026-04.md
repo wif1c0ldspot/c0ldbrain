@@ -1,13 +1,21 @@
 ---
-title: "Caveman Token Strategy for Claude"
+title: Caveman Token Strategy for Claude
 type: source
-source_url: "https://x.com//status/2041035711063732460"
-author: "@community"
+source_url: https://x.com//status/2041035711063732460
+author: '@community'
 created: '2026-04-06'
 confidence: medium
 status: current
-tags: [source, token-optimization, prompting, claude]
-summary: "Viral 'caveman' prompting strategy to reduce tokens while maintaining Claude effectiveness"
+tags:
+- source
+- token-optimization
+- prompting
+- claude
+summary: Viral 'caveman' prompting strategy to reduce tokens while maintaining Claude
+  effectiveness
+priority: reference
+updated: '2026-04-06'
+compiled: true
 ---
 
 ## Summary

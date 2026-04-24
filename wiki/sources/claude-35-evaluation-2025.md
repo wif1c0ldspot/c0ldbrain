@@ -1,14 +1,18 @@
 ---
-title: "Claude 3.5 Evaluation 2025"
+title: Claude 3.5 Evaluation 2025
 type: source
-tags: ['evaluation', 'claude', 'benchmark']
+tags:
+- evaluation
+- claude
+- benchmark
 created: 2026-04-18
 updated: 2026-04-18
 confidence: medium
 status: stub
-priority: low
-summary: "Evaluation benchmarks and results for Claude 3.5 models (2025)"
-note: "Auto-created stub — 1 broken link(s) point here"
+priority: reference
+summary: Evaluation benchmarks and results for Claude 3.5 models (2025)
+note: Auto-created stub — 1 broken link(s) point here
+compiled: true
 ---
 
 # Claude 3.5 Evaluation 2025

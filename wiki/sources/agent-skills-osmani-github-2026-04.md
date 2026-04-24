@@ -1,13 +1,22 @@
 ---
-title: "addyosmani/agent-skills"
-source: "https://github.com/addyosmani/agent-skills"
+title: addyosmani/agent-skills
+source: https://github.com/addyosmani/agent-skills
 fetched: 2026-04-21
 stars: 17k+
-
 type: source
-tags: [ai-agents, coding-agents, skills]
+tags:
+- ai-agents
+- coding-agents
+- skills
 compiled: true
-date: 2026-04-22---
+date: 2026-04-22
+priority: important
+updated: '2026-04-24'
+created: '2026-04-24'
+confidence: high
+status: current
+summary: Auto-generated placeholder for addyosmani/agent-skills
+---
 
 # Agent Skills
 

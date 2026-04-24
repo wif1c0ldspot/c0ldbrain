@@ -13,8 +13,9 @@ status: compiled
 confidence: high
 priority: important
 summary: AutoAgent is an autonomous meta-agent system that iteratively optimizes AI
- agent harnesses overnight by modifying prompts, tools, and configuration, then hill-climbing
- on benchmark scores via the Harbor framework.
+  agent harnesses overnight by modifying prompts, tools, and configuration, then hill-climbing
+  on benchmark scores via the Harbor framework.
+compiled: true
 ---
 
 # AutoAgent - Autonomous Agent Harness Engineering

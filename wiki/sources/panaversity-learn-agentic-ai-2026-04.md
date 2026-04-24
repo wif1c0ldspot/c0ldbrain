@@ -16,9 +16,10 @@ confidence: high
 status: current
 agents:
 - hermes
-priority: medium
-summary: Learn Agentic AI curriculum covering OpenAI Agents SDK, MCP, A2A,
-  knowledge graphs, Dapr, and Kubernetes, 4.1k stars.
+priority: important
+summary: Learn Agentic AI curriculum covering OpenAI Agents SDK, MCP, A2A, knowledge
+  graphs, Dapr, and Kubernetes, 4.1k stars.
+compiled: true
 ---
 
 # Learn Agentic AI - Panaversity

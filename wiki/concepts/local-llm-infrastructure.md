@@ -1,17 +1,32 @@
 ---
 title: Local LLM Infrastructure & Model Routing
 type: concept
-tags: [local-llm, mac-mini, mmap, model-routing, gemma4, qwen, ollama, llama-cpp, ai-agent]
-sources: [leopardracer-mac-mini-local-llm-2026-04, mac-mini-35b-local-ai-agent-2026-04]
+tags:
+- local-llm
+- mac-mini
+- mmap
+- model-routing
+- gemma4
+- qwen
+- ollama
+- llama-cpp
+- ai-agent
+sources:
+- leopardracer-mac-mini-local-llm-2026-04
+- mac-mini-35b-local-ai-agent-2026-04
 created: '2026-04-15'
 updated: '2026-04-15'
 confidence: high
 status: current
-agents: [ollama, llama-cpp, gemma4, qwen]
-priority: high
-summary: 'Running local LLMs on consumer hardware ($599 Mac Mini M4, 16GB). Three-tier
+agents:
+- ollama
+- llama-cpp
+- gemma4
+- qwen
+priority: important
+summary: Running local LLMs on consumer hardware ($599 Mac Mini M4, 16GB). Three-tier
   model routing, mmap trick for oversized models, Gemma 4 vs Qwen benchmarks, context
-  compression, and resilience chain for AI agent uptime.'
+  compression, and resilience chain for AI agent uptime.
 ---
 
 # Local LLM Infrastructure & Model Routing

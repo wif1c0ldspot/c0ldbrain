@@ -1,16 +1,27 @@
 ---
-title: "Orchestrator: Active Inference for Multi-Agent Systems"
+title: 'Orchestrator: Active Inference for Multi-Agent Systems'
 type: source
-tags: [active-inference, multi-agent, coordination, orchestration, brain-inspired]
-authors: [Lukas Beckenbauer, Johannes-Lucas Loewe, Ge Zheng, Alexandra Brintrup]
+tags:
+- active-inference
+- multi-agent
+- coordination
+- orchestration
+- brain-inspired
+authors:
+- Lukas Beckenbauer
+- Johannes-Lucas Loewe
+- Ge Zheng
+- Alexandra Brintrup
 created: '2026-04-19'
 updated: '2026-04-19'
 confidence: medium
 status: current
 priority: important
-arxiv: "2509.05651"
-url: "https://arxiv.org/abs/2509.05651"
-summary: "Multi-agent framework using attention-inspired self-emergent coordination and active inference benchmarks for long-horizon tasks."
+arxiv: '2509.05651'
+url: https://arxiv.org/abs/2509.05651
+summary: Multi-agent framework using attention-inspired self-emergent coordination
+  and active inference benchmarks for long-horizon tasks.
+compiled: true
 ---
 
 # Orchestrator: Active Inference for Multi-Agent Systems in Long-Horizon Tasks

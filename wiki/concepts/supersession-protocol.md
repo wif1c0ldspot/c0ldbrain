@@ -1,14 +1,16 @@
 ---
-title: "Supersession Protocol"
+title: Supersession Protocol
 type: concept
-tags: ['agentic-ai', 'knowledge-management']
+tags:
+- agentic-ai
+- knowledge-management
 created: 2026-04-18
 updated: 2026-04-18
 confidence: medium
 status: stub
-priority: low
-summary: "Pattern for replacing outdated AI models or strategies with newer versions"
-note: "Auto-created stub — 1 broken link(s) point here"
+priority: reference
+summary: Pattern for replacing outdated AI models or strategies with newer versions
+note: Auto-created stub — 1 broken link(s) point here
 ---
 
 # Supersession Protocol

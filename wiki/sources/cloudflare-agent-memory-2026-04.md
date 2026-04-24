@@ -1,16 +1,23 @@
 ---
-title: "Cloudflare Agent Memory (Private Beta)"
+title: Cloudflare Agent Memory (Private Beta)
 type: source
-tags: [memory-systems, context-engineering, cloudflare, agent-infrastructure, enterprise]
+tags:
+- memory-systems
+- context-engineering
+- cloudflare
+- agent-infrastructure
+- enterprise
 created: '2026-04-19'
 updated: '2026-04-19'
 confidence: high
 status: current
-priority: high
-summary: "Cloudflare announces Agent Memory — a managed service for persistent agent memory with ingest/remember/recall/list/forget API. Private beta, April 2026."
-source_url: "https://blog.cloudflare.com/introducing-agent-memory/"
+priority: important
+summary: Cloudflare announces Agent Memory — a managed service for persistent agent
+  memory with ingest/remember/recall/list/forget API. Private beta, April 2026.
+source_url: https://blog.cloudflare.com/introducing-agent-memory/
 sources:
 - cloudflare-agent-memory-2026-04
+compiled: true
 ---
 
 # Cloudflare Agent Memory (Private Beta)

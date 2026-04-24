@@ -1,13 +1,22 @@
 ---
-title: "Evo-MedAgent: Agents That Remember, Reflect, and Improve"
+title: 'Evo-MedAgent: Agents That Remember, Reflect, and Improve'
 type: source
-tags: [brain-inspired-ai, episodic-memory, agent-memory, hippocampus-pathway, emergence]
+tags:
+- brain-inspired-ai
+- episodic-memory
+- agent-memory
+- hippocampus-pathway
+- emergence
 sources: []
 created: '2026-04-20'
 confidence: high
 status: current
 priority: important
-summary: "Training-free self-evolving memory module for LLM agents with 3 complementary stores: retrospective episodes, adaptive heuristics, and tool reliability tracking. Raises accuracy from 0.68 to 0.79 on GPT-5-mini."
+summary: 'Training-free self-evolving memory module for LLM agents with 3 complementary
+  stores: retrospective episodes, adaptive heuristics, and tool reliability tracking.
+  Raises accuracy from 0.68 to 0.79 on GPT-5-mini.'
+updated: '2026-04-20'
+compiled: true
 ---
 
 # Evo-MedAgent: Beyond One-Shot Diagnosis with Agents That Remember, Reflect, and Improve

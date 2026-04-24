@@ -1,13 +1,17 @@
 ---
-title: "Predictive Coding Hierarchy"
+title: Predictive Coding Hierarchy
 type: concept
-tags: ['brain-inspired', 'predictive-coding', 'ai-agents']
+tags:
+- brain-inspired
+- predictive-coding
+- ai-agents
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
-status: current
+status: stub
 priority: reference
-summary: "Hierarchical predictive coding in agent architectures. See predictive-coding-active-inference for full pathway."
+summary: Hierarchical predictive coding in agent architectures. See predictive-coding-active-inference
+  for full pathway.
 ---
 
 # Predictive Coding Hierarchy

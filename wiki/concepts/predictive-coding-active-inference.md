@@ -1,13 +1,30 @@
 ---
-title: "Predictive Coding & Active Inference for Emergent AI"
+title: Predictive Coding & Active Inference for Emergent AI
 type: concept
-tags: [brain-inspired-ai, predictive-coding, active-inference, free-energy-principle, emergent-behavior, neuromorphic, small-models]
-sources: [arxiv-2604.15679, arxiv-2502.08860, arxiv-2512.07041, arxiv-2602.14033, arxiv-2506.17516, arxiv-2407.20292, arxiv-2501.00226]
-created: "2026-04-23"
+tags:
+- brain-inspired-ai
+- predictive-coding
+- active-inference
+- free-energy-principle
+- emergent-behavior
+- neuromorphic
+- small-models
+sources:
+- arxiv-2604.15679
+- arxiv-2502.08860
+- arxiv-2512.07041
+- arxiv-2602.14033
+- arxiv-2506.17516
+- arxiv-2407.20292
+- arxiv-2501.00226
+created: '2026-04-23'
 status: current
 confidence: high
 priority: critical
-summary: "Predictive coding and active inference as pathways to emergent behavior in compact AI agents. Evidence that free energy minimization produces emergence without scaling."
+summary: Predictive coding and active inference as pathways to emergent behavior in
+  compact AI agents. Evidence that free energy minimization produces emergence without
+  scaling.
+updated: '2026-04-23'
 ---
 
 # Predictive Coding & Active Inference for Emergent AI

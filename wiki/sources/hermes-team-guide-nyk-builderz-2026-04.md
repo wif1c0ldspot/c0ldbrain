@@ -1,10 +1,22 @@
 ---
-title: "Hermes 4-Profile Team Guide — @nyk_builderz"
-author: "@nyk_builderz (Nyk)"
+title: Hermes 4-Profile Team Guide — @nyk_builderz
+author: '@nyk_builderz (Nyk)'
 date: 2026-04-20
-source: "https://x.com/nyk_builderz/status/2044472463279710344"
-tags: [source, ai-agents, hermes, multi-agent, agent-architecture]
+source: https://x.com/nyk_builderz/status/2044472463279710344
+tags:
+- source
+- ai-agents
+- hermes
+- multi-agent
+- agent-architecture
 type: source
+priority: important
+updated: '2026-04-24'
+created: '2026-04-24'
+confidence: high
+status: current
+summary: Auto-generated placeholder for Hermes 4-Profile Team Guide — @nyk_builderz
+compiled: true
 ---
 
 ## Summary

@@ -1,7 +1,13 @@
 ---
 title: CLAUDE.md Best Practices & Claude Code Automation
 type: concept
-tags: [claude-code, claude-md, karpathy, automation, agent-systems, token-bug]
+tags:
+- claude-code
+- claude-md
+- karpathy
+- automation
+- agent-systems
+- token-bug
 sources:
 - claude-caveman-prompting-strategy-2026-04
 - noisyb0y1-claude-code-thread-2026-04
@@ -11,10 +17,14 @@ created: '2026-04-15'
 updated: '2026-04-15'
 confidence: medium
 status: current
-agents: [claude, codex, cursor, opencode]
-priority: high
-summary: 'Karpathy CLAUDE.md principles, Everything Claude Code agent system (153K+ stars),
-  and Claude Code v2.1.100 token inflation bug. Full automation case study.'
+agents:
+- claude
+- codex
+- cursor
+- opencode
+priority: important
+summary: Karpathy CLAUDE.md principles, Everything Claude Code agent system (153K+
+  stars), and Claude Code v2.1.100 token inflation bug. Full automation case study.
 ---
 
 # CLAUDE.md Best Practices & Claude Code Automation

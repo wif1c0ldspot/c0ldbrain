@@ -1,13 +1,18 @@
 ---
-title: "Memory Firewall"
+title: Memory Firewall
 type: concept
-tags: [ai-security, memory-systems, agent-security, defense-in-depth]
+tags:
+- ai-security
+- memory-systems
+- agent-security
+- defense-in-depth
 created: '2026-04-19'
 updated: '2026-04-19'
 confidence: medium
 status: emerging
-priority: high
-summary: "Defense pattern for agent memory systems — validates, quarantines, and audits memory writes to prevent poisoning attacks."
+priority: important
+summary: Defense pattern for agent memory systems — validates, quarantines, and audits
+  memory writes to prevent poisoning attacks.
 sources:
 - agent-memory-poisoning-security-2026-04
 ---

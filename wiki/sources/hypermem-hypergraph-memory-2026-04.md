@@ -1,13 +1,23 @@
 ---
-title: "HyperMem: Hypergraph Memory for Long-Term Conversations"
+title: 'HyperMem: Hypergraph Memory for Long-Term Conversations'
 type: source
-tags: [brain-inspired-ai, hippocampus-pathway, episodic-memory, hypergraph, hierarchical-memory, acl-2026]
+tags:
+- brain-inspired-ai
+- hippocampus-pathway
+- episodic-memory
+- hypergraph
+- hierarchical-memory
+- acl-2026
 sources: []
 created: '2026-04-20'
 confidence: high
 status: current
 priority: important
-summary: "3-level hierarchical memory (topics→episodes→facts) using hypergraph structure. Captures high-order associations missed by pairwise graph memory. 92.73% accuracy on LoCoMo. ACL 2026 Main."
+summary: 3-level hierarchical memory (topics→episodes→facts) using hypergraph structure.
+  Captures high-order associations missed by pairwise graph memory. 92.73% accuracy
+  on LoCoMo. ACL 2026 Main.
+updated: '2026-04-20'
+compiled: true
 ---
 
 # HyperMem: Hypergraph Memory for Long-Term Conversations

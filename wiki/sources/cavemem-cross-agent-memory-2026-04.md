@@ -1,13 +1,22 @@
 ---
-title: "cavemem — Cross-Agent Persistent Memory for Coding Assistants"
+title: cavemem — Cross-Agent Persistent Memory for Coding Assistants
 type: source
-tags: [memory-systems, context-engineering, agent-memory, caveman-compression, mcp]
+tags:
+- memory-systems
+- context-engineering
+- agent-memory
+- caveman-compression
+- mcp
 created: 2026-04-21
 updated: 2026-04-21
 confidence: high
 status: current
 url: https://github.com/JuliusBrussee/cavemem
 stars: 64
+priority: reference
+summary: Auto-generated placeholder for cavemem — Cross-Agent Persistent Memory for
+  Coding Assistants
+compiled: true
 ---
 
 # cavemem — Cross-Agent Persistent Memory

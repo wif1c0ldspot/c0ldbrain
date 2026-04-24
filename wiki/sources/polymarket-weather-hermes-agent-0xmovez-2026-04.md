@@ -1,10 +1,22 @@
 ---
-title: "Polymarket Weather Hermes Agent 0Xmovez 2026 04"
+title: Polymarket Weather Hermes Agent 0Xmovez 2026 04
 date: 2026-04-20
 type: source
 compiled: true
-tags: ["source", "hermes", "agent", "memory", "trading"]
-source: "raw/social/polymarket-weather-hermes-agent-0xmovez-2026-04.md"
+tags:
+- source
+- hermes
+- agent
+- memory
+- trading
+source: raw/social/polymarket-weather-hermes-agent-0xmovez-2026-04.md
+priority: reference
+updated: '2026-04-24'
+created: '2026-04-24'
+confidence: high
+status: current
+summary: Auto-generated placeholder for Polymarket Weather Hermes Agent 0Xmovez 2026
+  04
 ---
 
 ---

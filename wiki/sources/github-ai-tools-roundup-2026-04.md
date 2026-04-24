@@ -21,6 +21,7 @@ tags:
 title: 10 GitHub Repos Replacing $1,500/month in AI Tools
 type: source
 updated: 2026-04-17
+compiled: true
 ---
 
 

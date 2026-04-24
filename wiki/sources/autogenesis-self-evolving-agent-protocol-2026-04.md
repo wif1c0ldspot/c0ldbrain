@@ -1,13 +1,23 @@
 ---
-title: "Autogenesis: A Self-Evolving Agent Protocol"
+title: 'Autogenesis: A Self-Evolving Agent Protocol'
 type: source
-source_url: "https://arxiv.org/abs/2604.15034"
-author: "Wentao Zhang"
+source_url: https://arxiv.org/abs/2604.15034
+author: Wentao Zhang
 created: '2026-04-16'
 confidence: high
 status: current
-tags: [source, agent-protocols, meta-optimization, self-evolving, arxiv]
-summary: "Autogenesis Protocol (AGP) for self-evolving multi-agent systems - models prompts, agents, tools, environments, and memory as protocol-registered resources with lifecycle management and closed-loop evolution"
+tags:
+- source
+- agent-protocols
+- meta-optimization
+- self-evolving
+- arxiv
+summary: Autogenesis Protocol (AGP) for self-evolving multi-agent systems - models
+  prompts, agents, tools, environments, and memory as protocol-registered resources
+  with lifecycle management and closed-loop evolution
+priority: reference
+updated: '2026-04-16'
+compiled: true
 ---
 
 ## Metadata

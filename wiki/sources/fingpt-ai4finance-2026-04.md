@@ -1,15 +1,26 @@
 ---
-title: "FinGPT: Open-Source Financial Large Language Models"
-author: "AI4Finance-Foundation (Hongyang Yang, Xiao-Yang Liu)"
+title: 'FinGPT: Open-Source Financial Large Language Models'
+author: AI4Finance-Foundation (Hongyang Yang, Xiao-Yang Liu)
 date: 2026-04-24
 type: source
 compiled: true
-tags: [source, financial-llm, sentiment-analysis, LoRA, robo-advisor, open-source, quant-finance]
+tags:
+- source
+- financial-llm
+- sentiment-analysis
+- LoRA
+- robo-advisor
+- open-source
+- quant-finance
 source_url: https://github.com/AI4Finance-Foundation/FinGPT
 confidence: high
 status: current
 priority: important
-summary: "Open-source financial LLM framework. 5-layer architecture. LoRA fine-tuning <$300. Beats GPT-4 on financial sentiment. Forecaster for robo-advisory. 6 papers at IJCAI/NeurIPS/ICAIF/AAAI."
+summary: Open-source financial LLM framework. 5-layer architecture. LoRA fine-tuning
+  <$300. Beats GPT-4 on financial sentiment. Forecaster for robo-advisory. 6 papers
+  at IJCAI/NeurIPS/ICAIF/AAAI.
+updated: '2026-04-24'
+created: '2026-04-24'
 ---
 
 # FinGPT: Open-Source Financial Large Language Models

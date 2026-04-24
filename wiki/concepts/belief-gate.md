@@ -1,13 +1,19 @@
 ---
-title: "Belief Gate"
+title: Belief Gate
 type: concept
-tags: [memory-systems, security, agent-memory, truth-filtering, belief-gate]
+tags:
+- memory-systems
+- security
+- agent-memory
+- truth-filtering
+- belief-gate
 created: 2026-04-21
 updated: 2026-04-21
 confidence: high
 status: current
-priority: high
-summary: "Write-time filter that rejects model-derived claims from durable memory. Only tool-verified, user-confirmed, or repository-derived facts survive."
+priority: important
+summary: Write-time filter that rejects model-derived claims from durable memory.
+  Only tool-verified, user-confirmed, or repository-derived facts survive.
 sources:
 - chum-mem-pckc-2026-04
 - memory-firewall

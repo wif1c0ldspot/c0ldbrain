@@ -16,8 +16,9 @@ status: current
 agents:
 - hermes
 priority: important
-summary: Daniel Miessler's Personal AI Infrastructure — agentic AI system for
-  amplifying human capabilities, 11.2k GitHub stars.
+summary: Daniel Miessler's Personal AI Infrastructure — agentic AI system for amplifying
+  human capabilities, 11.2k GitHub stars.
+compiled: true
 ---
 
 # Personal AI Infrastructure

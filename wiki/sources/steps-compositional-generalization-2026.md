@@ -1,10 +1,20 @@
 ---
-title: "STEPS: Skill Taxonomy Guided Data Synthesis for Compositional Generalization"
+title: 'STEPS: Skill Taxonomy Guided Data Synthesis for Compositional Generalization'
 type: source
-tags: [ai-agents, compositional-generalization, data-synthesis, skill-taxonomy, training]
+tags:
+- ai-agents
+- compositional-generalization
+- data-synthesis
+- skill-taxonomy
+- training
 confidence: high
 status: current
-summary: "Skill taxonomy guided entropy-based post-training data synthesis. Score: 9/10 emergence potential."
+summary: 'Skill taxonomy guided entropy-based post-training data synthesis. Score:
+  9/10 emergence potential.'
+priority: important
+updated: '2026-04-24'
+created: '2026-04-24'
+compiled: true
 ---
 
 # STEPS: Skill Taxonomy Guided Data Synthesis for Compositional Generalization

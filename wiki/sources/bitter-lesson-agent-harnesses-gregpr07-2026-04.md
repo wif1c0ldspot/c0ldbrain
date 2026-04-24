@@ -1,15 +1,25 @@
 ---
-title: "The Bitter Lesson of Agent Harnesses"
-author: "@gregpr07 (Gregor Zunic)"
+title: The Bitter Lesson of Agent Harnesses
+author: '@gregpr07 (Gregor Zunic)'
 date: 2026-04-24
 type: source
 compiled: true
-tags: [source, agent-harness, CDP, browser-automation, bitter-lesson, self-healing]
+tags:
+- source
+- agent-harness
+- CDP
+- browser-automation
+- bitter-lesson
+- self-healing
 source_url: https://x.com/gregpr07/status/2047358189327520166
 confidence: high
 status: current
-priority: high
-summary: "Philosophical follow-up to browser-harness: your tool abstractions are constraints too. Delete them. Give LLMs raw CDP access + ability to edit their own harness. ~600 lines total. Agent writes missing functions mid-task."
+priority: important
+summary: 'Philosophical follow-up to browser-harness: your tool abstractions are constraints
+  too. Delete them. Give LLMs raw CDP access + ability to edit their own harness.
+  ~600 lines total. Agent writes missing functions mid-task.'
+updated: '2026-04-24'
+created: '2026-04-24'
 ---
 
 # The Bitter Lesson of Agent Harnesses

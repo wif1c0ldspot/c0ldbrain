@@ -1,9 +1,18 @@
 ---
-title: "Clearwing Lazarus Ai 2026 04"
+title: Clearwing Lazarus Ai 2026 04
 date: 2026-04-17
 type: source
 compiled: true
-tags: []
+tags:
+- source
+- ai-agents
+- agent-harness
+priority: reference
+updated: '2026-04-24'
+created: '2026-04-24'
+confidence: high
+status: current
+summary: Auto-generated placeholder for Clearwing Lazarus Ai 2026 04
 ---
 
      1|---

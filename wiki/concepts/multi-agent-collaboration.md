@@ -1,13 +1,17 @@
 ---
-title: "Multi Agent Collaboration"
+title: Multi Agent Collaboration
 type: concept
-tags: ['ai-agents', 'multi-agent', 'collaboration']
+tags:
+- ai-agents
+- multi-agent
+- collaboration
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
-status: current
+status: stub
 priority: reference
-summary: "Multi-agent collaboration patterns. See multi-agent-systems for coordination frameworks."
+summary: Multi-agent collaboration patterns. See multi-agent-systems for coordination
+  frameworks.
 ---
 
 # Multi Agent Collaboration

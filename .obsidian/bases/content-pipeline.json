@@ -1,0 +1,48 @@
+{
+  "name": "Content Pipeline",
+  "description": "Track source compilation status",
+  "type": "table",
+  "source": "wiki/sources",
+  "columns": [
+    {
+      "property": "title",
+      "label": "Title",
+      "width": 300
+    },
+    {
+      "property": "compiled",
+      "label": "Compiled",
+      "width": 80
+    },
+    {
+      "property": "confidence",
+      "label": "Confidence",
+      "width": 90
+    },
+    {
+      "property": "priority",
+      "label": "Priority",
+      "width": 90
+    },
+    {
+      "property": "date",
+      "label": "Date",
+      "width": 100
+    },
+    {
+      "property": "author",
+      "label": "Author",
+      "width": 120
+    },
+    {
+      "property": "updated",
+      "label": "Updated",
+      "width": 100
+    }
+  ],
+  "sort": {
+    "property": "date",
+    "direction": "desc"
+  },
+  "groupBy": "compiled"
+}

@@ -1,17 +1,23 @@
 ---
-title: "Agent Memory Poisoning: Security Landscape April 2026"
+title: 'Agent Memory Poisoning: Security Landscape April 2026'
 type: source
-tags: [ai-security, memory-systems, owasp, agent-security]
+tags:
+- ai-security
+- memory-systems
+- owasp
+- agent-security
 created: '2026-04-19'
 updated: '2026-04-19'
 confidence: high
 status: current
-priority: high
-summary: "Memory poisoning is real: MINJA achieves >95% injection success, OWASP publishes ASI06 reference implementation, 'Memory Firewall' pattern emerging."
-source_url: "https://owasp.org/www-project-agent-memory-guard/"
+priority: important
+summary: 'Memory poisoning is real: MINJA achieves >95% injection success, OWASP publishes
+  ASI06 reference implementation, ''Memory Firewall'' pattern emerging.'
+source_url: https://owasp.org/www-project-agent-memory-guard/
 sources:
 - owasp-agent-memory-guard-2026-04
 - memory-firewall-roborhythms-2026-04
+compiled: true
 ---
 
 # Agent Memory Poisoning: Security Landscape April 2026

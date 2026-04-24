@@ -1,13 +1,17 @@
 ---
-title: "Automation"
+title: Automation
 type: concept
-tags: ['ai-agents', 'productivity', 'workflows']
+tags:
+- ai-agents
+- productivity
+- workflows
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
-status: current
+status: stub
 priority: reference
-summary: "AI-driven automation patterns for workflows and processes. See agentic-ai for autonomous agent patterns."
+summary: AI-driven automation patterns for workflows and processes. See agentic-ai
+  for autonomous agent patterns.
 ---
 
 # Automation

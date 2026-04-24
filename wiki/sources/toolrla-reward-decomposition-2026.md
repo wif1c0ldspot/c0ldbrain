@@ -1,10 +1,21 @@
 ---
-title: "ToolRLA: Multiplicative Reward Decomposition for Tool-Integrated Agents"
+title: 'ToolRLA: Multiplicative Reward Decomposition for Tool-Integrated Agents'
 type: source
-tags: [ai-agents, reinforcement-learning, tool-selection, reward-decomposition, grpo, dpo]
+tags:
+- ai-agents
+- reinforcement-learning
+- tool-selection
+- reward-decomposition
+- grpo
+- dpo
 confidence: high
 status: current
-summary: "Three-stage post-training (SFT→GRPO→DPO) with fine-grained multiplicative reward for tool agents. Score: 9/10."
+summary: 'Three-stage post-training (SFT→GRPO→DPO) with fine-grained multiplicative
+  reward for tool agents. Score: 9/10.'
+priority: important
+updated: '2026-04-24'
+created: '2026-04-24'
+compiled: true
 ---
 
 # ToolRLA: Multiplicative Reward Decomposition for Tool-Integrated Agents

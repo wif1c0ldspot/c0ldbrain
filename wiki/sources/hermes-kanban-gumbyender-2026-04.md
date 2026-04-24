@@ -1,7 +1,13 @@
 ---
-title: "Hermes Kanban Bridge — GumbyEnder"
+title: Hermes Kanban Bridge — GumbyEnder
 type: source
-tags: [github, hermes, obsidian, kanban, project-management, productivity]
+tags:
+- github
+- hermes
+- obsidian
+- kanban
+- project-management
+- productivity
 source_url: https://github.com/GumbyEnder/hermes-kanban
 sources: []
 created: '2026-04-23'
@@ -9,7 +15,9 @@ updated: '2026-04-23'
 confidence: high
 status: current
 priority: important
-summary: "Obsidian plugin + 3 Hermes skills — autonomous project execution via Kanban boards. REST API localhost:27124, Markdown fallback, standups, reviews."
+summary: Obsidian plugin + 3 Hermes skills — autonomous project execution via Kanban
+  boards. REST API localhost:27124, Markdown fallback, standups, reviews.
+compiled: true
 ---
 
 # Hermes Kanban Bridge — GumbyEnder/hermes-kanban

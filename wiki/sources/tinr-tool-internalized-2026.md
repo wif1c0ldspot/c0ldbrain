@@ -1,13 +1,19 @@
 ---
-title: "TINR: Tool Knowledge Internalization into Model Parameters"
+title: 'TINR: Tool Knowledge Internalization into Model Parameters'
 type: source
-tags: ['arxiv', 'tool-use', 'knowledge-distillation', 'ai-agents']
+tags:
+- arxiv
+- tool-use
+- knowledge-distillation
+- ai-agents
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
 status: current
 priority: reference
-summary: "Internalizing tool knowledge into model parameters. Scored 8/10 in RL for tool selection research."
+summary: Internalizing tool knowledge into model parameters. Scored 8/10 in RL for
+  tool selection research.
+compiled: true
 ---
 
 # TINR: Tool Knowledge Internalization into Model Parameters

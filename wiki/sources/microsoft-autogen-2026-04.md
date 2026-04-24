@@ -16,8 +16,9 @@ status: current
 agents:
 - hermes
 priority: important
-summary: Microsoft AutoGen — programming framework for building agentic AI systems with
-  multi-agent conversations, 56.9k GitHub stars.
+summary: Microsoft AutoGen — programming framework for building agentic AI systems
+  with multi-agent conversations, 56.9k GitHub stars.
+compiled: true
 ---
 
 # Microsoft AutoGen

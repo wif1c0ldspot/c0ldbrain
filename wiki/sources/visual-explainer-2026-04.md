@@ -15,6 +15,7 @@ tags:
 title: visual-explainer - Claude Code Visualization Skill
 type: source
 updated: '2026-04-07'
+compiled: true
 ---
 
 

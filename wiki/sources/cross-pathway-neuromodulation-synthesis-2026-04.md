@@ -1,13 +1,25 @@
 ---
-title: "Cross-Pathway Integration & Neuromodulation — Synthesis"
+title: Cross-Pathway Integration & Neuromodulation — Synthesis
 type: source
-tags: [neuroscience, neuromodulation, agent-architecture, emergence, cross-pathway, emotional-modulation, critical-periods]
-sources: [arxiv-search-2026-04-24]
+tags:
+- neuroscience
+- neuromodulation
+- agent-architecture
+- emergence
+- cross-pathway
+- emotional-modulation
+- critical-periods
+sources:
+- arxiv-search-2026-04-24
 created: '2026-04-24'
 updated: '2026-04-24'
 confidence: high
 status: current
-summary: "Day 5 research synthesis on cross-pathway integration — neuromodulatory mechanisms in deep learning, emotional modulation, developmental stages, and multi-module coordination architectures. 35 papers reviewed, 10 high-potential mechanisms scored."
+summary: Day 5 research synthesis on cross-pathway integration — neuromodulatory mechanisms
+  in deep learning, emotional modulation, developmental stages, and multi-module coordination
+  architectures. 35 papers reviewed, 10 high-potential mechanisms scored.
+priority: important
+compiled: true
 ---
 
 # Cross-Pathway Integration & Neuromodulation — Synthesis

@@ -1,17 +1,27 @@
 ---
-title: "Agent Skills — Addy Osmani's Production-Grade Engineering Skills for AI Coding Agents"
+title: Agent Skills — Addy Osmani's Production-Grade Engineering Skills for AI Coding
+  Agents
 type: source
-author: "@addyosmani (Google Chrome team)"
+author: '@addyosmani (Google Chrome team)'
 date: 2026-04-21
-source: "https://github.com/addyosmani/agent-skills"
+source: https://github.com/addyosmani/agent-skills
 stars: 17k+
 updated: '2026-04-21'
 created: '2026-04-16'
 confidence: high
 status: current
-priority: high
-tags: [ai-coding-agents, developer-tools, skill-systems, engineering-practices, google-swe]
-summary: "20 production-grade skills for AI coding agents, organized by development lifecycle (Define→Plan→Build→Verify→Review→Ship). Encodes Google SWE practices — Hyrum's Law, Beyonce Rule, test pyramid, trunk-based dev. Works with Claude Code, Cursor, Gemini CLI, Windsurf, Copilot."
+priority: important
+tags:
+- ai-coding-agents
+- developer-tools
+- skill-systems
+- engineering-practices
+- google-swe
+summary: 20 production-grade skills for AI coding agents, organized by development
+  lifecycle (Define→Plan→Build→Verify→Review→Ship). Encodes Google SWE practices —
+  Hyrum's Law, Beyonce Rule, test pyramid, trunk-based dev. Works with Claude Code,
+  Cursor, Gemini CLI, Windsurf, Copilot.
+compiled: true
 ---
 
 ## Summary

@@ -18,6 +18,7 @@ agents:
 priority: important
 summary: ActivePieces — open-source AI agent workflow automation with 400+ MCP server
   integrations, 21.6k GitHub stars.
+compiled: true
 ---
 
 # ActivePieces

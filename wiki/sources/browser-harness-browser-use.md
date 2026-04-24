@@ -1,10 +1,20 @@
 ---
-title: "Browser Harness"
+title: Browser Harness
 date: 2026-04-20
 type: source
 compiled: true
-tags: ["source", "hermes", "agent", "browser-automation"]
-source: "raw/github/browser-harness-browser-use.md"
+tags:
+- source
+- hermes
+- agent
+- browser-automation
+source: raw/github/browser-harness-browser-use.md
+priority: reference
+updated: '2026-04-24'
+created: '2026-04-24'
+confidence: high
+status: current
+summary: Auto-generated placeholder for Browser Harness
 ---
 
 ---

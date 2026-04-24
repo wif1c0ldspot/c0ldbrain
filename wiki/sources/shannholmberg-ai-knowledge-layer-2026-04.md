@@ -20,6 +20,7 @@ tags:
 title: AI Knowledge Layer (and why your agents are useless without it)
 type: source
 updated: 2026-04-17
+compiled: true
 ---
 
 

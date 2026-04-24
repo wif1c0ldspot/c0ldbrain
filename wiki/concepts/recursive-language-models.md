@@ -1,13 +1,23 @@
 ---
-title: "Recursive Language Models (RLMs)"
+title: Recursive Language Models (RLMs)
 type: concept
-tags: [rlm, recursive-language-models, reasoning, test-time-compute, inference-scaling, dspy, long-context, benchmarks]
+tags:
+- rlm
+- recursive-language-models
+- reasoning
+- test-time-compute
+- inference-scaling
+- dspy
+- long-context
+- benchmarks
 created: '2026-04-21'
 updated: '2026-04-21'
 confidence: high
 status: current
-priority: high
-summary: "Inference paradigm where LM treats its prompt as an environment to inspect, slice, and recursively query. Collapses reasoning + tool use into one abstraction. Processes 100× beyond context window. Small models + RLM compete with frontier LLMs."
+priority: important
+summary: Inference paradigm where LM treats its prompt as an environment to inspect,
+  slice, and recursively query. Collapses reasoning + tool use into one abstraction.
+  Processes 100× beyond context window. Small models + RLM compete with frontier LLMs.
 sources:
 - rlms-new-reasoning-models-rawworks-2026-04
 - recursive-language-models-rlm-2026

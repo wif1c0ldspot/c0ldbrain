@@ -1,13 +1,19 @@
 ---
-title: "DECO: Decomposed Convolution for Zero-Shot Composition"
+title: 'DECO: Decomposed Convolution for Zero-Shot Composition'
 type: source
-tags: ['arxiv', 'skill-composition', 'zero-shot', 'ai-agents']
+tags:
+- arxiv
+- skill-composition
+- zero-shot
+- ai-agents
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
 status: current
 priority: reference
-summary: "Model-agnostic zero-shot composition from atomic decomposition. Scored 8/10 in skill composition research."
+summary: Model-agnostic zero-shot composition from atomic decomposition. Scored 8/10
+  in skill composition research.
+compiled: true
 ---
 
 # DECO: Decomposed Convolution for Zero-Shot Composition

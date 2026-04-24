@@ -1,16 +1,25 @@
 ---
-title: "Learning Long-Range Dependencies with Temporal Predictive Coding"
+title: Learning Long-Range Dependencies with Temporal Predictive Coding
 type: source
-tags: [predictive-coding, temporal, rnn, neuromorphic, brain-inspired]
-authors: [Tom Potter, Oliver Rhodes]
+tags:
+- predictive-coding
+- temporal
+- rnn
+- neuromorphic
+- brain-inspired
+authors:
+- Tom Potter
+- Oliver Rhodes
 created: '2026-04-19'
 updated: '2026-04-19'
 confidence: high
 status: current
 priority: important
-arxiv: "2602.18131"
-url: "https://arxiv.org/abs/2602.18131"
-summary: "Temporal predictive coding matches BPTT on machine translation with a 15M parameter model — first application of tPC at this scale."
+arxiv: '2602.18131'
+url: https://arxiv.org/abs/2602.18131
+summary: Temporal predictive coding matches BPTT on machine translation with a 15M
+  parameter model — first application of tPC at this scale.
+compiled: true
 ---
 
 # Learning Long-Range Dependencies with Temporal Predictive Coding

@@ -1,13 +1,17 @@
 ---
-title: "Brand Foundation"
+title: Brand Foundation
 type: concept
-tags: ['knowledge-management', 'branding', 'strategy']
+tags:
+- knowledge-management
+- branding
+- strategy
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
-status: current
+status: stub
 priority: reference
-summary: "Static brand knowledge layer for AI content systems. See knowledge-layer for two-layer architecture."
+summary: Static brand knowledge layer for AI content systems. See knowledge-layer
+  for two-layer architecture.
 ---
 
 # Brand Foundation

@@ -1,13 +1,17 @@
 ---
-title: "Quantized Model Optimization"
+title: Quantized Model Optimization
 type: concept
-tags: ['ml-models', 'quantization', 'local-models']
+tags:
+- ml-models
+- quantization
+- local-models
 created: '2026-04-23'
 updated: '2026-04-23'
 confidence: medium
-status: current
+status: stub
 priority: reference
-summary: "Optimization techniques for quantized models. See quantization-techniques and emergence-in-quantized-models."
+summary: Optimization techniques for quantized models. See quantization-techniques
+  and emergence-in-quantized-models.
 ---
 
 # Quantized Model Optimization

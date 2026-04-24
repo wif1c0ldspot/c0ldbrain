@@ -1,13 +1,19 @@
 ---
 title: Cloudflare Agent Memory
 type: concept
-tags: [agent-memory, context-engineering, cloudflare, infrastructure, camp-2]
+tags:
+- agent-memory
+- context-engineering
+- cloudflare
+- infrastructure
+- camp-2
 created: 2026-04-22
 updated: 2026-04-22
 confidence: high
 status: current
-priority: high
-summary: "Cloudflare's managed Agent Memory service — infrastructure-grade memory with multi-channel retrieval, compaction lifecycle, and SOC 2 Type 2 certification"
+priority: important
+summary: Cloudflare's managed Agent Memory service — infrastructure-grade memory with
+  multi-channel retrieval, compaction lifecycle, and SOC 2 Type 2 certification
 ---
 
 # Cloudflare Agent Memory

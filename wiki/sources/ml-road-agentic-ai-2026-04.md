@@ -15,9 +15,10 @@ confidence: high
 status: current
 agents:
 - hermes
-priority: medium
-summary: ML Road — curated machine learning and agentic AI resources, practice
-  guides, and research, 4.7k GitHub stars.
+priority: important
+summary: ML Road — curated machine learning and agentic AI resources, practice guides,
+  and research, 4.7k GitHub stars.
+compiled: true
 ---
 
 # ML Road

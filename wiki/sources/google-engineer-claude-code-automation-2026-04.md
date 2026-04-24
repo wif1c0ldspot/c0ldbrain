@@ -2,7 +2,7 @@
 compiled: 2026-04-15
 confidence: medium
 created: '2026-04-16'
-priority: 2
+priority: important
 source_url: https://x.com/noisyb0y1/status/2043609541477044439
 status: current
 summary: Google engineer (11yr exp) automated 80% of work using Claude Code, reducing

@@ -1,16 +1,23 @@
 ---
-title: "SimpleMem: Efficient Lifelong Memory for LLM Agents"
+title: 'SimpleMem: Efficient Lifelong Memory for LLM Agents'
 type: source
-tags: [memory-systems, tools, mcp, github, open-source]
+tags:
+- memory-systems
+- tools
+- mcp
+- github
+- open-source
 created: '2026-04-19'
 updated: '2026-04-19'
 confidence: high
 status: current
-priority: medium
-summary: "SimpleMem — efficient lifelong memory framework with MCP server. 3,259 stars. Text + multimodal (Omni-SimpleMem). Cloud-hosted at mcp.simplemem.cloud."
-source_url: "https://github.com/aiming-lab/SimpleMem"
+priority: important
+summary: SimpleMem — efficient lifelong memory framework with MCP server. 3,259 stars.
+  Text + multimodal (Omni-SimpleMem). Cloud-hosted at mcp.simplemem.cloud.
+source_url: https://github.com/aiming-lab/SimpleMem
 sources:
 - simplemem-github-2026-04
+compiled: true
 ---
 
 # SimpleMem: Efficient Lifelong Memory for LLM Agents
