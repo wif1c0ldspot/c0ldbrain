@@ -1,0 +1,837 @@
+{
+  "version": 1,
+  "updated": "2026-04-23",
+  "sources": {
+    "langflow-claude-code-integration": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-17",
+      "confidence": "high",
+      "last_linted": "2026-04-17"
+    },
+    "prompt-injection-comprehensive-2026": {
+      "type": "concept",
+      "status": "compiled",
+      "ingested_at": "2026-04-08",
+      "source": "Synthesis of 9 research sources",
+      "compiled_at": "2026-04-08",
+      "source_page": "wiki/concepts/prompt-injection-comprehensive-2026.md",
+      "concept_pages_created": [],
+      "confidence": "high",
+      "last_linted": null,
+      "next_review": "2026-10-08"
+    },
+    "wiki/concepts/ai-compliance-frameworks": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/continuous-red-teaming": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/defense-in-depth-llm": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/llm-supply-chain-attacks": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/llm-vulnerability-scanners": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/multimodal-ai-security": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/rag-security": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/owasp-top-10-for-llm": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/agent-meta-optimization": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/ai-coding-agents": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/career-ops": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/code-review-graph": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/coral-multi-agent-discovery": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/deep-team-red-teaming": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/hermes-agent-architecture": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/karpathy-llm-wiki-agent": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/llm-knowledge-bases": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/mcp-protocol": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/memory-systems": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/open-source-ai-infra": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/prompt-injection-comprehensive-2026": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/prompt-injection-defense-tools": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/quantitative-trading": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/skill-registry": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/token-optimization": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/visual-explainer": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/prompt-injection-attack-vectors": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/prompt-injection-defense-guide": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/prompt-injection-testing-tools": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/prompt-injection-incidents": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-10",
+      "confidence": "high",
+      "last_linted": "2026-04-10"
+    },
+    "wiki/concepts/local-llm-infrastructure": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-15",
+      "confidence": "high",
+      "last_linted": null
+    },
+    "wiki/concepts/claude-md-best-practices": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-15",
+      "confidence": "high",
+      "last_linted": null
+    },
+    "wiki/concepts/agentic-ai": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-15",
+      "confidence": "high",
+      "last_linted": null
+    },
+    "wiki/concepts/voice-ai": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-15",
+      "confidence": "high",
+      "last_linted": null
+    },
+    "wiki/concepts/vectorless-rag": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-15",
+      "confidence": "high",
+      "last_linted": null
+    },
+    "wiki/concepts/agent-cli-tools": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-15",
+      "confidence": "high",
+      "last_linted": null
+    },
+    "ai-security-handbook-2026": {
+      "type": "synthesis",
+      "status": "compiled",
+      "compiled_at": "2026-04-11",
+      "confidence": "high",
+      "merged_concepts": 15
+    },
+    "ai-agents-handbook-2026": {
+      "type": "synthesis",
+      "status": "compiled",
+      "compiled_at": "2026-04-11",
+      "confidence": "high",
+      "merged_concepts": 12
+    },
+    "knowledge-management-handbook-2026": {
+      "type": "synthesis",
+      "status": "compiled",
+      "compiled_at": "2026-04-14",
+      "confidence": "high",
+      "merged_concepts": 4
+    },
+    "resolvers-garrytan-2026-04": {
+      "type": "source",
+      "status": "compiled",
+      "ingested_at": "2026-04-16",
+      "source": "https://x.com/garrytan/status/2044479509874020852",
+      "fetched_at": "2026-04-16",
+      "compiled_at": "2026-04-17",
+      "source_page": "wiki/sources/resolvers-garrytan-2026-04.md",
+      "concept_pages_created": [
+        "resolvers"
+      ],
+      "confidence": "high",
+      "last_linted": null,
+      "next_review": "2026-10-17"
+    },
+    "magika-google": {
+      "type": "github",
+      "status": "compiled",
+      "ingested_at": "2026-04-18",
+      "source": "https://github.com/google/magika",
+      "fetched_at": "2026-04-18",
+      "source_page": "wiki/sources/magika-google-2026-04.md",
+      "confidence": "high",
+      "priority": "high",
+      "compiled_at": "2026-04-19"
+    },
+    "clearwing-lazarus-ai": {
+      "type": "github",
+      "status": "compiled",
+      "ingested_at": "2026-04-18",
+      "source": "https://github.com/Lazarus-AI/clearwing",
+      "fetched_at": "2026-04-18",
+      "source_page": "wiki/sources/clearwing-lazarus-ai-2026-04.md",
+      "confidence": "high",
+      "priority": "high",
+      "compiled_at": "2026-04-19"
+    },
+    "browser-harness-browser-use": {
+      "type": "source",
+      "status": "compiled",
+      "ingested_at": "2026-04-18",
+      "source": "https://github.com/browser-use/browser-harness",
+      "fetched_at": "2026-04-18",
+      "source_page": "raw/github/browser-harness-browser-use.md",
+      "confidence": "high",
+      "priority": "high",
+      "compiled_at": "2026-04-20"
+    },
+    "claude-code-agent-design-space-arxiv-2026-04": {
+      "type": "synthesis",
+      "status": "compiled",
+      "ingested_at": "2026-04-18",
+      "source": "arXiv synthesis (6 papers)",
+      "fetched_at": "2026-04-18",
+      "source_page": "wiki/sources/claude-code-agent-design-space-arxiv-2026-04.md",
+      "confidence": "high",
+      "priority": "high",
+      "compiled_at": "2026-04-19"
+    },
+    "thealexker-harness-optimization-guide-2026-04": {
+      "type": "social",
+      "status": "compiled",
+      "ingested_at": "2026-04-18",
+      "source": "https://x.com/thealexker/status/2045203785304232162",
+      "fetched_at": "2026-04-18",
+      "source_page": "wiki/sources/thealexker-harness-optimization-guide-2026-04.md",
+      "confidence": "high",
+      "priority": "high",
+      "compiled_at": "2026-04-19"
+    },
+    "0xricker-markov-chain-quant-trading": {
+      "type": "social",
+      "status": "compiled",
+      "ingested_at": "2026-04-18",
+      "source": "https://x.com/0xricker/status/2044722741706678282",
+      "fetched_at": "2026-04-18",
+      "source_page": "wiki/sources/0xricker-markov-chain-quant-trading-2026-04.md",
+      "confidence": "high",
+      "priority": "high",
+      "compiled_at": "2026-04-19"
+    },
+    "anthropic-harness-design-long-running-apps": {
+      "type": "article",
+      "status": "compiled",
+      "ingested_at": "2026-04-18",
+      "source": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
+      "fetched_at": "2026-04-18",
+      "source_page": "wiki/sources/anthropic-harness-design-long-running-apps.md",
+      "confidence": "high",
+      "priority": "high",
+      "compiled_at": "2026-04-19"
+    },
+    "rohit4verse-claude-code-architecture-2026-04": {
+      "type": "social",
+      "status": "compiled",
+      "ingested_at": "2026-04-17",
+      "source": "https://x.com/rohit4verse/status/2041548810804211936",
+      "compiled_at": "2026-04-17",
+      "source_page": "wiki/sources/rohit4verse-claude-code-architecture-2026-04.md",
+      "concept_pages_created": [
+        "claude-code"
+      ],
+      "confidence": "high",
+      "last_linted": null,
+      "next_review": "2026-10-17"
+    },
+    "shannholmberg-ai-knowledge-layer-2026-04": {
+      "type": "source",
+      "status": "compiled",
+      "ingested_at": "2026-04-17",
+      "source": "https://x.com/shannholmberg/status/2044111115878326444",
+      "compiled_at": "2026-04-17",
+      "source_page": "wiki/sources/shannholmberg-ai-knowledge-layer-2026-04.md",
+      "concept_pages_created": [
+        "knowledge-layer"
+      ],
+      "confidence": "high",
+      "last_linted": null,
+      "next_review": "2026-10-17"
+    },
+    "wiki/concepts/knowledge-layer": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-17",
+      "confidence": "high",
+      "last_linted": null
+    },
+    "wiki/concepts/agent-evolution-stages": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-17",
+      "confidence": "medium",
+      "last_linted": null
+    },
+    "wiki/concepts/brain-inspired-agent-architecture": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-17",
+      "confidence": "medium",
+      "last_linted": null
+    },
+    "github-ai-tools-roundup-2026-04": {
+      "type": "source",
+      "status": "compiled",
+      "ingested_at": "2026-04-17",
+      "source": "https://x.com/seelffff/status/2044868944830644317",
+      "compiled_at": "2026-04-17",
+      "source_page": "wiki/sources/github-ai-tools-roundup-2026-04.md",
+      "concept_pages_created": [],
+      "confidence": "high",
+      "last_linted": null,
+      "next_review": "2026-10-17"
+    },
+    "github-agent-repos-roundup-gittrend-2026-04": {
+      "type": "source",
+      "status": "compiled",
+      "ingested_at": "2026-04-17",
+      "source": "https://x.com/gittrend0x/status/2044955606906470620",
+      "compiled_at": "2026-04-17",
+      "source_page": "wiki/sources/github-agent-repos-roundup-gittrend-2026-04.md",
+      "concept_pages_created": [],
+      "confidence": "high",
+      "last_linted": null,
+      "next_review": "2026-10-17"
+    },
+    "gstack-garrytan-2026-04": {
+      "type": "source",
+      "status": "compiled",
+      "ingested_at": "2026-04-17",
+      "source": "https://github.com/garrytan/gstack",
+      "compiled_at": "2026-04-17",
+      "source_page": "wiki/sources/gstack-garrytan-2026-04.md",
+      "concept_pages_created": [
+        "confusion-protocol"
+      ],
+      "confidence": "high",
+      "last_linted": null,
+      "next_review": "2026-10-17"
+    },
+    "wiki/concepts/confusion-protocol": {
+      "type": "concept",
+      "status": "compiled",
+      "compiled_at": "2026-04-17",
+      "confidence": "high",
+      "last_linted": null
+    },
+    "daily-research-2026-04-17": {
+      "type": "research",
+      "status": "compiled",
+      "ingested_at": "2026-04-17",
+      "source": "Daily research compilation",
+      "raw_path": "raw/daily-research/2026-04-17-research.md",
+      "compiled_at": "2026-04-18",
+      "source_pages_created": [
+        "wiki/sources/daily-research-agentic-memory-2026-04-17.md"
+      ]
+    },
+    "weekly-synthesis-2026-04-17": {
+      "type": "synthesis",
+      "status": "compiled",
+      "ingested_at": "2026-04-17",
+      "source": "Weekly synthesis notes",
+      "raw_path": "raw/syntheses/weekly-synthesis.md",
+      "compiled_at": "2026-04-18",
+      "source_pages_created": [
+        "wiki/sources/weekly-synthesis-async-subagent-2026-04-17.md"
+      ]
+    },
+    "arxiv-active-inference-papers-2026-03": {
+      "type": "source",
+      "status": "compiled",
+      "ingested_at": "2026-04-18",
+      "source": "arXiv papers on Active Inference and Predictive Coding (March 2026)",
+      "source_url": "https://arxiv.org/abs/2603.20927",
+      "compiled_at": "2026-04-18",
+      "source_pages_created": [
+        "wiki/sources/arxiv-active-inference-papers-2026-03.md"
+      ],
+      "confidence": "high",
+      "emergence_scores": {
+        "active-inference-physical-agents": 9.0,
+        "variational-latent-equilibrium": 8.0
+      }
+    },
+    "active-inference-free-energy-principle": {
+      "type": "concept",
+      "status": "compiled",
+      "ingested_at": "2026-04-18",
+      "source": "Research synthesis: Active Inference framework for brain-inspired agents",
+      "compiled_at": "2026-04-18",
+      "concept_pages_created": [
+        "wiki/concepts/active-inference-free-energy-principle.md"
+      ],
+      "confidence": "high",
+      "related_pathway": "pathway-4-predictive-coding",
+      "implementation_ready": true
+    },
+    "emergence-tracking": {
+      "type": "research",
+      "status": "compiled",
+      "ingested_at": "2026-04-18",
+      "source": "Emergence tracking log for brain-inspired AI research",
+      "compiled_at": "2026-04-18",
+      "source_pages_created": [
+        "wiki/research/emergence-tracking.md"
+      ]
+    },
+    "agent-memory-two-camps-witcheer-2026-04": {
+      "type": "source",
+      "status": "compiled",
+      "compiled_at": "2026-04-19",
+      "source_page": "wiki/sources/agent-memory-two-camps-witcheer-2026-04.md"
+    },
+    "commoncrawl-backlinks-retlehs-2026-04": {
+      "status": "compiled",
+      "compiled_at": "2026-04-20",
+      "type": "source"
+    },
+    "company-brain-vs-connectors-contextconor-2026-04": {
+      "status": "compiled",
+      "compiled_at": "2026-04-20",
+      "type": "source"
+    },
+    "hermes-ecosystem-nftcps-2026-04": {
+      "status": "compiled",
+      "compiled_at": "2026-04-20",
+      "type": "source"
+    },
+    "hermes-team-guide-nyk-builderz-2026-04": {
+      "status": "compiled",
+      "compiled_at": "2026-04-20",
+      "type": "source"
+    },
+    "llm-wiki-vs-notebooklm-artemxtech-2026-04": {
+      "status": "compiled",
+      "compiled_at": "2026-04-20",
+      "type": "source"
+    },
+    "multica-agent-memory-mem0ai-2026-04": {
+      "status": "compiled",
+      "compiled_at": "2026-04-20",
+      "type": "source"
+    },
+    "gbrain-garrytan-ayi-ainotes-2026-04": {
+      "status": "compiled",
+      "compiled_at": "2026-04-20",
+      "type": "source"
+    },
+    "polymarket-weather-hermes-agent-0xmovez-2026-04": {
+      "status": "compiled",
+      "compiled_at": "2026-04-20",
+      "type": "source"
+    },
+    "2026-04-19-research": {
+      "status": "compiled",
+      "compiled_at": "2026-04-20",
+      "type": "source"
+    },
+    "2026-04-20-research": {
+      "status": "compiled",
+      "compiled_at": "2026-04-20",
+      "type": "source"
+    },
+    "weekly-synthesis-2026-04-20": {
+      "status": "compiled",
+      "compiled_at": "2026-04-20",
+      "type": "source"
+    },
+    "social/agent-skills-osmani-github-2026-04": {
+      "status": "compiled",
+      "compiled_at": "2026-04-22",
+      "source_url": "https://github.com/addyosmani/agent-skills"
+    },
+    "social/rlms-new-reasoning-models-rawworks-2026-04": {
+      "status": "compiled",
+      "compiled_at": "2026-04-22"
+    },
+    "social/multica-kimi-k26-agent-teams-multicaai-2026-04": {
+      "status": "compiled",
+      "compiled_at": "2026-04-22"
+    },
+    "social/paperclip-hermes-solo-ai-company-juliangoldieseo-2026-04": {
+      "status": "compiled",
+      "compiled_at": "2026-04-22"
+    },
+    "daily-research/2026-04-21-research": {
+      "status": "compiled",
+      "compiled_at": "2026-04-22"
+    },
+    "2026-04-21-research": {
+      "type": "daily-research",
+      "status": "compiled",
+      "ingested_at": "2026-04-22",
+      "compiled_at": "2026-04-22",
+      "confidence": "medium",
+      "last_linted": null,
+      "note": "Found compiled but untracked in MANIFEST"
+    },
+    "design-md-google-labs-2026-04": {
+      "type": "github",
+      "status": "compiled",
+      "ingested_at": "2026-04-22",
+      "compiled_at": "2026-04-22",
+      "confidence": "medium",
+      "last_linted": null,
+      "note": "Found compiled but untracked in MANIFEST"
+    },
+    "honcho-hermes-lcm-stack-bayendor-2026-04": {
+      "type": "social",
+      "status": "compiled",
+      "ingested_at": "2026-04-22",
+      "compiled_at": "2026-04-22",
+      "confidence": "medium",
+      "last_linted": null,
+      "note": "Found compiled but untracked in MANIFEST"
+    },
+    "multica-kimi-k26-agent-teams-multicaai-2026-04": {
+      "type": "social",
+      "status": "compiled",
+      "ingested_at": "2026-04-22",
+      "compiled_at": "2026-04-22",
+      "confidence": "medium",
+      "last_linted": null,
+      "note": "Found compiled but untracked in MANIFEST"
+    },
+    "paperclip-hermes-solo-ai-company-juliangoldieseo-2026-04": {
+      "type": "social",
+      "status": "compiled",
+      "ingested_at": "2026-04-22",
+      "compiled_at": "2026-04-22",
+      "confidence": "medium",
+      "last_linted": null,
+      "note": "Found compiled but untracked in MANIFEST"
+    },
+    "rlms-new-reasoning-models-rawworks-2026-04": {
+      "type": "social",
+      "status": "compiled",
+      "ingested_at": "2026-04-22",
+      "compiled_at": "2026-04-22",
+      "confidence": "medium",
+      "last_linted": null,
+      "note": "Found compiled but untracked in MANIFEST"
+    },
+    "building-agents-mcp-production": {
+      "type": "article",
+      "status": "compiled",
+      "ingested_at": "2026-04-23",
+      "source": "https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp",
+      "fetched_at": "2026-04-23",
+      "source_page": "raw/articles/building-agents-mcp-production.md",
+      "confidence": "high",
+      "priority": "high",
+      "compiled_at": "2026-04-24",
+      "next_review": "2026-10-23"
+    },
+    "coral-human-agent-society-2026-04": {
+      "type": "github",
+      "status": "compiled",
+      "ingested_at": "2026-04-23",
+      "compiled_at": "2026-04-24"
+    },
+    "hermes-kanban-gumbyender-2026-04": {
+      "type": "github",
+      "status": "compiled",
+      "ingested_at": "2026-04-23",
+      "compiled_at": "2026-04-24"
+    },
+    "openchronicle-einsia-2026-04": {
+      "type": "github",
+      "status": "compiled",
+      "ingested_at": "2026-04-23",
+      "compiled_at": "2026-04-24"
+    },
+    "skill-graphs-shivsakhuja-2026-04": {
+      "type": "social",
+      "status": "compiled",
+      "ingested_at": "2026-04-23",
+      "compiled_at": "2026-04-24"
+    }
+  },
+  "concept_count": 2,
+  "synthesis_count": 3,
+  "research_log_entries": 1,
+  "last_compile": "2026-04-23",
+  "entries": [
+    {
+      "path": "wiki/sources/cavemem-cross-agent-memory-2026-04.md",
+      "type": "source",
+      "tags": [
+        "memory-systems",
+        "context-engineering",
+        "agent-memory",
+        "caveman-compression",
+        "mcp"
+      ],
+      "created": "2026-04-21",
+      "status": "compiled"
+    },
+    {
+      "path": "wiki/sources/chum-mem-pckc-2026-04.md",
+      "type": "source",
+      "tags": [
+        "memory-systems",
+        "knowledge-graphs",
+        "agent-memory",
+        "pckc",
+        "claim-based-memory"
+      ],
+      "created": "2026-04-21",
+      "status": "compiled"
+    },
+    {
+      "path": "wiki/sources/pomclaw-enterprise-agent-2026-04.md",
+      "type": "source",
+      "tags": [
+        "agent-infrastructure",
+        "distributed-memory",
+        "openclaw",
+        "enterprise-agent"
+      ],
+      "created": "2026-04-21",
+      "status": "compiled"
+    },
+    {
+      "path": "wiki/sources/mem0-v2-0-redesign-2026-04.md",
+      "type": "source",
+      "tags": [
+        "memory-systems",
+        "mem0",
+        "agent-memory",
+        "sdk"
+      ],
+      "created": "2026-04-21",
+      "status": "compiled"
+    },
+    {
+      "path": "wiki/sources/mistake-notebook-learning-acl-2026.md",
+      "type": "source",
+      "tags": [
+        "memory-systems",
+        "learning-from-mistakes",
+        "agent-memory",
+        "acl-2026"
+      ],
+      "created": "2026-04-21",
+      "status": "compiled"
+    },
+    {
+      "path": "wiki/concepts/claim-based-memory.md",
+      "type": "concept",
+      "tags": [
+        "memory-systems",
+        "knowledge-graphs",
+        "agent-memory",
+        "claim-based",
+        "pckc"
+      ],
+      "created": "2026-04-21",
+      "status": "compiled"
+    },
+    {
+      "path": "wiki/concepts/belief-gate.md",
+      "type": "concept",
+      "tags": [
+        "memory-systems",
+        "security",
+        "agent-memory",
+        "truth-filtering",
+        "belief-gate"
+      ],
+      "created": "2026-04-21",
+      "status": "compiled"
+    },
+    {
+      "path": "wiki/sources/2026-04-21-research.md",
+      "type": "source",
+      "tags": [
+        "agentic-memory",
+        "daily-research"
+      ],
+      "created": "2026-04-21",
+      "status": "compiled"
+    },
+    {
+      "path": "raw/articles/building-agents-mcp-production.md",
+      "type": "article",
+      "tags": [
+        "agents",
+        "mcp",
+        "production",
+        "claude",
+        "anthropic",
+        "agent-infrastructure"
+      ],
+      "created": "2026-04-23",
+      "status": "uncompiled"
+    }
+  ],
+  "last_updated": "2026-04-23",
+  "source_count": 7
+}

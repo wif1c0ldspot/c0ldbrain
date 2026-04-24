@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "5aa77b1b753a3ed7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c29e720c17c51c7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8f3c67950101d3c",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6aabfacef3c2fe4",
+    "type": "split",
+    "children": [
+      {
+        "id": "507466ee81007409",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f2969ab5b31b694",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "34e69a85360cf552",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bda5d2bc4e3b63d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 376.5
+  },
+  "right": {
+    "id": "d787e09dc68382a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "16de6f837fee9172",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05c1ba3d6e8c0358",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/concepts/career-ops.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for career-ops"
+            }
+          },
+          {
+            "id": "d61ee6ade719197c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/concepts/career-ops.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from career-ops"
+            }
+          },
+          {
+            "id": "a3501214b67245e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7e7143d006011b4a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "cd2f67564bcb88af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/concepts/career-ops.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of career-ops"
+            }
+          },
+          {
+            "id": "d52a359957c91cdf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f8f3c67950101d3c",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "ABOUT.md",
+    "wiki/concepts/financial-llms.md",
+    "wiki/sources/fingpt-ai4finance-2026-04.md",
+    "raw/github/fingpt-ai4finance-2026-04.md",
+    "wiki/MANIFEST.md",
+    "wiki/sources/harness-engineering-trae-ai-2026-04.md",
+    "raw/social/harness-engineering-trae-ai-2026-04.md",
+    "wiki/concepts/context-substrate.md",
+    "wiki/concepts/memory-systems.md",
+    "wiki/research/emergence-tracking.md",
+    "wiki/synthesis/ai-agents-handbook-2026.md",
+    "raw/social/bitter-lesson-agent-harnesses-gregpr07-2026-04.md",
+    "wiki/sources/bitter-lesson-agent-harnesses-gregpr07-2026-04.md",
+    "outputs/digest/2026-04-24.md",
+    "wiki/sources/building-agents-mcp-production.md",
+    "wiki/sources/cross-pathway-neuromodulation-synthesis-2026-04.md",
+    "wiki/sources/coral-human-agent-society-2026-04.md",
+    "raw/github/coral-human-agent-society-2026-04.md",
+    "wiki/sources/hermes-kanban-gumbyender-2026-04.md",
+    "wiki/concepts/hermes-kanban-bridge.md",
+    "raw/github/hermes-kanban-gumbyender-2026-04.md",
+    "wiki/concepts/openchronicle.md",
+    "wiki/sources/openchronicle-einsia-2026-04.md",
+    "raw/github/openchronicle-einsia-2026-04.md",
+    "raw/articles/building-agents-mcp-production.md",
+    "wiki/plans",
+    "Personal/Joel_Chua_CV_2026.pdf",
+    "Joel_Chua_CV_Optimized_2026.pdf",
+    "_scripts/__pycache__/compile.cpython-313.pyc",
+    "_scripts/__pycache__/compile.cpython-311.pyc",
+    "_scripts/__pycache__",
+    "raw/articles",
+    "wiki/synthesis",
+    "outputs/analyses"
+  ]
+}

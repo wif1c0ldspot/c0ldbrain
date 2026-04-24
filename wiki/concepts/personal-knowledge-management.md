@@ -1,0 +1,17 @@
+---
+title: "Personal Knowledge Management"
+type: concept
+tags: ['knowledge-management', 'pkm', 'productivity']
+created: '2026-04-23'
+updated: '2026-04-23'
+confidence: medium
+status: current
+priority: reference
+summary: "Personal knowledge management with AI assistance. See notebooklm-vs-llm-wiki for paradigm comparison."
+---
+
+# Personal Knowledge Management
+
+STUB — Requires expansion.
+
+[[notebooklm-vs-llm-wiki]] — PKM paradigm comparison
