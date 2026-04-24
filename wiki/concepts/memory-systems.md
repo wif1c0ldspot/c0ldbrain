@@ -22,6 +22,7 @@ sources:
 - agent-memory-poisoning-security-2026-04
 - simplemem-github-2026-04
 - missing-memory-hierarchy-arxiv-2026-04
+- million-token-illusion-oracle-converged-db-datachaz-2026-04rchy-arxiv-2026-04
 - cloudflare-agent-memory-2026-04
 - openviking-context-database-volcengine-2026-04
 - memmachine-multi-tier-memory-2026-04
@@ -33,7 +34,7 @@ sources:
 - mem0-v2-0-redesign-2026-04
 - mistake-notebook-learning-acl-2026
 created: '2026-04-06'
-updated: '2026-04-21'
+updated: '2026-04-24'  # was: '2026-04-21'
 confidence: high
 status: current
 agents: [hermes, claude, codex]

@@ -15,6 +15,21 @@
       "confidence": "medium",
       "priority": "important",
       "note": "X Article behind auth wall - metadata + community reference compiled"
+    },
+    "million-token-illusion-oracle-converged-db-datachaz-2026-04": {
+      "type": "source",
+      "status": "compiled",
+      "ingested_at": "2026-04-24",
+      "source": "https://x.com/datachaz/status/2039685430937874754",
+      "fetched_at": "2026-04-24",
+      "compiled_at": "2026-04-24",
+      "source_page": "wiki/sources/million-token-illusion-oracle-converged-db-datachaz-2026-04.md",
+      "concept_pages_updated": [
+        "memory-systems"
+      ],
+      "confidence": "medium",
+      "priority": "important",
+      "note": "X Article behind auth - metadata + Oracle GitHub notebook compiled"
     }
   },
   "last_compile": "2026-04-24",
