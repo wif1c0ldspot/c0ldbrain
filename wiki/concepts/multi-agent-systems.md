@@ -3,7 +3,7 @@ title: "Multi-Agent Systems"
 type: concept
 tags: [ai-agents, multi-agent, orchestration]
 created: '2026-04-23'
-updated: '2026-04-23'
+updated: '2026-04-24'
 confidence: high
 status: current
 priority: important
@@ -17,6 +17,7 @@ Multi-agent systems involve multiple AI agents coordinating to solve complex tas
 ## Related Concepts
 
 - [[coral-multi-agent-discovery]] — Autonomous multi-agent evolution and co-evolution
-- [[agent-orchestration-stacks]] — Two-layer orchestration + memory architecture
+- [[agent-orchestration-stacks]] — Two-layer orchestration + memory
+- Source: [[sub-agents-vs-agent-teams-suryanshti777-2026-04]] — Two-layer orchestration + memory architecture
 - [[multica-platform]] — Production multi-agent workspace with relational memory
 - [[hermes-agent-architecture]] — Hermes multi-profile team architecture

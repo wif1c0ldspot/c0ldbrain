@@ -9,7 +9,7 @@ tags:
 - automation
 - compounding
 created: '2026-04-21'
-updated: '2026-04-21'
+updated: '2026-04-24'
 confidence: medium
 status: current
 priority: important
@@ -18,6 +18,7 @@ summary: 'Pattern of combining orchestration (task routing, multi-agent coordina
   compound in value over time. Target: solo operators and small teams.'
 sources:
 - paperclip-hermes-solo-ai-company-juliangoldieseo-2026-04
+- sub-agents-vs-agent-teams-suryanshti777-2026-04
 ---
 
 # Agent Orchestration Stacks

@@ -712,6 +712,21 @@
       "status": "compiled",
       "ingested_at": "2026-04-23",
       "compiled_at": "2026-04-24"
+    },
+    "fingpt-ai4finance-2026-04": {
+      "status": "compiled",
+      "raw_path": "raw/github/fingpt-ai4finance-2026-04.md",
+      "compiled_at": "2026-04-25"
+    },
+    "bitter-lesson-agent-harnesses-gregpr07-2026-04": {
+      "status": "compiled",
+      "raw_path": "raw/social/bitter-lesson-agent-harnesses-gregpr07-2026-04.md",
+      "compiled_at": "2026-04-25"
+    },
+    "harness-engineering-trae-ai-2026-04": {
+      "status": "compiled",
+      "raw_path": "raw/social/harness-engineering-trae-ai-2026-04.md",
+      "compiled_at": "2026-04-25"
     }
   },
   "concept_count": 2,

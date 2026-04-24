@@ -30,6 +30,22 @@
       "confidence": "medium",
       "priority": "important",
       "note": "X Article behind auth - metadata + Oracle GitHub notebook compiled"
+    },
+    "sub-agents-vs-agent-teams-suryanshti777-2026-04": {
+      "type": "source",
+      "status": "compiled",
+      "ingested_at": "2026-04-24",
+      "source": "https://x.com/suryanshti777/status/2047694444787577236",
+      "fetched_at": "2026-04-24",
+      "compiled_at": "2026-04-24",
+      "source_page": "wiki/sources/sub-agents-vs-agent-teams-suryanshti777-2026-04.md",
+      "concept_pages_updated": [
+        "multi-agent-systems",
+        "agent-orchestration-stacks"
+      ],
+      "confidence": "medium",
+      "priority": "important",
+      "note": "X Article behind auth - metadata + DesignGurus multi-agent guide compiled"
     }
   },
   "last_compile": "2026-04-24",

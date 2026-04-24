@@ -7,3 +7,9 @@
 - **Digest:** outputs/digest/2026-04-24.md
 
 File unchanged since last read. The content from the earlier read_file result in this conversation is still current — refer to that instead of re-reading.
+## 2026-04-25 Cron Daily Digest | Report generated
+- **Ingested:** 0 new sources (4 stale raw files cleaned)
+- **Compiled:** 0 new sources (MANIFEST reconciled: 94 total)
+- **Lint:** 11 broken links, 72 orphans
+- **Synthesized:** No new handbooks (memory-systems: 26 sources flagged)
+- **Digest:** outputs/digest/2026-04-25.md
