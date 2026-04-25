@@ -25,3 +25,4 @@ STUB — Requires expansion.
 - [[claim-based-memory]]
 - [[knowledge-graph-codebase-engine-2026-04]]
 - [[developer-tools]]
+- [[codebase-analysis]]

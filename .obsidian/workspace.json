@@ -192,6 +192,8 @@
   },
   "active": "185a00b8c69db220",
   "lastOpenFiles": [
+    "wiki/sources/akshay-agent-harness-anatomy-2026-04.md",
+    "raw/social/akshay-agent-harness-anatomy-2026-04.md",
     "raw/daily-research/2026-04-25-agentic-memory.md",
     "raw/articles/test-wiki-integration-2026-04-25.md",
     "wiki/synthesis/context-engineering-handbook-2026.md",
@@ -225,8 +227,6 @@
     "ABOUT.md",
     "wiki/concepts/financial-llms.md",
     "wiki/sources/fingpt-ai4finance-2026-04.md",
-    "raw/github/fingpt-ai4finance-2026-04.md",
-    "wiki/MANIFEST.md",
-    "wiki/sources/harness-engineering-trae-ai-2026-04.md"
+    "raw/github/fingpt-ai4finance-2026-04.md"
   ]
 }

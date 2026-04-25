@@ -751,6 +751,26 @@
       "compiled_at": "2026-04-25",
       "source_page": "wiki/synthesis/context-engineering-handbook-2026.md",
       "last_linted": "2026-04-25"
+    },
+    "raw/social/akshay-agent-harness-anatomy-2026-04.md": {
+      "type": "raw",
+      "status": "compiled",
+      "discovered_at": "2026-04-25",
+      "compiled_at": "2026-04-25",
+      "source_page": "wiki/sources/akshay-agent-harness-anatomy-2026-04.md",
+      "concept_pages_created": [
+        "agent-harness"
+      ]
+    },
+    "sources/akshay-agent-harness-anatomy-2026-04": {
+      "type": "source",
+      "status": "compiled",
+      "ingested_at": "2026-04-25",
+      "compiled_at": "2026-04-25",
+      "source_url": "https://x.com/akshay_pachaar/status/2041146899319971922",
+      "concept_pages_created": [
+        "agent-harness"
+      ]
     }
   },
   "concept_count": 197,

@@ -295,6 +295,7 @@ The ContextCurator paper introduces a **lightweight policy model** that actively
 - [[training-free-self-improvement]]
 - [[turboquant-kv-cache-experiments-2026-04]]
 - [[weekly-synthesis-2026-04-20]]
+- [[agent-harness]]
 [[context-substrate]], [[llm-knowledge-base-pattern]], [[quantitative-trading]], [[ai-coding-agents]], [[token-optimization]], [[mcp-protocol]], [[llm-wiki-v2-rohitg00|related]], [[vectorless-rag]], [[cognee]], [[multica-relational-agent-memory]], [[honcho|related]], [[openchronicle]]
 
 

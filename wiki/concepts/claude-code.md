@@ -245,3 +245,4 @@ All require **zero source modifications**:
 - [[mac-mini-35b-local-ai-agent-2026-04]]
 - [[agency-agents]]
 - [[infrastructure-handbook-2026]]
+- [[agent-skills-osmani-github-2026-04]]

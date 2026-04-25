@@ -107,3 +107,4 @@ Google Research's pretrained time-series foundation model (17.5k stars):
 - [[quantstart-quant-trading-study-2026-04]]
 - [[timesfm-google-2026-04]]
 - [[automation]]
+- [[agentic-research]]

@@ -22,6 +22,7 @@ summary: AI-powered codebase analysis. See code-review-graph for structural code
 - *Key aspect to be expanded*
 
 ## Related
+- [[code-review-graph]]
 [[developer-tools]] · [[knowledge-graphs]]
 
 ## Sources

@@ -173,3 +173,4 @@ CLI-Anything (30.7k stars) wraps any CLI tool into agent-native interfaces:
 - [[teknium-hermes-llm-wiki-2026-04]]
 - [[visual-explainer]]
 - [[visual-explainer-2026-04]]
+- [[claude-code-agent-design-space-arxiv-2026-04]]

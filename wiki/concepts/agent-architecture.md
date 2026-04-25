@@ -38,3 +38,4 @@ Structural patterns for building AI agents — decision loops, memory hierarchy,
 - [[rohit4verse-claude-code-architecture-2026-04]]
 - [[sub-agents-vs-agent-teams-suryanshti777-2026-04]]
 - [[infrastructure-handbook-2026]]
+- [[agent-harness]]
