@@ -12,6 +12,8 @@ tags:
 title: 'llm-guard: Input/Output Sanitization Framework'
 type: reference
 updated: '2026-04-08'
+source_url: aggregate
+
 ---
 
 

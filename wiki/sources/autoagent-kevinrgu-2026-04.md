@@ -16,6 +16,7 @@ summary: AutoAgent is an autonomous meta-agent system that iteratively optimizes
   agent harnesses overnight by modifying prompts, tools, and configuration, then hill-climbing
   on benchmark scores via the Harbor framework.
 compiled: true
+source_url: https://github.com/kevinrgu/autoagent
 ---
 
 # AutoAgent - Autonomous Agent Harness Engineering

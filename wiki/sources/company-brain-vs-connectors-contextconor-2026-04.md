@@ -16,6 +16,7 @@ confidence: high
 status: current
 summary: Auto-generated placeholder for Your Company Needs a Brain, Not More Connectors
 compiled: true
+source_url: https://x.com/contextconor/status/2045957951278739520
 ---
 
 ## Summary

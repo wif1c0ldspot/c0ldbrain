@@ -21,6 +21,7 @@ url: https://arxiv.org/abs/2602.15571
 summary: DKP-PC reduces predictive coding error propagation from O(L) to O(1) using
   learnable direct feedback connections.
 compiled: true
+source_url: https://arxiv.org/abs/2602.15571
 ---
 
 # Accelerated Predictive Coding Networks via Direct Kolen-Pollack Feedback Alignment

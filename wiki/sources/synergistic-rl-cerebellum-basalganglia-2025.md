@@ -16,6 +16,8 @@ priority: reference
 updated: '2026-04-24'
 created: '2026-04-24'
 compiled: true
+source_url: aggregate
+
 ---
 
 # Synergistic RL by Cooperation of Cerebellum and Basal Ganglia

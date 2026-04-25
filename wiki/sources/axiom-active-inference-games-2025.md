@@ -24,6 +24,7 @@ url: https://arxiv.org/abs/2505.24784
 summary: Object-centric active inference agent masters games in 10K steps with minimal
   parameters and no gradient optimization.
 compiled: true
+source_url: https://arxiv.org/abs/2505.24784
 ---
 
 # AXIOM: Learning to Play Games in Minutes with Expanding Object-Centric Models

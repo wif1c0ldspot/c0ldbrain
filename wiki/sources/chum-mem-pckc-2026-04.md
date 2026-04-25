@@ -17,6 +17,7 @@ language: Rust
 priority: reference
 summary: Auto-generated placeholder for chum-mem — PCKC Proof-Carrying Knowledge Compiler
 compiled: true
+source_url: https://github.com/sly-codechum/chum-mem
 ---
 
 # chum-mem — Proof-Carrying Knowledge Compiler

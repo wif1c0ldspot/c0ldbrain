@@ -15,6 +15,8 @@ priority: reference
 summary: Comprehensive survey confirming procedural memory is the most underdeveloped
   component in AI agents.
 compiled: true
+source_url: aggregate
+
 ---
 
 # AI Hippocampus Survey: Memory Systems for Agents

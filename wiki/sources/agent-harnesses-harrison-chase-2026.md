@@ -17,6 +17,7 @@ type: source
 updated: '2026-04-18'
 url: https://x.com/hwchase17/status/2042978500567609738
 compiled: true
+source_url: https://x.com/hwchase17/status/2042978500567609738
 ---
 
 

@@ -13,6 +13,8 @@ priority: reference
 summary: Evaluation benchmarks and results for Claude 3.5 models (2025)
 note: Auto-created stub — 1 broken link(s) point here
 compiled: true
+source_url: aggregate
+
 ---
 
 # Claude 3.5 Evaluation 2025

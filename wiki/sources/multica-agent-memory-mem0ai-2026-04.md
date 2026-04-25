@@ -17,6 +17,7 @@ status: current
 summary: 'Auto-generated placeholder for How Memory Works in a Multi-Agent System:
   Inside Multica'
 compiled: true
+source_url: https://x.com/mem0ai/status/2045519377655890111
 ---
 
 ## Summary

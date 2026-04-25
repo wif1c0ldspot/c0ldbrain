@@ -17,6 +17,7 @@ category: Hybrid
 summary: Token-efficient self-evolving agent that maximizes contextual information
   density — addresses fundamental context overflow for long-horizon agents
 compiled: true
+source_url: https://arxiv.org/abs/2604.17091
 ---
 
 # GenericAgent: Token-Efficient Self-Evolving LLM Agent

@@ -15,6 +15,8 @@ priority: reference
 summary: Proof that RL genuinely expands capability (not just reliability) in tool-use
   agents. Scored 9/10.
 compiled: true
+source_url: aggregate
+
 ---
 
 # PASS@(k,T): Proving RL Expands Capability Beyond Reliability

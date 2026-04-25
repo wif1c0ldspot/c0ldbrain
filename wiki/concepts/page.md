@@ -16,4 +16,4 @@ summary: Wiki page reference. See MANIFEST for wiki structure.
 
 STUB — Requires expansion.
 
-[[MANIFEST]] — Wiki manifest and changelog
+MANIFEST — Wiki manifest and changelog

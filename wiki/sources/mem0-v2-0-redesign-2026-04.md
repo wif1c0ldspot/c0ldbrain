@@ -14,6 +14,7 @@ url: https://github.com/mem0ai/mem0/releases
 priority: reference
 summary: Auto-generated placeholder for Mem0 v2.0.0 — Ground-Up Redesign
 compiled: true
+source_url: https://github.com/mem0ai/mem0/releases
 ---
 
 # Mem0 Python SDK v2.0.0 — Ground-Up Redesign

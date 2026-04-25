@@ -16,6 +16,8 @@ created: '2026-04-24'
 confidence: high
 status: current
 summary: Auto-generated placeholder for Weekly Synthesis — Agentic Memory Research
+source_url: aggregate
+
 ---
 
 ---

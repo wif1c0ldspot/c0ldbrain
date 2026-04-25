@@ -22,6 +22,7 @@ url: https://arxiv.org/abs/2509.05651
 summary: Multi-agent framework using attention-inspired self-emergent coordination
   and active inference benchmarks for long-horizon tasks.
 compiled: true
+source_url: https://arxiv.org/abs/2509.05651
 ---
 
 # Orchestrator: Active Inference for Multi-Agent Systems in Long-Horizon Tasks

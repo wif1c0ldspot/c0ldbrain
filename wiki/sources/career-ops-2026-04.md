@@ -16,6 +16,7 @@ title: Career-Ops - AI Job Search Pipeline
 type: source
 updated: '2026-04-07'
 compiled: true
+source_url: https://github.com/santifer/career-ops
 ---
 
 

@@ -12,6 +12,8 @@ tags:
 title: 'Promptfoo: LLM Evaluation & Red Teaming Platform'
 type: reference
 updated: '2026-04-08'
+source_url: aggregate
+
 ---
 
 

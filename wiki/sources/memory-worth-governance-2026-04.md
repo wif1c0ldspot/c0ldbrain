@@ -17,6 +17,7 @@ summary: Memory Worth (MW) metric — a lightweight 2-counter signal tracking me
   Spearman rho=0.89 vs ground truth.
 updated: '2026-04-20'
 compiled: true
+source_url: https://arxiv.org/abs/2604.12007
 ---
 
 # When to Forget: A Memory Governance Primitive

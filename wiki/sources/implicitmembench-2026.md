@@ -14,6 +14,8 @@ status: current
 priority: reference
 summary: First benchmark for implicit/procedural memory in LLMs. Scored 9/10.
 compiled: true
+source_url: aggregate
+
 ---
 
 # ImplicitMemBench: Benchmark for Implicit/Procedural Memory in LLMs

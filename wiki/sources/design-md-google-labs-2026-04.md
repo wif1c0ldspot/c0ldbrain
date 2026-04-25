@@ -17,6 +17,7 @@ summary: Google Labs open-source format for describing visual identity to coding
 created: 2026-04-22
 priority: important
 compiled: true
+source_url: https://github.com/google-labs-code/design.md
 ---
 
 # DESIGN.md — Format Specification for Agent Design Systems

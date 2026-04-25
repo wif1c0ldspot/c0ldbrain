@@ -15,6 +15,8 @@ priority: important
 updated: '2026-04-24'
 created: '2026-04-24'
 compiled: true
+source_url: aggregate
+
 ---
 
 # SKILL0: In-Context Agentic RL for Skill Internalization

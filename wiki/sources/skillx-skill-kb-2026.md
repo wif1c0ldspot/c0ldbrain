@@ -14,6 +14,8 @@ priority: important
 updated: '2026-04-24'
 created: '2026-04-24'
 compiled: true
+source_url: aggregate
+
 ---
 
 # SkillX: Automatically Constructing Skill Knowledge Bases for Agents

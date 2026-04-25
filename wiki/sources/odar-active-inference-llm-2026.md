@@ -27,6 +27,7 @@ url: https://arxiv.org/abs/2602.23681
 summary: Active inference framework for adaptive LLM reasoning routing — 98.2% MATH,
   82% compute reduction, validated on Llama 4 + DeepSeek.
 compiled: true
+source_url: https://arxiv.org/abs/2602.23681
 ---
 
 # ODAR: Principled Adaptive Routing for LLM Reasoning via Active Inference

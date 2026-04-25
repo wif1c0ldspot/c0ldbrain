@@ -13,6 +13,7 @@ created: '2026-04-24'
 confidence: high
 status: current
 summary: Auto-generated placeholder for 0Xricker Markov Chain Quant Trading 2026 04
+source_url: https://x.com/0xricker/status/2044722741706678282
 ---
 
      1|---

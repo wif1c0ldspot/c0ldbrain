@@ -18,6 +18,7 @@ category: Hybrid
 summary: First 'context database' for AI agents — unifies memory, RAG, and skill management
   in a single system
 compiled: true
+source_url: https://github.com/volcengine/OpenViking
 ---
 
 # OpenViking: Volcengine's Context Database

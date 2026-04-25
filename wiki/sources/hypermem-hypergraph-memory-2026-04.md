@@ -18,6 +18,7 @@ summary: 3-level hierarchical memory (topics→episodes→facts) using hypergrap
   on LoCoMo. ACL 2026 Main.
 updated: '2026-04-20'
 compiled: true
+source_url: https://arxiv.org/abs/2604.08256
 ---
 
 # HyperMem: Hypergraph Memory for Long-Term Conversations

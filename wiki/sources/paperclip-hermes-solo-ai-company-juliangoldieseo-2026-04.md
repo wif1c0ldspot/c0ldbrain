@@ -18,6 +18,7 @@ priority: important
 summary: Paperclip + Hermes Agent stack for solo AI company. Orchestration meets memory
   for compounding improvement.
 compiled: true
+source_url: https://x.com/juliangoldieseo/status/2046311395952910636
 ---
 
 ## Summary

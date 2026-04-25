@@ -16,6 +16,8 @@ priority: important
 updated: '2026-04-24'
 created: '2026-04-24'
 compiled: true
+source_url: aggregate
+
 ---
 
 # SMITH: Unifying Dynamic Tool Creation and Experience Sharing via Cognitive Memory

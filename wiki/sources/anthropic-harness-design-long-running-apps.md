@@ -14,6 +14,7 @@ created: '2026-04-24'
 confidence: high
 status: current
 summary: Auto-generated placeholder for Anthropic Harness Design Long Running Apps
+source_url: https://www.anthropic.com/engineering/harness-design-long-running-apps
 ---
 
      1|---

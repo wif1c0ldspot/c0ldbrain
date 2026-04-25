@@ -17,6 +17,7 @@ confidence: high
 status: current
 summary: Auto-generated placeholder for GBrain — Garry's Opinionated OpenClaw/Hermes
   Agent Brain
+source_url: https://x.com/ayi_ainotes/status/2045825589366362562
 ---
 
 ---

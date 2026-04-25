@@ -15,6 +15,8 @@ priority: reference
 summary: VLA model with atomic skill decomposition and continual acquisition. Scored
   8/10 in skill composition research.
 compiled: true
+source_url: aggregate
+
 ---
 
 # AtomicVLA: Atomic Skill Decomposition for Vision-Language-Action Models

@@ -15,6 +15,7 @@ title: Hermes Agent Skills Hub
 type: source
 updated: '2026-04-07'
 compiled: true
+source_url: https://hermes-agent.nousresearch.com/docs/skills/
 ---
 
 

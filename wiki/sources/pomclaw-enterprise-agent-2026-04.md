@@ -17,6 +17,7 @@ priority: reference
 summary: Auto-generated placeholder for PomClaw — Enterprise Distributed AI Agent
   Platform
 compiled: true
+source_url: https://github.com/pomclaw/pomclaw
 ---
 
 # PomClaw — Enterprise Distributed AI Agent Platform

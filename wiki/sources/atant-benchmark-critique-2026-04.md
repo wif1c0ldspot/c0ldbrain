@@ -17,6 +17,7 @@ url: https://arxiv.org/abs/2604.06710
 summary: ATANT framework shows existing memory benchmarks don't measure 'continuity'
   — median covers 1 of 7 required properties
 compiled: true
+source_url: https://arxiv.org/abs/2604.06710
 ---
 
 # ATANT: Agent Memory Benchmark Critique

@@ -16,6 +16,7 @@ priority: reference
 summary: Auto-generated placeholder for Mistake Notebook Learning (MNL) — ACL 2026
   Findings
 compiled: true
+source_url: https://github.com/Bairong-Xdynamics/MistakeNotebookLearning
 ---
 
 # Mistake Notebook Learning (MNL)

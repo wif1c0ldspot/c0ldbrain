@@ -16,6 +16,7 @@ tags:
 title: WorldofAI - Karpathy LLM Wiki Self-Evolving Claude Code System
 type: concept
 updated: '2026-04-06'
+source_url: https://x.com/intheworldofai/status/2041055883770081450
 ---
 
 

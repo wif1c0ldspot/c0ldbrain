@@ -14,6 +14,7 @@ created: '2026-04-24'
 confidence: high
 status: current
 summary: Auto-generated placeholder for Magika Google 2026 04
+source_url: https://github.com/google/magika
 ---
 
      1|---

@@ -12,6 +12,8 @@ tags:
 title: 'Multimodal Injection: Emerging Threats and Defenses'
 type: reference
 updated: '2026-04-08'
+source_url: aggregate
+
 ---
 
 

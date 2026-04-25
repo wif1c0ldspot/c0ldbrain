@@ -18,6 +18,7 @@ title: 'LangChain: Running Subagents in the Background'
 type: concept
 updated: '2026-04-18'
 url: https://blog.langchain.com/running-subagents-in-the-background
+source_url: https://blog.langchain.com/running-subagents-in-the-background
 ---
 
 

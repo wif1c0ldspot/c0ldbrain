@@ -13,3 +13,5 @@ File unchanged since last read. The content from the earlier read_file result in
 - **Lint:** 11 broken links, 72 orphans
 - **Synthesized:** No new handbooks (memory-systems: 26 sources flagged)
 - **Digest:** outputs/digest/2026-04-25.md
+| 2026-04-25 | Compile | Processed 0 concepts, 0 domains |
+| 2026-04-25 | Compile | Processed 197 concepts, 6 domains |

@@ -17,6 +17,7 @@ summary: 'Training-free self-evolving memory module for LLM agents with 3 comple
   Raises accuracy from 0.68 to 0.79 on GPT-5-mini.'
 updated: '2026-04-20'
 compiled: true
+source_url: https://arxiv.org/abs/2604.14475
 ---
 
 # Evo-MedAgent: Beyond One-Shot Diagnosis with Agents That Remember, Reflect, and Improve

@@ -13,6 +13,7 @@ created: '2026-04-24'
 confidence: high
 status: current
 summary: Auto-generated placeholder for Clearwing Lazarus Ai 2026 04
+source_url: https://github.com/Lazarus-AI/clearwing
 ---
 
      1|---

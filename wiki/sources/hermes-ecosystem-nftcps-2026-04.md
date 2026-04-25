@@ -18,6 +18,7 @@ status: current
 summary: Auto-generated placeholder for Hermes Agent Ecosystem — 5 Key Projects (Apr
   2026)
 compiled: true
+source_url: https://x.com/nftcps/status/2046076635200553224
 ---
 
 ## Summary

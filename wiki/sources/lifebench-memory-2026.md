@@ -14,6 +14,8 @@ status: current
 priority: reference
 summary: First benchmark separating declarative vs procedural memory. Scored 9/10.
 compiled: true
+source_url: aggregate
+
 ---
 
 # LifeBench: Benchmark Separating Declarative vs Procedural Memory

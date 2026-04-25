@@ -16,6 +16,7 @@ confidence: high
 status: current
 summary: Auto-generated placeholder for LLM Wiki vs NotebookLM — Artem Zhutov Critique
 compiled: true
+source_url: https://x.com/artemxtech/status/2045912259210485815
 ---
 
 ## Summary

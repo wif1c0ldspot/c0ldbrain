@@ -14,6 +14,8 @@ priority: reference
 summary: Model-agnostic zero-shot composition from atomic decomposition. Scored 8/10
   in skill composition research.
 compiled: true
+source_url: aggregate
+
 ---
 
 # DECO: Decomposed Convolution for Zero-Shot Composition

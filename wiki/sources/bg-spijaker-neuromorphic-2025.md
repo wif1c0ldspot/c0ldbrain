@@ -14,6 +14,8 @@ status: current
 priority: reference
 summary: Basal ganglia implementation on SpiNNaker neuromorphic hardware. Scored 7/10.
 compiled: true
+source_url: aggregate
+
 ---
 
 # BG on SpiNNaker: Neuromorphic Basal Ganglia Implementation

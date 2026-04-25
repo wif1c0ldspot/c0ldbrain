@@ -23,6 +23,7 @@ priority: important
 updated: '2026-04-24'
 created: '2026-04-24'
 compiled: true
+source_url: https://github.com/Einsia/OpenChronicle
 ---
 
 ## Summary

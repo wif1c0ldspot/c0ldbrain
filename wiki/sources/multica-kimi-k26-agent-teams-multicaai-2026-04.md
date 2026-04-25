@@ -19,6 +19,7 @@ priority: important
 summary: Multica integrates Kimi K2.6 as agent runtime for multi-agent engineering
   squads. 5-agent team with shared issues and PRs.
 compiled: true
+source_url: https://x.com/multicaai/status/2046333601302925536
 ---
 
 ## Summary

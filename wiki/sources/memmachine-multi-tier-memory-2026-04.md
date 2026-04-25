@@ -17,6 +17,7 @@ category: Hybrid
 summary: Open-source memory with short-term, episodic, and profile memory. Achieves
   0.9169 LoCoMo with 80% fewer tokens than Mem0
 compiled: true
+source_url: https://arxiv.org/abs/2604.04853
 ---
 
 # MemMachine: Multi-Tier Agent Memory System

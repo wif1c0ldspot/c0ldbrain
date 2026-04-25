@@ -20,6 +20,7 @@ priority: important
 summary: Recursive Language Models merge reasoning and tool use into one abstraction.
   Beats frontier LLMs at 100x smaller size.
 compiled: true
+source_url: https://x.com/raw_works/status/2046240194999755153
 ---
 
 ## Summary

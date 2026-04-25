@@ -17,6 +17,7 @@ url: https://arxiv.org/abs/2604.09747
 summary: 100% success rate extracting sensitive data from agent memory systems — more
   severe than memory poisoning
 compiled: true
+source_url: https://arxiv.org/abs/2604.09747
 ---
 
 # ADAM: Privacy Attack on Agent Memory

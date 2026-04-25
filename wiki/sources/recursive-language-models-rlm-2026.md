@@ -20,6 +20,7 @@ type: source
 updated: '2026-04-18'
 url: https://x.com/gablesperance/status/2042950334469787975
 compiled: true
+source_url: https://arxiv.org/abs/2512.24601v1
 ---
 
 

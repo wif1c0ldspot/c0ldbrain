@@ -67,7 +67,7 @@ Kernel engineering, math (Erdős, packing), drug design, DNA design, SWE-bench, 
 ## Sources
 
 - [[coral-human-agent-society-2026-04]]
-- [[coral-multiagent-discovery]]
+- [[coral-multi-agent-discovery]]
 
 ## Related Concepts
 

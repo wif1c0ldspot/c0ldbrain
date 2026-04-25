@@ -12,6 +12,8 @@ tags:
 title: Recent Academic Research on Prompt Injection (2025-2026)
 type: reference
 updated: '2026-04-08'
+source_url: aggregate
+
 ---
 
 

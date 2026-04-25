@@ -12,6 +12,8 @@ tags:
 title: 'LLM Prompt Injection: Comprehensive Survey 2026'
 type: reference
 updated: '2026-04-08'
+source_url: aggregate
+
 ---
 
 

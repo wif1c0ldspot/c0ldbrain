@@ -16,6 +16,8 @@ priority: important
 updated: '2026-04-24'
 created: '2026-04-24'
 compiled: true
+source_url: aggregate
+
 ---
 
 # ToolRLA: Multiplicative Reward Decomposition for Tool-Integrated Agents

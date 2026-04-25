@@ -20,6 +20,7 @@ confidence: high
 status: current
 summary: Auto-generated placeholder for OpenAI Agents Python SDK — GitHub Repository
 compiled: true
+source_url: https://github.com/openai/openai-agents-python
 ---
 
 ## Summary

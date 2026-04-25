@@ -53,8 +53,8 @@ import wiki_config
 
 # Use wiki_config for wiki root
 WIKI_ROOT = wiki_config.WIKI_ROOT
-CONCEPTS_DIR = WIKI_ROOT / "concepts"
-RAW_DIR = WIKI_ROOT / "raw"
+CONCEPTS_DIR = WIKI_ROOT / "wiki" / "concepts"
+RAW_DIR = WIKI_ROOT / "wiki" / "raw"
 MANIFEST_PATH = wiki_config.MANIFEST_PATH
 INDEX_PATH = wiki_config.INDEX_PATH
 LOG_PATH = wiki_config.LOG_PATH
@@ -99,6 +99,9 @@ def compute_confidence_decay(confidence_base, last_confirmed_date, tags, today=N
     if today is None:
         today = date.today()
     if isinstance(last_confirmed_date, str):
+        # Strip comments and extra text from date strings
+        if isinstance(last_confirmed_date, str):
+            last_confirmed_date = last_confirmed_date.split("#")[0].strip().strip("'").strip('"').strip()
         last_confirmed_date = datetime.strptime(last_confirmed_date, "%Y-%m-%d").date()
     
     days_since = (today - last_confirmed_date).days
@@ -130,6 +133,9 @@ def should_deprioritize(last_confirmed_date, tags, today=None):
     if today is None:
         today = date.today()
     if isinstance(last_confirmed_date, str):
+        # Strip comments and extra text from date strings
+        if isinstance(last_confirmed_date, str):
+            last_confirmed_date = last_confirmed_date.split("#")[0].strip().strip("'").strip('"').strip()
         last_confirmed_date = datetime.strptime(last_confirmed_date, "%Y-%m-%d").date()
     
     days_since = (today - last_confirmed_date).days
@@ -179,8 +185,16 @@ def parse_frontmatter(text):
 
 
 def find_wikilinks(text):
-    """Find all [[wikilink]] references. Returns list of slugs."""
-    return re.findall(r"\[\[([^\]]+)\]\]", text)
+    """Find all [[wikilink]] references. Returns list of slugs (stripped of aliases and fragments)."""
+    raw = re.findall(r"\[\[([^\]]+)\]\]", text)
+    slugs = []
+    for link in raw:
+        slug = link.split("|")[0].strip()  # Strip alias
+        slug = slug.split("#")[0].strip()  # Strip fragment
+        slug = slug.rstrip("\\").strip()  # Strip table escape
+        if slug and "/" not in slug:
+            slugs.append(slug)
+    return slugs
 
 
 def slugify(text):
@@ -357,33 +371,44 @@ def phase_compile(dry_run=False, verbose=False):
 # ---------------------------------------------------------------------------
 
 def phase_maintain(dry_run=False, verbose=False):
-    """Run maintenance checks on all concepts."""
+    """Run maintenance checks on ALL wiki pages (sources, concepts, synthesis)."""
     if verbose:
         print("\n" + "="*60)
         print("PHASE 3: MAINTAIN — Validating wiki integrity")
         print("="*60)
-    
+
     issues = []
-    concepts = {}
-    
-    # Load all concepts
-    if CONCEPTS_DIR.exists():
-        for concept_file in sorted(CONCEPTS_DIR.glob("*.md")):
-            slug = concept_file.stem
-            with open(concept_file) as f:
+    pages = {}  # slug -> {frontmatter, body, path, links, subdir}
+
+    # PASS 1: Load ALL pages from all directories
+    for subdir in ['sources', 'concepts', 'synthesis']:
+        dir_path = WIKI_ROOT / "wiki" / subdir
+        if not dir_path.exists():
+            continue
+        for page_file in sorted(dir_path.glob("*.md")):
+            slug = page_file.stem
+            with open(page_file) as f:
                 content = f.read()
             fm, body = parse_frontmatter(content)
             links = find_wikilinks(body)
-            concepts[slug] = {
+            # Also find wikilinks in frontmatter (sources: list)
+            fm_links = find_wikilinks(str(fm))
+            all_links = list(set(links + fm_links))
+            pages[slug] = {
                 "frontmatter": fm,
                 "body": body,
-                "path": str(concept_file),
-                "links": links
+                "path": str(page_file),
+                "links": all_links,
+                "subdir": subdir
             }
-    
+
+    all_slugs = set(pages.keys())
+
+    # PASS 2: Check all pages against complete slug set
+
     # 1. Schema validation
     required_fields = ["title", "tags", "confidence", "priority", "status", "summary"]
-    for slug, data in concepts.items():
+    for slug, data in pages.items():
         fm = data["frontmatter"]
         for field in required_fields:
             if field not in fm:
@@ -392,9 +417,22 @@ def phase_maintain(dry_run=False, verbose=False):
                     "slug": slug,
                     "detail": f"Missing required field: {field}"
                 })
-    
-    # 2. Controlled vocabulary check
-    for slug, data in concepts.items():
+
+    # 2. Source pages must have source_url
+    for slug, data in pages.items():
+        if data["subdir"] == "sources":
+            fm = data["frontmatter"]
+            if "source_url" not in fm:
+                issues.append({
+                    "type": "missing_source_url",
+                    "slug": slug,
+                    "detail": "Source page missing source_url in frontmatter"
+                })
+
+    # 3. Controlled vocabulary check (concepts only)
+    for slug, data in pages.items():
+        if data["subdir"] != "concepts":
+            continue
         fm = data["frontmatter"]
         tags = fm.get("tags", [])
         invalid = [t for t in tags if t not in VALID_TAGS]
@@ -404,61 +442,66 @@ def phase_maintain(dry_run=False, verbose=False):
                 "slug": slug,
                 "detail": f"Invalid tags: {invalid}"
             })
-    
-    # 3. Dead wikilinks
-    all_slugs = set(concepts.keys())
-    for slug, data in concepts.items():
+
+    # 4. Dead wikilinks (TWO-PASS: check against ALL slugs from ALL directories)
+    for slug, data in pages.items():
         for link in data["links"]:
-            if link not in all_slugs:
+            # Strip fragment and trailing backslash
+            clean = link.rstrip("\\").strip()
+            if "#" in clean:
+                clean = clean.split("#")[0].strip()
+            if clean and clean not in all_slugs and "/" not in clean:
                 issues.append({
                     "type": "dead_wikilink",
                     "slug": slug,
-                    "detail": f"Links to non-existent concept: {link}"
+                    "detail": f"Links to non-existent page: {clean}"
                 })
-    
-    # 4. Orphan detection (no inbound or outbound links)
-    has_links = {slug for slug, data in concepts.items() if data["links"]}
+
+    # 5. Orphan detection (pages with 0 inbound links)
     is_linked_to = set()
-    for slug, data in concepts.items():
+    for slug, data in pages.items():
         for link in data["links"]:
-            is_linked_to.add(link)
+            clean = link.rstrip("\\").strip()
+            if "#" in clean:
+                clean = clean.split("#")[0].strip()
+            if clean:
+                is_linked_to.add(clean)
     
-    for slug, data in concepts.items():
-        if slug not in is_linked_to and slug not in has_links:
+    exceptions = {"index", "RESOLVER", "log", "MANIFEST", "overview", "README", "SCHEMA"}
+    for slug in pages:
+        if slug not in is_linked_to and slug not in exceptions:
             issues.append({
                 "type": "orphan",
                 "slug": slug,
-                "detail": "No inbound or outbound links"
+                "detail": f"No inbound links ({pages[slug]['subdir']})"
             })
-    
-    # 5. Empty body detection
-    for slug, data in concepts.items():
-        if not data["body"].strip():
+
+    # 6. Empty body detection (concepts only)
+    for slug, data in pages.items():
+        if data["subdir"] == "concepts" and not data["body"].strip():
             issues.append({
                 "type": "empty_body",
                 "slug": slug,
                 "detail": "Concept has no body content (stub only)"
             })
-    
-    # 6. Confidence decay + forgetting (LLM Wiki v2)
-    for slug, data in concepts.items():
+
+    # 7. Confidence decay + forgetting (LLM Wiki v2)
+    for slug, data in pages.items():
         fm = data["frontmatter"]
         updated = fm.get("updated")
         confidence = fm.get("confidence", "medium")
         tags = fm.get("tags", [])
-        
+
         if updated:
-            # Apply confidence decay
             decayed_confidence = compute_confidence_decay(confidence, updated, tags)
             if decayed_confidence != confidence:
                 issues.append({
                     "type": "confidence_decayed",
                     "slug": slug,
-                    "detail": f"Confidence {confidence} → {decayed_confidence} (stale since {updated})",
+                    "detail": f"Confidence {confidence} -> {decayed_confidence} (stale since {updated})",
                     "suggested_confidence": decayed_confidence
                 })
-            
-            # Check forgetting threshold
+
             if should_deprioritize(updated, tags):
                 issues.append({
                     "type": "should_deprioritize",
@@ -467,47 +510,49 @@ def phase_maintain(dry_run=False, verbose=False):
                     "tags": tags
                 })
 
-    # 7. Supersession check (LLM Wiki v2)
+    # 8. Supersession check
     supersession_map = {}
-    for slug, data in concepts.items():
+    for slug, data in pages.items():
         fm = data["frontmatter"]
         superseded_by = fm.get("superseded_by")
         if superseded_by:
             supersession_map[slug] = superseded_by
-    
+
     for slug, new_slug in supersession_map.items():
-        if new_slug in concepts:
-            if slug not in data.get("body", ""):
-                # Old concept should mention new one
+        if new_slug in pages:
+            if slug not in pages[slug].get("body", ""):
                 issues.append({
                     "type": "supersession_missing_link",
                     "slug": slug,
                     "detail": f"Marked superseded by {new_slug} but no wikilink present"
                 })
-    
+
     # Update manifest
     manifest = load_manifest()
-    for slug in concepts:
-        source_key = f"concepts/{slug}"
+    for slug in pages:
+        source_key = f"{pages[slug]['subdir']}/{slug}"
         if source_key in manifest.get("sources", {}):
             manifest["sources"][source_key]["last_linted"] = datetime.date.today().isoformat()
     save_manifest(manifest)
-    
+
     if dry_run:
-        return {"status": "dry_run", "issues": issues, "concepts_checked": len(concepts)}
-    
-    print(f"MAINTAIN complete: {len(concepts)} concepts checked, {len(issues)} issues found")
+        return {"status": "dry_run", "issues": issues, "pages_checked": len(pages)}
+
+    # Summary
+    issue_types = {}
     for issue in issues:
-        emoji = {"schema_violation": "❌", "invalid_tags": "⚠️", "dead_wikilink": "🔗", 
-                 "orphan": "📄", "empty_body": "📝"}
-        print(f"  {emoji.get(issue['type'], '•')} {issue['slug']}: {issue['detail']}")
+        issue_types[issue["type"]] = issue_types.get(issue["type"], 0) + 1
     
-    return {"status": "complete", "issues": issues, "concepts_checked": len(concepts)}
+    print(f"MAINTAIN complete: {len(pages)} pages checked, {len(issues)} issues found")
+    for itype, count in sorted(issue_types.items()):
+        emoji = {"schema_violation": "❌", "missing_source_url": "⚠️", 
+                 "invalid_tags": "⚠️", "dead_wikilink": "🔗",
+                 "orphan": "📄", "empty_body": "📝",
+                 "confidence_decayed": "⏰", "should_deprioritize": " Archives"}
+        bullet = '\u2022'
+        print(f"  {emoji.get(itype, bullet)} {count}x {itype}")
 
-
-# ---------------------------------------------------------------------------
-# Phase 4: SYNTHESIZE — Find merge candidates
-# ---------------------------------------------------------------------------
+    return {"status": "complete", "issues": issues, "pages_checked": len(pages)}
 
 def phase_synthesize(dry_run=False, verbose=False):
     """Find overlapping concepts that should be merged."""

@@ -20,6 +20,8 @@ summary: Day 5 research synthesis on cross-pathway integration — neuromodulato
   architectures. 35 papers reviewed, 10 high-potential mechanisms scored.
 priority: important
 compiled: true
+source_url: aggregate
+
 ---
 
 # Cross-Pathway Integration & Neuromodulation — Synthesis

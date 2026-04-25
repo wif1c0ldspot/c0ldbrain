@@ -19,6 +19,7 @@ status: current
 summary: Auto-generated placeholder for Polymarket Weather Trading with Hermes Agent
   — @0xmovez
 compiled: true
+source_url: https://x.com/0xmovez/status/2045080054917476451
 ---
 
 ## Summary

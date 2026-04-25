@@ -19,6 +19,7 @@ sources:
 - arxiv:2603.09600
 updated: '2026-04-18'
 compiled: true
+source_url: https://arxiv.org/abs/2603.20927
 ---
 
 # Active Inference & Predictive Coding Papers (March 2026)

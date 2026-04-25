@@ -20,6 +20,7 @@ url: https://arxiv.org/abs/2602.18131
 summary: Temporal predictive coding matches BPTT on machine translation with a 15M
   parameter model — first application of tPC at this scale.
 compiled: true
+source_url: https://arxiv.org/abs/2602.18131
 ---
 
 # Learning Long-Range Dependencies with Temporal Predictive Coding

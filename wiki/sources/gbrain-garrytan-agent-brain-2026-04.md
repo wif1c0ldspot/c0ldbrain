@@ -16,6 +16,7 @@ confidence: high
 status: current
 summary: Auto-generated placeholder for GBrain — Garry Tan's Agent Brain System
 compiled: true
+source_url: https://github.com/garrytan/gbrain
 ---
 
 ## Summary

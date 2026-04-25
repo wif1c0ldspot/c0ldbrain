@@ -22,6 +22,7 @@ summary: 20 production-grade skills for AI coding agents, organized by developme
   Hyrum's Law, Beyonce Rule, test pyramid, trunk-based dev. Works with Claude Code,
   Cursor, Gemini CLI, Windsurf, Copilot.
 compiled: true
+source_url: https://github.com/addyosmani/agent-skills
 ---
 
 ## Summary

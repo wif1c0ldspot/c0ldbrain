@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-04-23",
+  "updated": "2026-04-25",
   "sources": {
     "langflow-claude-code-integration": {
       "type": "concept",
@@ -729,10 +729,10 @@
       "compiled_at": "2026-04-25"
     }
   },
-  "concept_count": 2,
+  "concept_count": 197,
   "synthesis_count": 3,
   "research_log_entries": 1,
-  "last_compile": "2026-04-23",
+  "last_compile": "2026-04-25",
   "entries": [
     {
       "path": "wiki/sources/cavemem-cross-agent-memory-2026-04.md",

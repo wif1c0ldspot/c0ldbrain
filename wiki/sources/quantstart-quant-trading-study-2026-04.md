@@ -14,6 +14,8 @@ priority: important
 summary: QuantStart article (Part I) covering career expectations, required mathematical/statistical
   background, and recommended textbook curriculum for quantitative trading.
 compiled: true
+source_url: aggregate
+
 ---
 
 # QuantStart Self-Study Plan for Quantitative Trading

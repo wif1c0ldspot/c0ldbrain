@@ -14,6 +14,8 @@ priority: reference
 summary: Internalizing tool knowledge into model parameters. Scored 8/10 in RL for
   tool selection research.
 compiled: true
+source_url: aggregate
+
 ---
 
 # TINR: Tool Knowledge Internalization into Model Parameters

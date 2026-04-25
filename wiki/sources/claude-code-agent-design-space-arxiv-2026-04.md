@@ -15,6 +15,7 @@ confidence: high
 status: current
 summary: Auto-generated placeholder for Claude Code Agent Design Space Arxiv 2026
   04
+source_url: https://arxiv.org
 ---
 
      1|---

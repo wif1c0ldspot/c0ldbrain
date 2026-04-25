@@ -16,6 +16,7 @@ created: '2026-04-24'
 confidence: high
 status: current
 summary: Auto-generated placeholder for addyosmani/agent-skills
+source_url: https://github.com/addyosmani/agent-skills
 ---
 
 # Agent Skills

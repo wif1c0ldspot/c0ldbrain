@@ -17,6 +17,7 @@ priority: reference
 summary: Auto-generated placeholder for cavemem — Cross-Agent Persistent Memory for
   Coding Assistants
 compiled: true
+source_url: https://github.com/JuliusBrussee/cavemem
 ---
 
 # cavemem — Cross-Agent Persistent Memory

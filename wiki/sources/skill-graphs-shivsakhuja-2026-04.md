@@ -16,6 +16,7 @@ updated: '2026-04-24'
 created: '2026-04-24'
 summary: 'Auto-generated placeholder for Skill Graphs 2.0: Atoms, Molecules, Compounds'
 compiled: true
+source_url: https://x.com/shivsakhuja/status/2047124337191444844
 ---
 
 ## Summary

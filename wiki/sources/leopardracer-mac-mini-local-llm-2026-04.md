@@ -23,6 +23,7 @@ type: source
 updated: '2026-04-18'
 url: https://x.com/leopardracer/status/2043631410045452360
 compiled: true
+source_url: https://x.com/leopardracer/status/2043631410045452360
 ---
 
 

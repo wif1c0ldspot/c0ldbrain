@@ -17,6 +17,7 @@ confidence: high
 status: current
 summary: Auto-generated placeholder for Polymarket Weather Hermes Agent 0Xmovez 2026
   04
+source_url: https://x.com/0xmovez/status/2045080054917476451
 ---
 
 ---

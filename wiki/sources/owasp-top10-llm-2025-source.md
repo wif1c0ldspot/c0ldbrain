@@ -12,6 +12,8 @@ tags:
 title: OWASP Top 10 for Large Language Model Applications 2025
 type: reference
 updated: '2026-04-08'
+source_url: aggregate
+
 ---
 
 

@@ -17,6 +17,7 @@ confidence: high
 status: current
 summary: Auto-generated placeholder for Hermes 4-Profile Team Guide — @nyk_builderz
 compiled: true
+source_url: https://x.com/nyk_builderz/status/2044472463279710344
 ---
 
 ## Summary

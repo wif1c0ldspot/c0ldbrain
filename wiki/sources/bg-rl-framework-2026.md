@@ -15,6 +15,8 @@ priority: reference
 summary: Three-layer basal ganglia emulation with dopamine-modulated STDP. Scored
   8/10.
 compiled: true
+source_url: aggregate
+
 ---
 
 # Basal Ganglia RL Framework: Three-Layer BG Emulation

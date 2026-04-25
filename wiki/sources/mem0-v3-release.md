@@ -19,6 +19,7 @@ title: Mem0 TypeScript SDK v3.0.0 Release
 type: concept
 updated: '2026-04-18'
 url: https://github.com/mem0ai/mem0/releases/tag/ts-v3.0.0
+source_url: https://github.com/mem0ai/mem0/releases/tag/ts-v3.0.0
 ---
 
 

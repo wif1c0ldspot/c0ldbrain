@@ -14,6 +14,7 @@ priority: reference
 summary: Daily research log — Cloudflare Agent Memory, 5 new ArXiv papers, context
   engineering crystallizing, camp convergence
 compiled: true
+source_url: https://blog.cloudflare.com/introducing-agent-memory/
 ---
 
 # Daily Research: Agentic Memory — 2026-04-18

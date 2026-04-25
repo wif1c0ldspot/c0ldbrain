@@ -17,6 +17,7 @@ summary: David Bayendor's production stack combining Hermes Agent (execution), s
 created: 2026-04-22
 priority: important
 compiled: true
+source_url: https://x.com/bayendor/status/2046755138501800427
 ---
 
 # How Honcho + Hermes-LCM Made Our Hermes Agent Smarter

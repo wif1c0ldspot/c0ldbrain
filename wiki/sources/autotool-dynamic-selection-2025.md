@@ -14,6 +14,8 @@ priority: reference
 summary: Dynamic tool selection with 200k rationale dataset. Scored 8/10 in RL for
   tool selection research.
 compiled: true
+source_url: aggregate
+
 ---
 
 # AutoTool: Dynamic Tool Selection with Rationale Dataset

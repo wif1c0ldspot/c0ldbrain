@@ -19,6 +19,7 @@ title: LLM Wiki v2 — Extending Karpathy's Pattern with Memory Lifecycle
 type: source
 updated: 2026-04-14
 compiled: true
+source_url: https://gist.github.com/rohitg00/2067ab416f7bbe447c1977edaaa681e2
 ---
 
 

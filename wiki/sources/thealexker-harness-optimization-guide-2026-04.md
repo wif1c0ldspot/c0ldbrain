@@ -15,6 +15,7 @@ confidence: high
 status: current
 summary: Auto-generated placeholder for Thealexker Harness Optimization Guide 2026
   04
+source_url: https://x.com/thealexker/status/2045203785304232162
 ---
 
      1|---

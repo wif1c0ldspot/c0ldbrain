@@ -14,6 +14,7 @@ priority: important
 summary: QuantStart article outlining career paths, required background (math, stats,
   programming), and self-study curriculum for quantitative trading.
 compiled: true
+source_url: https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Trader-Part-I/
 ---
 
 # QuantStart Self-Study Plan for Quantitative Trading
