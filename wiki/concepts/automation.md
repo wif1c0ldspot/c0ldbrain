@@ -23,6 +23,7 @@ summary: AI-driven automation patterns for workflows and processes. See agentic-
 - *Key aspect to be expanded*
 
 ## Related
+- [[agentic-ai]]
 [[financial-ai]] · [[ocr]] · [[quantitative-trading]] · [[agentic-research]] · [[open-source-ai-infra]] · [[document-processing]]
 
 ## Sources

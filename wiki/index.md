@@ -7,43 +7,76 @@ updated: "2026-04-25"
 
 ## Ai Agents
 
-- [[agent-cli-tools]] — Designing CLI tools for AI agent consumption. AXI principles (40% token savings) and CLI-Anything wrappers (30.7k stars) for making any CLI agent-native.
 - [[agent-harness]] — Scaffolding that turns raw LLM into functional agent — memory, tools, state management, and deterministic control systems
 - [[agent-meta-optimization]] — Autonomous meta-agent systems that iteratively optimize AI agent configurations
 - [[ai-coding-agents]] — 'The ecosystem of AI coding agents: Claude Code, Cursor, and their supporting
 - [[browser-automation]] — Automating browser interactions with AI agents via CDP, DOM manipulation, and agent-driven tool use.
-- [[company-context-brain]] — A 'company brain' that synthesizes fragmented multi-source organizational data into a persistent, conflict-resolved context graph — vs retrieval-based approaches (RAG, MCP) that start from zero each query.
-- [[context-engineering-synthesis]] — Unified view of context engineering — from substrate to compaction to organizational synthesis. How agents build, maintain, and utilize context.
-- [[context-engineering]] — Redirect stub — see context-engineering-synthesis for the unified context stack and paradigm overview.
 - [[gbrain-agent-brain]] — Garry Tan's production-grade agent brain for OpenClaw/Hermes. Hybrid search + self-wiring knowledge graph + 26 skills + durable job queue (Minions). 9.5k stars.
-- [[hermes-agent-architecture]] — Hermes Agent running this system — tools, skills, memory, and wiki integration.
 - [[hermes-ecosystem-projects]] — 6 key community projects from the Hermes Atlas ecosystem — covering security (CaMeL), deployment (Alpha), auto-skill generation (Skill Factory), multi-agent coordination (Maestro), and model replacement (Icarus).
 - [[hermes-multi-profile-team]] — Running coherent multi-agent teams using Hermes profiles — 4-role split (orchestrator, research, writer, engineer) with handoff contracts, memory KPIs, and per-role policy gates.
-- [[knowledge-management-synthesis]] — Unified synthesis of knowledge management patterns for AI agents — from RAG to LLM wikis to synthesized organizational brains. Three paradigms, tradeoffs, and when to use each.
-- [[knowledge-management]] — Redirect stub — see knowledge-management-synthesis for the unified paradigm comparison.
-- [[llm-knowledge-bases]] — LLMs build, compile, and maintain personal knowledge bases as structured
-- [[mcp-protocol]] — MCP protocol for AI agent tool connectivity and MemPalace's 19-tool server.
 - [[multi-agent-systems]] — Multi-agent coordination patterns and frameworks. See coral-multi-agent-discovery for autonomous evolution research.
 - [[multica-relational-agent-memory]] — Pure relational (SQL + JSONB) memory for multi-agent systems. No vector embeddings. Explicit skill-to-agent joins, point-in-time snapshots for cold inference, workspace-scoped isolation.
-- [[notebooklm-vs-llm-wiki]] — Comparison of LLM-maintained wikis vs embedding-based tools (NotebookLM) for personal knowledge management. Key insight: convert knowledge to skills, not just storage.
 - [[openai-agents-sdk]] — Official OpenAI agent harness — lightweight, provider-agnostic multi-agent framework. Sandbox agents, handoffs, guardrails, tracing, MCP tools.
 - [[openchronicle]] — Open-source, local-first memory system for AI agents. Captures macOS AX Tree context, converts to Markdown memory, exposes via MCP. Model-agnostic alternative to OpenAI Chronicle.
-- [[prompt-engineering]] — Techniques for designing effective prompts for LLMs and agent systems.
+
+## Ai Security
+
+- [[ai-security-synthesis]] — Unified view of AI security landscape — prompt injection attack vectors, defense patterns, memory poisoning, and continuous red-teaming frameworks.
+
+## Context Engineering
+
+- [[context-engineering-synthesis]] — Unified view of context engineering — from substrate to compaction to organizational synthesis. How agents build, maintain, and utilize context.
+- [[context-engineering]] — Redirect stub — see context-engineering-synthesis for the unified context stack and paradigm overview.
+
+## Developer Tools
+
+- [[agent-cli-tools]] — Designing CLI tools for AI agent consumption. AXI principles (40% token savings) and CLI-Anything wrappers (30.7k stars) for making any CLI agent-native.
+
+## Hermes
+
+- [[hermes-agent-architecture]] — Hermes Agent running this system — tools, skills, memory, and wiki integration.
+- [[hermes-kanban-bridge]] — Obsidian plugin bridging Hermes Agent with Kanban boards — REST API on localhost:27124, 3 skills, daily standups, weekly reviews, Markdown fallback.
 - [[skill-registry]] — Index of all 45+ skills available to Hermes Agent, organized by category
-
-## Crypto Quant
-
-- [[quantitative-trading]] — Automated trading, stock research automation, crypto trading rules, QuantStart
 
 ## Infrastructure
 
 - [[open-source-ai-infra]] — Open-source AI tools, local model deployment, and infrastructure. NVIDIA
 
-## Ml Models
+## Knowledge Management
+
+- [[company-context-brain]] — A 'company brain' that synthesizes fragmented multi-source organizational data into a persistent, conflict-resolved context graph — vs retrieval-based approaches (RAG, MCP) that start from zero each query.
+- [[knowledge-management-synthesis]] — Unified synthesis of knowledge management patterns for AI agents — from RAG to LLM wikis to synthesized organizational brains. Three paradigms, tradeoffs, and when to use each.
+- [[knowledge-management]] — Redirect stub — see knowledge-management-synthesis for the unified paradigm comparison.
+- [[llm-knowledge-bases]] — LLMs build, compile, and maintain personal knowledge bases as structured
+- [[mempalace]] — Hierarchical memory system for AI agents — palace graph architecture with wings/rooms/drawers
+- [[notebooklm-vs-llm-wiki]] — Comparison of LLM-maintained wikis vs embedding-based tools (NotebookLM) for personal knowledge management. Key insight: convert knowledge to skills, not just storage.
+- [[vectorless-rag]] — RAG without vector embeddings. Uses LLM reasoning over structured indices (trees, graphs) to retrieve information. PageIndex achieves 98.7% FinanceBench accuracy.
+
+## Mcp Protocol
+
+- [[mcp-protocol]] — MCP protocol for AI agent tool connectivity and MemPalace's 19-tool server.
+
+## Memory Systems
 
 - [[memory-systems]] — How AI agents manage persistent memory and context. TurboQuant, MLX, Memvid,
-- [[vectorless-rag]] — RAG without vector embeddings. Uses LLM reasoning over structured indices (trees, graphs) to retrieve information. PageIndex achieves 98.7% FinanceBench accuracy.
+
+## Ml Models
+
 - [[voice-ai]] — Voice AI systems — ASR, TTS, and real-time conversational models. Microsoft VibeVoice (39.6k stars) leads with ASR-7B, TTS-1.5B, and Realtime-0.5B.
+
+## Multi Agent
+
+- [[multica-platform]] — Open-source platform (17.5k★) for humans + AI agents as equal teammates. Shared workspace, issues, PRs, skills, autopilot scheduling. Supports multiple runtimes (Kimi Code CLI, Claude Code, Codex).
+
+## Prompt Engineering
+
+- [[prompt-engineering]] — Techniques for designing effective prompts for LLMs and agent systems.
+
+## Quantitative Trading
+
+- [[financial-llms]] — Large language models specialized for finance — sentiment analysis, robo-advisory, trading signals. Open-source alternatives to BloombergGPT.
+- [[polymarket-weather-trading-strategy]] — Strategy to exploit forecast-vs-market pricing inefficiencies in Polymarket temperature markets. Uses EV filtering, Kelly sizing, airport coordinates, self-calibration. Real alpha but overstated returns and shrinking edge.
+- [[quantitative-trading]] — Automated trading, stock research automation, crypto trading rules, QuantStart
 
 ## Security
 
@@ -69,7 +102,6 @@ updated: "2026-04-25"
 - [[ai-content-creation]] — AI-powered content creation workflows. See shannholmberg-ai-knowledge-layer-2026-04
 - [[ai-engineering]] — Discipline of building production AI systems — MLOps, evaluation, monitoring
 - [[ai-safety]] — AI safety considerations for agent systems including alignment, oversight,
-- [[ai-security-synthesis]] — Unified view of AI security landscape — prompt injection attack vectors, defense patterns, memory poisoning, and continuous red-teaming frameworks.
 - [[ai-security]] — Security considerations for AI systems. See prompt-injection-comprehensive-2026
 - [[apple-silicon-ai]] — Running AI models on Apple Silicon (M1/M2/M3/M4). See local-llm-infrastructure
 - [[aster-agentic-scaling]] — Research on scaling laws for agentic AI systems and emergent capabilities
@@ -130,14 +162,12 @@ updated: "2026-04-25"
 - [[escalation-protocol]] — Pattern for escalating agent tasks to human review or higher-capability models
 - [[ev-kelly-position-sizing]] — Expected Value and Kelly criterion position sizing. See markov-chains for
 - [[financial-ai]] — AI applications in finance and trading. See quantitative-trading for trading-specific
-- [[financial-llms]] — Large language models specialized for finance — sentiment analysis, robo-advisory, trading signals. Open-source alternatives to BloombergGPT.
 - [[function_name]] — Function naming in agent tool calls. See mcp-protocol for standardized tool
 - [[global-workspace-oscillation-coordination]] — Pathway 3 of brain-inspired AI architecture: Global Workspace Theory implementations and neural oscillation coordination for emergent multi-module AI agent behavior.
 - [[gui-agents]] — AI agents that interact with graphical user interfaces. See alibaba-gui-agent-web-control-2026-03
 - [[harness-design]] — Design patterns for AI agent harnesses — GAN-inspired multi-agent systems,
 - [[hermes-agent]] — Redirect stub — see hermes-agent-architecture for full design.
 - [[hermes-atropos-environments]] — RL environments for training Hermes agent in decision-making tasks
-- [[hermes-kanban-bridge]] — Obsidian plugin bridging Hermes Agent with Kanban boards — REST API on localhost:27124, 3 skills, daily standups, weekly reviews, Markdown fallback.
 - [[hermes-lcm]] — Lifecycle Control and Measurement layer for Hermes Agent stacks. Provides
 - [[hierarchical-memory-architectures]] — Multiple independent teams converging on OS-inspired hierarchical memory
 - [[homeassistant-agent-setup]] — Setting up AI agents with Home Assistant. See personal-ai-infrastructure
@@ -162,12 +192,10 @@ updated: "2026-04-25"
 - [[local-llm-infrastructure]] — Running local LLMs on consumer hardware ($599 Mac Mini M4, 16GB). Three-tier
 - [[markov-chains]] — Markov chain models for quantitative trading — state machines, transition matrices, Kelly criterion bet sizing for prediction markets
 - [[memory-firewall]] — Defense pattern for agent memory systems — validates, quarantines, and audits
-- [[mempalace]] — Hierarchical memory system for AI agents — palace graph architecture with wings/rooms/drawers
 - [[meta-learning]] — Learning to learn — adapting learning strategies across tasks. See mistake-notebook-learning-acl-2026
 - [[model-routing]] — Intelligent routing of tasks to optimal models based on complexity and cost.
 - [[multi-agent-collaboration]] — Multi-agent collaboration patterns. See multi-agent-systems for coordination
 - [[multi-modal-ai]] — Multi-modal AI systems combining text, vision, and audio. See multimodal-ai-security
-- [[multica-platform]] — Open-source platform (17.5k★) for humans + AI agents as equal teammates. Shared workspace, issues, PRs, skills, autopilot scheduling. Supports multiple runtimes (Kimi Code CLI, Claude Code, Codex).
 - [[multimodal-ai-security]] — Key Facts
 - [[neutral-market-pairs-trading]] — Market-neutral pairs trading strategy for ranging markets. See polymarket-weather-trading-strategy
 - [[nvidia-ai]] — NVIDIA AI platform and tools for agent deployment. See nvidia-personaple-voice-ai-2026-04
@@ -178,7 +206,6 @@ updated: "2026-04-25"
 - [[page]] — Wiki page reference. See MANIFEST for wiki structure.
 - [[personal-automation]] — Personal automation workflows with AI agents. See agentic-ai for agent patterns.
 - [[personal-knowledge-management]] — Personal knowledge management with AI assistance. See notebooklm-vs-llm-wiki
-- [[polymarket-weather-trading-strategy]] — Strategy to exploit forecast-vs-market pricing inefficiencies in Polymarket temperature markets. Uses EV filtering, Kelly sizing, airport coordinates, self-calibration. Real alpha but overstated returns and shrinking edge.
 - [[polymarket]] — Prediction market platform for event betting. See polymarket-weather-trading-strategy
 - [[predictive-coding-active-inference]] — Predictive coding and active inference as pathways to emergent behavior in
 - [[predictive-coding-hierarchy]] — Hierarchical predictive coding in agent architectures. See predictive-coding-active-inference
@@ -222,5 +249,5 @@ updated: "2026-04-25"
 
 ## Stats
 - Total concepts: 197
-- Domains covered: 6
+- Domains covered: 15
 - Last compiled: 2026-04-25

@@ -19,3 +19,6 @@ summary: Context window management and optimization for LLM agents. See context-
 STUB — Requires expansion.
 
 [[context-engineering-synthesis]] — Unified context stack (L0-L4)
+
+## Related
+- [[context-engineering-handbook-2026]]

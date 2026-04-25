@@ -23,6 +23,7 @@ summary: Running AI models on edge devices. See local-llm-infrastructure for loc
 - *Key aspect to be expanded*
 
 ## Related
+- [[ml-models-handbook-2026]]
 [[local-llm-infrastructure]] · [[apple-silicon-ai]] · [[quantization-techniques]]
 
 ## Sources

@@ -1,5 +1,5 @@
 ---
-title: "Sentiment Analysis in Finance"
+title: Sentiment Analysis in Finance
 type: concept
 tags:
 - quantitative-trading
@@ -8,9 +8,9 @@ tags:
 created: '2026-04-25'
 updated: '2026-04-25'
 confidence: medium
-status: current
+status: stub
 priority: important
-summary: "NLP techniques applied to financial market sentiment"
+summary: NLP techniques applied to financial market sentiment
 ---
 
 # Sentiment Analysis in Finance

@@ -19,3 +19,6 @@ summary: AI agents that interact with graphical user interfaces. See alibaba-gui
 STUB — Requires expansion.
 
 [[alibaba-gui-agent-web-control-2026-03]] — GUI agent web control
+
+## Related
+- [[web-scraping]]

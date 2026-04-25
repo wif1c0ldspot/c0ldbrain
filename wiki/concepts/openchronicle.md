@@ -112,3 +112,4 @@ This positions it as a **Camp 1 memory backend** (structured storage with retrie
 
 - [[openchronicle-einsia-2026-04]]
 - [[million-token-illusion-oracle-converged-db-datachaz-2026-04]]
+- [[context-engineering-handbook-2026]]

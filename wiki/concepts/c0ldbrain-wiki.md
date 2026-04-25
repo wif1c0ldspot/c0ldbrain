@@ -22,3 +22,5 @@ STUB — Requires expansion.
 
 ## Related
 - [[shannholmberg-ai-knowledge-layer-2026-04]]
+- [[ai-content-creation]]
+- [[brand-foundation]]

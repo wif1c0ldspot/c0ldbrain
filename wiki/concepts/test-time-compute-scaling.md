@@ -22,3 +22,5 @@ STUB — Requires expansion.
 
 ## Related
 - [[rlms-new-reasoning-models-rawworks-2026-04]]
+- [[ml-models-handbook-2026]]
+- [[reasoning-paradigms]]

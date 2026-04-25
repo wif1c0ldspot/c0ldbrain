@@ -22,6 +22,9 @@ summary: Paradigms for LLM reasoning including chain-of-thought and recursive re
 - *Key aspect to be expanded*
 
 ## Related
+- [[chain-of-thought]]
+- [[ml-models-handbook-2026]]
+- [[rlms-new-reasoning-models-rawworks-2026-04]]
 [[recursive-language-models]] · [[test-time-compute-scaling]] · [[inference-scaling]]
 
 ## Sources

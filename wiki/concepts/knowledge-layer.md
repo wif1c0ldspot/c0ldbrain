@@ -194,3 +194,4 @@ my-wiki/
 - [[brand-foundation]]
 - [[knowledge-base-layer]]
 - [[weekly-synthesis-async-subagent-2026-04-17]]
+- [[context-engineering-handbook-2026]]

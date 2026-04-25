@@ -19,3 +19,6 @@ summary: Optimizing LLM inference for speed and efficiency. See turboquant-kv-ca
 STUB — Requires expansion.
 
 [[turboquant-kv-cache-experiments-2026-04]] — KV cache optimization experiments
+
+## Related
+- [[ml-models-handbook-2026]]

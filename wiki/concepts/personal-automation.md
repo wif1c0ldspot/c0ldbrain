@@ -22,4 +22,6 @@ summary: Personal automation workflows with AI agents. See agentic-ai for agent 
 - *Key aspect to be expanded*
 
 ## Related
+- [[jarvis-obsidian-claude-code-cyrilxbt-2026-04]]
+- [[personal-ai-infrastructure-2026-04]]
 [[ai-security]] · [[agent-orchestration-stacks]] · [[claude-code-patterns]] · [[agentic-ai]] · [[homeassistant-agent-setup]] · [[llm-optimized-wiki]] · [[cla...

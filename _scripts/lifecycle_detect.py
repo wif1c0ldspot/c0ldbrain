@@ -23,10 +23,11 @@ from pathlib import Path
 from collections import defaultdict
 
 # Configuration
-WIKI_ROOT = "/Volumes/obsidian/C0ldbrain"
-WIKI_CONCEPTS = Path(WIKI_ROOT) / "wiki" / "concepts"
-WIKI_SOURCES = Path(WIKI_ROOT) / "wiki" / "sources"
-DEFAULT_OUTPUT = Path(WIKI_ROOT) / "outputs" / "lifecycle"
+import wiki_config
+WIKI_ROOT = wiki_config.WIKI_ROOT
+WIKI_CONCEPTS = wiki_config.CONCEPTS_DIR
+WIKI_SOURCES = wiki_config.SOURCES_DIR
+DEFAULT_OUTPUT = wiki_config.LIFECYCLE_DIR
 
 # Decision thresholds - tune these based on your wiki's characteristics
 THRESHOLDS = {

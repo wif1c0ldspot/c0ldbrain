@@ -100,3 +100,8 @@ Vulnerability in Model Context Protocol:
 - [[vibevoice-microsoft-2026-04]]
 - [[visual-explainer-2026-04]]
 - [[voice-ai]]
+- [[automation]]
+- [[developer-tools]]
+- [[infrastructure-handbook-2026]]
+- [[nvidia-ai]]
+- [[speech-recognition]]

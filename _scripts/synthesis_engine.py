@@ -1,18 +1,13 @@
 #!/usr/bin/env python3
 """synthesis_engine.py — Detect tag clusters missing synthesis handbooks and generate them."""
-import os, re, sys, argparse, json
+import os, re, sys, argparse, json, datetime
 from pathlib import Path
 from collections import defaultdict
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(SCRIPT_DIR))
-from wiki_config import WIKI_ROOT
+from wiki_config import WIKI_ROOT, WIKI_DIR, CONCEPTS_DIR, SOURCES_DIR, SYNTHESIS_DIR, MANIFEST_PATH
 
-WIKI_DIR = WIKI_ROOT / "wiki"
-SOURCES_DIR = WIKI_DIR / "sources"
-CONCEPTS_DIR = WIKI_DIR / "concepts"
-SYNTHESIS_DIR = WIKI_DIR / "synthesis"
-MANIFEST_PATH = WIKI_ROOT / "MANIFEST.json"
 
 WIKILINK_RE = re.compile(r'\[\[([^\]|]+?)(?:\|[^\]]+)?\]\]')
 SOURCE_TYPE_TAGS = {'source', 'github', 'arxiv', 'article', 'social', 'x', 'paper', 'gist', 'synthesis', 'concept', 'daily-research'}
@@ -91,7 +86,7 @@ def detect_gaps(min_concepts=8):
 def generate_handbook(tag, concept_pages, dry_run=False):
     """Generate a synthesis handbook from concept pages."""
     tag_title = tag.replace('-', ' ').title()
-    today = os.popen('date +%Y-%m-%d').read().strip()
+    today = datetime.date.today().isoformat()
     
     # Read concept bodies to extract key themes
     all_bullets = []

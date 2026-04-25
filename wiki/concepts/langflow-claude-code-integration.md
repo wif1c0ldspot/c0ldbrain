@@ -602,3 +602,6 @@ As a [role], I want [feature] so that [benefit]
 ## Related
 - [[shannholmberg-ai-knowledge-layer-2026-04]]
 - [[weekly-synthesis-async-subagent-2026-04-17]]
+- [[ai-content-creation]]
+- [[infrastructure-handbook-2026]]
+- [[brand-foundation]]

@@ -136,3 +136,4 @@ Most practical systems use hybrids:
 - [[gbrain-agent-brain]]
 - [[hermes-multi-profile-team]]
 - [[knowledge-management]]
+- [[context-engineering-handbook-2026]]

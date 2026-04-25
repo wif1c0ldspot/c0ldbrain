@@ -23,6 +23,8 @@ summary: AI-powered content creation workflows. See shannholmberg-ai-knowledge-l
 - *Key aspect to be expanded*
 
 ## Related
+- [[knowledge-layer]]
+- [[shannholmberg-ai-knowledge-layer-2026-04]]
 [[brand-foundation]] · [[c0ldbrain-wiki]] · [[knowledge-base-layer]] · [[personal-knowledge-management]] · [[karpathy-llm-knowledge-bases]] · [[langflow-claude-code-integration]] · [[context-engineering]] · [[llm-optimized-wiki]]
 
 ## Sources

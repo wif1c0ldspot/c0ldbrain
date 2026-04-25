@@ -60,3 +60,5 @@ The ecosystem of voice AI models and frameworks covering automatic speech recogn
 
 - [[nvidia-personaple-voice-ai-2026-04]]
 - [[speech-recognition]]
+- [[ml-models-handbook-2026]]
+- [[nvidia-ai]]

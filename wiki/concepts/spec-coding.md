@@ -1,5 +1,5 @@
 ---
-title: "Specification-Driven Coding"
+title: Specification-Driven Coding
 type: concept
 tags:
 - coding-agents
@@ -8,9 +8,9 @@ tags:
 created: '2026-04-25'
 updated: '2026-04-25'
 confidence: medium
-status: current
+status: stub
 priority: important
-summary: "Writing code from formal specifications using AI agents"
+summary: Writing code from formal specifications using AI agents
 ---
 
 # Specification-Driven Coding

@@ -6,7 +6,7 @@ tags:
 - llm-attacks
 - defense-mechanisms
 created: '2026-04-23'
-updated: '2026-04-23'
+updated: '2026-04-25'
 confidence: medium
 status: stub
 priority: reference
@@ -14,11 +14,17 @@ summary: Security considerations for AI systems. See prompt-injection-comprehens
   for detailed framework.
 ---
 
-# Ai Security
+*Concept in the ai-security domain — needs expansion.*
 
-STUB — Requires expansion.
-
-[[prompt-injection-comprehensive-2026]] — Comprehensive security framework
+- [[ai-security]] — Security considerations for AI agents
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
 
 ## Related
-- [[personal-ai-infrastructure-2026-04]]
+- [[prompt-injection-comprehensive-2026]]
+[[homeassistant-agent-setup]] · [[personal-automation]] · [[agentic-ai]]
+
+## Sources
+[[personal-ai-infrastructure-2026-04]]

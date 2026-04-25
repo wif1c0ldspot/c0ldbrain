@@ -21,3 +21,8 @@ summary: DSPy framework for programming with foundation models. See agent-meta-o
 - *Key aspect to be expanded*
 - *Key aspect to be expanded*
 - *Key aspect to be expanded*
+
+## Related
+- [[agent-meta-optimization]]
+- [[ml-models-handbook-2026]]
+- [[recursive-language-models]]

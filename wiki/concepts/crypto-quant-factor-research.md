@@ -1,5 +1,5 @@
 ---
-title: "Crypto Quant Factor Research"
+title: Crypto Quant Factor Research
 type: concept
 tags:
 - quantitative-trading
@@ -8,9 +8,9 @@ tags:
 created: '2026-04-25'
 updated: '2026-04-25'
 confidence: medium
-status: current
+status: stub
 priority: important
-summary: "Research into alpha factors for crypto quant strategies"
+summary: Research into alpha factors for crypto quant strategies
 ---
 
 # Crypto Quant Factor Research

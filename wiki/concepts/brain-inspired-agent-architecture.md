@@ -588,3 +588,4 @@ Cerebellum (refine output)
 - [[predictive-coding-active-inference]]
 - [[skill-composition-procedural-learning]]
 - [[synergistic-rl-cerebellum-basalganglia-2025]]
+- [[agency-agents]]

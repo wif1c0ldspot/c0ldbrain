@@ -7,13 +7,9 @@ import datetime
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(SCRIPT_DIR))
-from wiki_config import WIKI_ROOT
+from wiki_config import WIKI_ROOT, WIKI_DIR, CONCEPTS_DIR, SOURCES_DIR, MANIFEST_PATH
 
-WIKI_DIR = WIKI_ROOT / "wiki"
-CONCEPTS_DIR = WIKI_DIR / "concepts"
-SOURCES_DIR = WIKI_DIR / "sources"
 ARCHIVE_DIR = WIKI_DIR / "archive"
-MANIFEST_PATH = WIKI_ROOT / "MANIFEST.json"
 
 DECAY_RULES = [
     ('high', 90, 'medium'),

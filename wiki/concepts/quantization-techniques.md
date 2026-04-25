@@ -34,3 +34,4 @@ Model quantization methods for efficient inference — INT8, INT4, GGUF, GPTQ
 - [[mlx-turboquant-local-power-2026-04]]
 - [[predictive-coding-active-inference]]
 - [[quantized-model-optimization]]
+- [[edge-ai]]

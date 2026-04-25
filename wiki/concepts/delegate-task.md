@@ -1,5 +1,5 @@
 ---
-title: "Task Delegation in Agent Systems"
+title: Task Delegation in Agent Systems
 type: concept
 tags:
 - agentic-ai
@@ -8,9 +8,9 @@ tags:
 created: '2026-04-25'
 updated: '2026-04-25'
 confidence: medium
-status: current
+status: stub
 priority: important
-summary: "Patterns for delegating tasks between AI agents"
+summary: Patterns for delegating tasks between AI agents
 ---
 
 # Task Delegation in Agent Systems

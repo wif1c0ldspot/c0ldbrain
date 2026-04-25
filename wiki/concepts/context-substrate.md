@@ -260,3 +260,4 @@ This validates Camp 2's thesis: context substrate scales for production agent de
 - [[openviking-context-database-volcengine-2026-04]]
 - [[pomclaw-enterprise-agent-2026-04]]
 - [[weekly-synthesis-async-subagent-2026-04-17]]
+- [[context-engineering-handbook-2026]]

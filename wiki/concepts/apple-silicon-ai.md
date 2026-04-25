@@ -23,3 +23,5 @@ STUB — Requires expansion.
 ## Related
 - [[local-397b-model-macbook-2026-03]]
 - [[mlx-turboquant-local-power-2026-04]]
+- [[edge-ai]]
+- [[ml-models-handbook-2026]]

@@ -51,3 +51,4 @@ OpenViking (from ByteDance/Volcengine) is an open-source context database design
 - [GitHub: volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
 - [[openviking-context-database]]
+- [[context-engineering-handbook-2026]]

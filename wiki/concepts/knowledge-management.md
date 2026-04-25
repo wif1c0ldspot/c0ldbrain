@@ -40,3 +40,4 @@ Also see:
 - [[supersession-protocol]]
 - [[token-optimization-and-efficiency]]
 - [[user-sovereignty]]
+- [[infrastructure-handbook-2026]]

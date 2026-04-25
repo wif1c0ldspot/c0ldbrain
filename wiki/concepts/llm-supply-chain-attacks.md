@@ -54,3 +54,4 @@ updated: '2026-04-18'
 - [[magika]]
 - [[multimodal-ai-security]]
 - [[owasp-top-10-for-llm]]
+- [[infrastructure-handbook-2026]]

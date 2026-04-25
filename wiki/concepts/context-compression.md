@@ -23,3 +23,4 @@ STUB — Requires expansion.
 ## Related
 - [[memvid-mp4-ai-memory-2026-04]]
 - [[turboquant-kv-cache-experiments-2026-04]]
+- [[context-engineering-handbook-2026]]

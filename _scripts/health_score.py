@@ -7,10 +7,8 @@ import datetime
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(SCRIPT_DIR))
-from wiki_config import WIKI_ROOT
+from wiki_config import WIKI_ROOT, WIKI_DIR, OUTPUTS_DIR
 
-WIKI_DIR = WIKI_ROOT / "wiki"
-OUTPUTS_DIR = WIKI_ROOT / "outputs"
 WIKILINK_RE = re.compile(r'\[\[([^\]|]+?)(?:\|[^\]]+)?\]\]')
 
 def read_safe(path):

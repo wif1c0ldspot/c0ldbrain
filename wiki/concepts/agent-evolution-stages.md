@@ -253,3 +253,4 @@ Train for emergent properties that survive quantization:
 - [[github-agent-repos-roundup-gittrend-2026-04]]
 - [[github-ai-tools-roundup-2026-04]]
 - [[mistake-notebook-learning-acl-2026]]
+- [[ml-models-handbook-2026]]

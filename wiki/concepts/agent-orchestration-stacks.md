@@ -100,3 +100,4 @@ When repetitive execution is handled by the stack:
 - [[skill-graphs-shivsakhuja-2026-04]]
 - [[sub-agents-vs-agent-teams-suryanshti777-2026-04]]
 - [[mem0-v3-release]]
+- [[personal-automation]]

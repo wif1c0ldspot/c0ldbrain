@@ -19,3 +19,6 @@ summary: AI-powered document processing and analysis. See glm-ocr-open-source-20
 STUB — Requires expansion.
 
 [[glm-ocr-open-source-2026-04]] — Open-source OCR with GLM
+
+## Related
+- [[automation]]

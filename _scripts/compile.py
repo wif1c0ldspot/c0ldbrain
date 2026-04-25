@@ -64,6 +64,13 @@ MERMAID_DIR = WIKI_ROOT / "outputs" / "mermaid"
 
 # Use canonical VALID_TAGS from wiki_config (138 tags, single source of truth)
 VALID_TAGS = wiki_config.VALID_TAGS
+# Domain-level tags for grouping (used by finalize for index/mermaid generation)
+VALID_DOMAINS = {
+    "ai-agents", "ml-models", "crypto-quant", "devops", "security", "infrastructure",
+    "agentic-ai", "knowledge-management", "memory-systems", "mcp-protocol",
+    "quantitative-trading", "ai-security", "prompt-engineering", "local-models",
+    "context-engineering", "multi-agent", "developer-tools", "hermes",
+}
 
 # ---------------------------------------------------------------------------
 # Knowledge Lifecycle helpers (LLM Wiki v2 — rohitg00 additions)

@@ -6,7 +6,7 @@ tags:
 - reasoning
 - prompt-engineering
 created: '2026-04-23'
-updated: '2026-04-23'
+updated: '2026-04-25'
 confidence: medium
 status: stub
 priority: reference
@@ -14,11 +14,15 @@ summary: Chain-of-thought prompting for structured reasoning. See reasoning-para
   for broader context.
 ---
 
-# Chain Of Thought
+*Concept in the ml-models domain — needs expansion.*
 
-STUB — Requires expansion.
-
-[[reasoning-paradigms]] — LLM reasoning paradigms
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
 
 ## Related
+- [[ml-models-handbook-2026]]
+- [[reasoning-paradigms]]
 - [[recursive-language-models]]

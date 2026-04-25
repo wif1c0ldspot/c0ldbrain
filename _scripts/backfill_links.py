@@ -6,13 +6,8 @@ from collections import defaultdict
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(SCRIPT_DIR))
-from wiki_config import WIKI_ROOT
+from wiki_config import WIKI_ROOT, WIKI_DIR, CONCEPTS_DIR, SOURCES_DIR, SYNTHESIS_DIR, MANIFEST_PATH
 
-WIKI_DIR = WIKI_ROOT / "wiki"
-SOURCES_DIR = WIKI_DIR / "sources"
-CONCEPTS_DIR = WIKI_DIR / "concepts"
-SYNTHESIS_DIR = WIKI_DIR / "synthesis"
-MANIFEST_PATH = WIKI_ROOT / "MANIFEST.json"
 
 WIKILINK_RE = re.compile(r'\[\[([^\]|]+?)(?:\|[^\]]+)?\]\]')
 DATE_PREFIX_RE = re.compile(r'^\d{4}-\d{2}-\d{2}')

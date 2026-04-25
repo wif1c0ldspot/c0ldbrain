@@ -243,3 +243,5 @@ All require **zero source modifications**:
 - [[langflow-claude-code-integration]]
 - [[multica-platform]]
 - [[mac-mini-35b-local-ai-agent-2026-04]]
+- [[agency-agents]]
+- [[infrastructure-handbook-2026]]

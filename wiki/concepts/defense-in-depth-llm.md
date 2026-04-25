@@ -73,3 +73,4 @@ updated: '2026-04-18'
 - [[prompt-injection-defense-guide]]
 - [[prompt-injection-defense-tools]]
 - [[prompt-injection-incidents]]
+- [[infrastructure-handbook-2026]]

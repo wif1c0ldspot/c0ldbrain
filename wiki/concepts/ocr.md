@@ -19,3 +19,6 @@ summary: Optical character recognition with AI. See glm-ocr-open-source-2026-04 
 STUB — Requires expansion.
 
 [[glm-ocr-open-source-2026-04]] — GLM open-source OCR
+
+## Related
+- [[automation]]

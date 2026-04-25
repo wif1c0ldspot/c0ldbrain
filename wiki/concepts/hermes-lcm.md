@@ -112,3 +112,5 @@ LCM enables a **claim → mechanism → proof** evaluation structure:
 
 - [[honcho-hermes-lcm-stack-bayendor-2026-04]] — Production stack walkthrough by david bayendor
 - https://github.com/stephenschoettler/hermes-lcm
+
+- [[infrastructure-handbook-2026]]

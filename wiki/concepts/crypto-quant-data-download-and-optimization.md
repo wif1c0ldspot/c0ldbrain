@@ -1,5 +1,5 @@
 ---
-title: "Crypto Quant Data Pipeline"
+title: Crypto Quant Data Pipeline
 type: concept
 tags:
 - quantitative-trading
@@ -8,9 +8,9 @@ tags:
 created: '2026-04-25'
 updated: '2026-04-25'
 confidence: medium
-status: current
+status: stub
 priority: important
-summary: "End-to-end data download and optimization workflow for crypto quant"
+summary: End-to-end data download and optimization workflow for crypto quant
 ---
 
 # Crypto Quant Data Pipeline

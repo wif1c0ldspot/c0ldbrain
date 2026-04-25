@@ -11,7 +11,7 @@ created: 2026-04-22
 updated: 2026-04-22
 confidence: high
 status: current
-priority: high
+priority: important
 url: https://arxiv.org/abs/2604.17091
 category: Hybrid
 summary: Token-efficient self-evolving agent that maximizes contextual information

@@ -6,7 +6,7 @@ tags:
 - ml-models
 - multimodal
 created: '2026-04-23'
-updated: '2026-04-23'
+updated: '2026-04-25'
 confidence: medium
 status: stub
 priority: reference
@@ -14,11 +14,17 @@ summary: Speech-to-text and voice recognition for AI agents. See voice-ai for br
   voice ecosystem.
 ---
 
-# Speech Recognition
+*Concept in the voice-ai domain — needs expansion.*
 
-STUB — Requires expansion.
-
-[[voice-ai]] — Voice AI ecosystem and tools
+- Speech recognition
+- [[speech-recognition]]
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
 
 ## Related
-- [[nvidia-personaple-voice-ai-2026-04]]
+- [[ml-models-handbook-2026]]
+[[nvidia-ai]] · [[voice-ai]] · [[open-source-ai-infra]]
+
+## Sources
+[[nvidia-personaple-voice-ai-2026-04]]

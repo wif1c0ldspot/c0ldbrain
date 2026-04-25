@@ -29,3 +29,4 @@ Pattern for escalating agent tasks to human review or higher-capability models
 
 ## Related
 - [[confusion-protocol]]
+- [[infrastructure-handbook-2026]]

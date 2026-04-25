@@ -23,6 +23,8 @@ summary: AI-powered developer tools and IDE integrations. See ai-coding-agents f
 - *Key aspect to be expanded*
 
 ## Related
+- [[infrastructure-handbook-2026]]
+- [[knowledge-graph-codebase-engine-2026-04]]
 [[ai-coding-agents]] · [[open-source-ai-infra]] · [[knowledge-graphs]] · [[codebase-analysis]]
 
 ## Sources

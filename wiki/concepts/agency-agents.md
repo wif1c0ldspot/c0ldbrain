@@ -23,6 +23,7 @@ summary: Agent systems with high degrees of autonomy and agency. See agentic-ai 
 - *Key aspect to be expanded*
 
 ## Related
+- [[agentic-ai]]
 [[resolvers]] · [[claude-code]] · [[brain-inspired-agent-architecture]]
 
 ## Sources

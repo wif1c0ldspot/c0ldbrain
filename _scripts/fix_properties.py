@@ -39,18 +39,22 @@ import argparse
 from pathlib import Path
 from collections import defaultdict
 
+SCRIPT_DIR = Path(__file__).resolve().parent
+sys.path.insert(0, str(SCRIPT_DIR))
+import wiki_config
+
 try:
     import yaml
 except ImportError:
     print("ERROR: PyYAML required. Run: pip install pyyaml")
     sys.exit(1)
 
-# --- Configuration ---
-WIKI_ROOT = Path("/Volumes/obsidian/C0ldbrain")
-CONCEPTS_DIR = WIKI_ROOT / "wiki" / "concepts"
-SOURCES_DIR = WIKI_ROOT / "wiki" / "sources"
-SYNTHESIS_DIR = WIKI_ROOT / "wiki" / "synthesis"
-PLANS_DIR = WIKI_ROOT / "wiki" / "plans"
+# --- Configuration (from wiki_config single source of truth) ---
+WIKI_ROOT = wiki_config.WIKI_ROOT
+CONCEPTS_DIR = wiki_config.CONCEPTS_DIR
+SOURCES_DIR = wiki_config.SOURCES_DIR
+SYNTHESIS_DIR = wiki_config.SYNTHESIS_DIR
+PLANS_DIR = wiki_config.WIKI_DIR / "plans"
 
 VALID_PRIORITIES = {"critical", "important", "reference"}
 VALID_CONFIDENCES = {"high", "medium", "low"}

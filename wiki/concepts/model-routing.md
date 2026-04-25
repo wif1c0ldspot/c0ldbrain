@@ -24,3 +24,4 @@ STUB — Requires expansion.
 - [[claude-code-opus-planning-2026-04]]
 - [[claude-code-patterns]]
 - [[local-llm-infrastructure]]
+- [[infrastructure-handbook-2026]]

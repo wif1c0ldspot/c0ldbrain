@@ -178,3 +178,4 @@ The problem with most agent systems: they're organizations with no management la
 - [[gstack-garrytan-2026-04]]
 - [[hermes-agent-architecture]]
 - [[llm-knowledge-bases]]
+- [[agency-agents]]

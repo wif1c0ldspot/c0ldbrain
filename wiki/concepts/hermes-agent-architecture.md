@@ -161,6 +161,13 @@ Critical questions a harness must answer for memory:
 - [[skill-composition-procedural-learning]]
 - [[skillx-skill-kb-2026]]
 - [[steps-compositional-generalization-2026]]
+- [[agentic-memory-research]]
+- [[sub-agents-vs-agent-teams-suryanshti777-2026-04]]
+- [[teknium-hermes-llm-wiki-2026-04]]
+- [[toolrla-reward-decomposition-2026]]
+- [[visual-explainer-2026-04]]
+- [[weekly-synthesis-2026-04-20]]
+- [[weekly-synthesis-async-subagent-2026-04-17]]
 
 - [[hermes-multi-profile-team]] — 4-profile team architecture (orchestrator + research + writer + engineer)
 - [[hermes-ecosystem-projects]] — 5 key community projects (CaMeL, Alpha, Skill Factory, Maestro, Icarus)

@@ -30,3 +30,6 @@ Also see:
 - [[recursive-language-models]]
 - [[resolvers]]
 - [[shannholmberg-ai-knowledge-layer-2026-04]]
+- [[ai-content-creation]]
+- [[context-engineering-handbook-2026]]
+- [[brand-foundation]]

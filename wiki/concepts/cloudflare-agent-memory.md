@@ -71,3 +71,5 @@ Cloudflare entered the agent memory market (April 17, 2026) with a managed servi
 - [Cloudflare Blog: Introducing Agent Memory](https://blog.cloudflare.com/introducing-agent-memory/) (2026-04-17)
 
 - [[cloudflare-agent-memory]]
+- [[context-engineering-handbook-2026]]
+- [[infrastructure-handbook-2026]]

@@ -206,3 +206,4 @@ Extend via:
 - [[claude-integration]]
 - [[jarvis-obsidian-claude-code-cyrilxbt-2026-04]]
 - [[prompt-engineering]]
+- [[personal-automation]]

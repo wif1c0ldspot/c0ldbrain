@@ -121,3 +121,5 @@ Small models + RLM on consumer hardware can compete with frontier models:
 
 - [[recursive-language-models-rlm-2026]]
 - [[rlms-new-reasoning-models-rawworks-2026-04]]
+- [[infrastructure-handbook-2026]]
+- [[ml-models-handbook-2026]]

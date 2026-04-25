@@ -30,3 +30,4 @@ Anthropic's Claude desktop integration and markdown-based agent workflow
 ## Related
 - [[langflow-claude-code-integration]]
 - [[rohit4verse-claude-code-architecture-2026-04]]
+- [[infrastructure-handbook-2026]]

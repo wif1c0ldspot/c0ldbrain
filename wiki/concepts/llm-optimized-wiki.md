@@ -39,3 +39,7 @@ Wiki architecture designed for efficient LLM consumption and reasoning
 - [[knowledge-layer]]
 - [[polymarket-weather-hermes-agent-0xmovez-2026-04]]
 - [[shannholmberg-ai-knowledge-layer-2026-04]]
+- [[agentic-memory-research]]
+- [[ai-content-creation]]
+- [[personal-automation]]
+- [[brand-foundation]]

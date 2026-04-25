@@ -76,3 +76,4 @@ Every production agent system implicitly does demand paging. This framing makes 
 - [[memmachine-multi-tier-memory-2026-04]]
 - [[memory-firewall]]
 - [[memory-worth-governance-2026-04]]
+- [[context-engineering-handbook-2026]]

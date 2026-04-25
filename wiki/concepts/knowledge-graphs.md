@@ -24,3 +24,4 @@ STUB — Requires expansion.
 - [[chum-mem-pckc-2026-04]]
 - [[claim-based-memory]]
 - [[knowledge-graph-codebase-engine-2026-04]]
+- [[developer-tools]]

@@ -100,3 +100,6 @@ Critical questions for harnesses integrating with MCP:
 - [[openai-agents-sdk]]
 - [[openchronicle-einsia-2026-04]]
 - [[panaversity-learn-agentic-ai-2026-04]]
+- [[context-engineering-handbook-2026]]
+- [[rohit4verse-claude-code-architecture-2026-04]]
+- [[simplemem-github-2026-04]]

@@ -6,11 +6,8 @@ from collections import defaultdict
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(SCRIPT_DIR))
-from wiki_config import WIKI_ROOT
+from wiki_config import WIKI_ROOT, WIKI_DIR, CONCEPTS_DIR, SOURCES_DIR
 
-WIKI_DIR = WIKI_ROOT / "wiki"
-SOURCES_DIR = WIKI_DIR / "sources"
-CONCEPTS_DIR = WIKI_DIR / "concepts"
 STUB_THRESHOLD = 200
 
 WIKILINK_RE = re.compile(r'\[\[([^\]|]+?)(?:\|[^\]]+)?\]\]')

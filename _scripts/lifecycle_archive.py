@@ -19,9 +19,10 @@ import shutil
 from pathlib import Path
 from datetime import datetime
 
-WIKI_ROOT = "/Volumes/obsidian/C0ldbrain"
-LIFECYCLE_REPORT = Path(WIKI_ROOT) / "outputs" / "lifecycle" / "lifecycle-report.json"
-ARCHIVE_DIR = Path(WIKI_ROOT) / "wiki" / "archive"
+import wiki_config
+WIKI_ROOT = wiki_config.WIKI_ROOT
+LIFECYCLE_REPORT = wiki_config.LIFECYCLE_REPORT
+ARCHIVE_DIR = wiki_config.ARCHIVE_DIR
 
 
 def parse_frontmatter(content):

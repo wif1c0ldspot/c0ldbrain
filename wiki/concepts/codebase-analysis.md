@@ -6,18 +6,23 @@ tags:
 - code-analysis
 - developer-tools
 created: '2026-04-23'
-updated: '2026-04-23'
+updated: '2026-04-25'
 confidence: medium
 status: stub
 priority: reference
 summary: AI-powered codebase analysis. See code-review-graph for structural code understanding.
 ---
 
-# Codebase Analysis
+*Concept in the ai-coding-agents domain — needs expansion.*
 
-STUB — Requires expansion.
-
-[[code-review-graph]] — Tree-sitter knowledge graph for codebases
+- [[codebase-analysis]]
+- [[developer-tools]]
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
 
 ## Related
-- [[knowledge-graph-codebase-engine-2026-04]]
+[[developer-tools]] · [[knowledge-graphs]]
+
+## Sources
+[[knowledge-graph-codebase-engine-2026-04]]
