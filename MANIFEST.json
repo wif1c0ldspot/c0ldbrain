@@ -872,5 +872,14 @@
     }
   ],
   "last_updated": "2026-04-23",
-  "source_count": 7
+  "source_count": 7,
+  "sources/2026-04-25-agentic-memory": {
+    "status": "uncompiled",
+    "date": "2026-04-25",
+    "source": "agentic-memory-research-cron",
+    "tags": [
+      "agentic-memory",
+      "daily-research"
+    ]
+  }
 }
