@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-04-25",
+  "updated": "2026-04-26",
   "sources": {
     "langflow-claude-code-integration": {
       "type": "concept",
@@ -734,7 +734,7 @@
       "ingested_at": "2026-04-25",
       "compiled_at": "2026-04-25",
       "source_page": "wiki/synthesis/infrastructure-handbook-2026.md",
-      "last_linted": "2026-04-25"
+      "last_linted": "2026-04-26"
     },
     "synthesis/ml-models-handbook-2026": {
       "type": "synthesis",
@@ -742,7 +742,7 @@
       "ingested_at": "2026-04-25",
       "compiled_at": "2026-04-25",
       "source_page": "wiki/synthesis/ml-models-handbook-2026.md",
-      "last_linted": "2026-04-25"
+      "last_linted": "2026-04-26"
     },
     "synthesis/context-engineering-handbook-2026": {
       "type": "synthesis",
@@ -750,7 +750,7 @@
       "ingested_at": "2026-04-25",
       "compiled_at": "2026-04-25",
       "source_page": "wiki/synthesis/context-engineering-handbook-2026.md",
-      "last_linted": "2026-04-25"
+      "last_linted": "2026-04-26"
     },
     "raw/social/akshay-agent-harness-anatomy-2026-04.md": {
       "type": "raw",
@@ -770,13 +770,19 @@
       "source_url": "https://x.com/akshay_pachaar/status/2041146899319971922",
       "concept_pages_created": [
         "agent-harness"
-      ]
+      ],
+      "last_linted": "2026-04-26"
+    },
+    "raw/daily-research/2026-04-25-agentic-memory.md": {
+      "type": "raw",
+      "status": "unprocessed",
+      "discovered_at": "2026-04-26"
     }
   },
   "concept_count": 197,
   "synthesis_count": 6,
   "research_log_entries": 1,
-  "last_compile": "2026-04-25",
+  "last_compile": "2026-04-26",
   "entries": [
     {
       "path": "wiki/sources/cavemem-cross-agent-memory-2026-04.md",

@@ -60,6 +60,12 @@ The harness is distinct from the "agent" — the agent is emergent behavior; the
 - [[harness-design]]
 - [[harness-engineering-trae-ai-2026-04]]
 - [[langflow-claude-code-integration]]
+- [[memory-firewall]]
+- [[multica-platform]]
+- [[multica-relational-agent-memory]]
+- [[openai-agents-sdk]]
+- [[openviking-context-database-volcengine-2026-04]]
+- [[rohit4verse-claude-code-architecture-2026-04]]
 
 - [[akshay-agent-harness-anatomy-2026-04]]
 - [[agent-architecture]]

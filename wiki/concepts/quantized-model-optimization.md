@@ -6,7 +6,7 @@ tags:
 - quantization
 - local-models
 created: '2026-04-23'
-updated: '2026-04-23'
+updated: '2026-04-26'
 confidence: medium
 status: stub
 priority: reference
@@ -14,12 +14,10 @@ summary: Optimization techniques for quantized models. See quantization-techniqu
   and emergence-in-quantized-models.
 ---
 
-# Quantized Model Optimization
+*Concept in the ml-models domain — needs expansion.*
 
-STUB — Requires expansion.
-
-[[quantization-techniques]] — QLoRA, K-quants, TurboQuant
-
-## Related
-- [[agent-evolution-stages]]
-- [[ml-models-handbook-2026]]
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*

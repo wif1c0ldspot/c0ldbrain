@@ -192,6 +192,8 @@
   },
   "active": "185a00b8c69db220",
   "lastOpenFiles": [
+    "outputs/digest/2026-04-26.md",
+    "outputs/health/2026-04-26.json",
     "wiki/sources/akshay-agent-harness-anatomy-2026-04.md",
     "raw/social/akshay-agent-harness-anatomy-2026-04.md",
     "raw/daily-research/2026-04-25-agentic-memory.md",
@@ -220,13 +222,11 @@
     "wiki/MANIFEST.json",
     "wiki/sources/jarvis-obsidian-claude-code-cyrilxbt-2026-04.md",
     "_scripts/property_fix_log.json",
-    "_scripts/fix_properties.py",
     "SCHEMA.md",
     "CATALINX_PTE_LTD_FRS_2025.md",
     "wiki/sources/2026-04-20-research.md",
     "ABOUT.md",
     "wiki/concepts/financial-llms.md",
-    "wiki/sources/fingpt-ai4finance-2026-04.md",
-    "raw/github/fingpt-ai4finance-2026-04.md"
+    "wiki/sources/fingpt-ai4finance-2026-04.md"
   ]
 }

@@ -1,13 +1,12 @@
 ---
 title: "Wiki Index"
-updated: "2026-04-25"
+updated: "2026-04-26"
 ---
 
 # C0ldbrain Wiki - Master Index
 
 ## Ai Agents
 
-- [[agent-harness]] — Scaffolding that turns raw LLM into functional agent — memory, tools, state management, and deterministic control systems
 - [[agent-meta-optimization]] — Autonomous meta-agent systems that iteratively optimize AI agent configurations
 - [[ai-coding-agents]] — 'The ecosystem of AI coding agents: Claude Code, Cursor, and their supporting
 - [[browser-automation]] — Automating browser interactions with AI agents via CDP, DOM manipulation, and agent-driven tool use.
@@ -92,6 +91,7 @@ updated: "2026-04-25"
 - [[agency-agents]] — Agent systems with high degrees of autonomy and agency. See agentic-ai for
 - [[agent-architecture]] — Structural patterns for building AI agents — decision loops, memory hierarchy,
 - [[agent-evolution-stages]] — Agent Evolution Stages
+- [[agent-harness]] — The complete software infrastructure wrapping an LLM: orchestration loop, tools, memory, context management, state persistence, error handling, and guardrails. Formalized 2026.
 - [[agent-infrastructure]] — Backend systems supporting agent operation — servers, APIs, state management
 - [[agent-orchestration-stacks]] — 'Pattern of combining orchestration (task routing, multi-agent coordination)
 - [[agent-skills-systems]] — Pattern of organizing AI coding agent capabilities as structured skills mapped
@@ -250,4 +250,4 @@ updated: "2026-04-25"
 ## Stats
 - Total concepts: 197
 - Domains covered: 15
-- Last compiled: 2026-04-25
+- Last compiled: 2026-04-26
