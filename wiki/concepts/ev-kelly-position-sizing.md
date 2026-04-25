@@ -19,3 +19,6 @@ summary: Expected Value and Kelly criterion position sizing. See markov-chains f
 STUB — Requires expansion.
 
 [[markov-chains]] — Markov models for trading prediction
+
+## Related
+- [[polymarket-weather-trading-strategy]]

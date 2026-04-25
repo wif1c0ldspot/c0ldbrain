@@ -62,3 +62,5 @@ The Letta Code app (launched April 6, 2026) is the consumer-facing product built
 
 - [Letta Blog: Context Constitution](https://letta.com/blog/context-constitution) (2026-04-02)
 - [Letta Blog: Letta Code App](https://letta.com/blog) (2026-04-06)
+
+- [[context-constitution]]

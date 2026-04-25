@@ -26,3 +26,11 @@ Model quantization methods for efficient inference — INT8, INT4, GGUF, GPTQ
 ## See Also
 - [[agentic-ai]]
 - [[knowledge-management]]
+
+## Related
+- [[emergence-in-quantized-models]]
+- [[emergent-agent-evolution-synthesis]]
+- [[local-397b-model-macbook-2026-03]]
+- [[mlx-turboquant-local-power-2026-04]]
+- [[predictive-coding-active-inference]]
+- [[quantized-model-optimization]]

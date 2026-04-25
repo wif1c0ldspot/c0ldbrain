@@ -137,3 +137,5 @@ ELSE:
 
 - [[gstack-garrytan-2026-04]] — Source of the Confusion Protocol
 - Garry Tan's gstack README: https://github.com/garrytan/gstack
+
+- [[confusion-protocol]]

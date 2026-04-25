@@ -20,3 +20,6 @@ Techniques for designing, optimizing, and structuring prompts for LLM-based syst
 - [[token-optimization]] — Token-efficient prompt design
 - [[context-engineering-synthesis]] — Context stack and prompt context management
 - [[prompt-injection-comprehensive-2026]] — Security considerations for prompts
+
+- [[autogenesis-self-evolving-agent-protocol-2026-04]]
+- [[claude-caveman-prompting-strategy-2026-04]]

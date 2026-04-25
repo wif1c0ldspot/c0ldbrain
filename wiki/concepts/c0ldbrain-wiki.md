@@ -19,3 +19,6 @@ summary: C0ldbrain knowledge base wiki — LLM-optimized compiled knowledge syst
 STUB — Requires expansion.
 
 [[llm-knowledge-bases]] — LLM wiki architecture pattern
+
+## Related
+- [[shannholmberg-ai-knowledge-layer-2026-04]]

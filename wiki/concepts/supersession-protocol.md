@@ -26,3 +26,7 @@ Pattern for replacing outdated AI models or strategies with newer versions
 ## See Also
 - [[agentic-ai]]
 - [[knowledge-management]]
+
+## Related
+- [[apex-mem-acl-2026-2026-04]]
+- [[knowledge-lifecycle-decision-framework]]

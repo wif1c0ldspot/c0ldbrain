@@ -27,3 +27,6 @@ Unexpected behaviors and strategies arising from agent interaction with complex 
 ## See Also
 - [[agentic-ai]]
 - [[knowledge-management]]
+
+## Related
+- [[brain-inspired-agent-architecture]]

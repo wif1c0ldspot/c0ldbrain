@@ -16,3 +16,7 @@ summary: "Algorithmic trading strategies for cryptocurrency markets"
 # Crypto Quantitative Trading
 
 STUB — auto-created during lint fix. Requires expansion.
+
+## Related
+- [[financial-llms]]
+- [[fingpt-ai4finance-2026-04]]

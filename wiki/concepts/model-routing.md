@@ -19,3 +19,8 @@ summary: Intelligent routing of tasks to optimal models based on complexity and 
 STUB — Requires expansion.
 
 [[hermes-agent-architecture]] — Hermes smart model routing implementation
+
+## Related
+- [[claude-code-opus-planning-2026-04]]
+- [[claude-code-patterns]]
+- [[local-llm-infrastructure]]

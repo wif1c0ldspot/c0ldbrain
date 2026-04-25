@@ -89,3 +89,14 @@ Vulnerability in Model Context Protocol:
 
 
 [[quantitative-trading]], [[mcp-protocol]], [[ai-coding-agents]]
+
+- [[agent-cli-tools]]
+- [[cli-anything-hkuds-2026-04]]
+- [[crucix-osint-tool-2026-03]]
+- [[glm-ocr-open-source-2026-04]]
+- [[markitdown-microsoft-2026-04]]
+- [[nvidia-personaple-voice-ai-2026-04]]
+- [[timesfm-google-2026-04]]
+- [[vibevoice-microsoft-2026-04]]
+- [[visual-explainer-2026-04]]
+- [[voice-ai]]

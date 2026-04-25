@@ -19,3 +19,6 @@ summary: Static brand knowledge layer for AI content systems. See knowledge-laye
 STUB — Requires expansion.
 
 [[knowledge-layer]] — Two-layer architecture (static + dynamic)
+
+## Related
+- [[shannholmberg-ai-knowledge-layer-2026-04]]

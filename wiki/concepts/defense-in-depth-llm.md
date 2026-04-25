@@ -63,3 +63,13 @@ updated: '2026-04-18'
 
 
 [[prompt-injection-comprehensive-2026]], [[llm-supply-chain-attacks]], [[continuous-red-teaming]], [[llm-vulnerability-scanners]], [[rag-security]]
+
+- [[ai-security-handbook-2026]]
+- [[ai-security-synthesis]]
+- [[magika]]
+- [[multimodal-ai-security]]
+- [[owasp-top-10-for-llm]]
+- [[prompt-injection-attack-vectors]]
+- [[prompt-injection-defense-guide]]
+- [[prompt-injection-defense-tools]]
+- [[prompt-injection-incidents]]

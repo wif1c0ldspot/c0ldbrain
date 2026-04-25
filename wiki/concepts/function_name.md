@@ -19,3 +19,7 @@ summary: Function naming in agent tool calls. See mcp-protocol for standardized 
 STUB — Requires expansion.
 
 [[mcp-protocol]] — Model Context Protocol
+
+## Related
+- [[contextplus-mcp-2026-04]]
+- [[building-agents-mcp-production]]

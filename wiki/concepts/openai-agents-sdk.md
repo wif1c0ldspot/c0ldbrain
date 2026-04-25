@@ -120,3 +120,6 @@ Runner.run_streamed(agent, user_input, run_config=RunConfig(...))
 - [[multica-relational-agent-memory]] — relational memory for multi-agent systems
 - [[mcp-protocol]] — tool calling standard
 - [[ai-coding-agents]] — coding agent ecosystem
+
+- [[openai-agents-python-sdk-github-2026-04]]
+- [[github-agent-repos-roundup-gittrend-2026-04]]

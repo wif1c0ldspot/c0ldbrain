@@ -19,3 +19,6 @@ summary: Hermes delegate_task tool for spawning subagents. See async-subagent-pa
 STUB — Requires expansion.
 
 [[async-subagent-pattern]] — Async subagent architecture
+
+## Related
+- [[weekly-synthesis-async-subagent-2026-04-17]]

@@ -19,3 +19,6 @@ summary: AI applications in finance and trading. See quantitative-trading for tr
 STUB — Requires expansion.
 
 [[quantitative-trading]] — Quantitative trading methodology
+
+## Related
+- [[automated-stock-research-agent-2026-03]]

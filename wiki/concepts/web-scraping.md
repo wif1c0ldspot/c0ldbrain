@@ -6,15 +6,23 @@ tags:
 - scraping
 - data-extraction
 created: '2026-04-23'
-updated: '2026-04-23'
+updated: '2026-04-25'
 confidence: medium
 status: stub
 priority: reference
 summary: Web scraping with AI agents. See browser-automation for related approaches.
 ---
 
-# Web Scraping
+*Concept in the ai-agents domain — needs expansion.*
 
-STUB — Requires expansion.
+- Web scraping without selectors
+- [[web-scraping]]
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
 
-[[browser-automation]] — Browser-based agent automation
+## Related
+[[agentic-ai]] · [[gui-agents]] · [[browser-automation]]
+
+## Sources
+[[alibaba-gui-agent-web-control-2026-03]]

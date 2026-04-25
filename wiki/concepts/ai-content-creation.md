@@ -6,7 +6,7 @@ tags:
 - content
 - productivity
 created: '2026-04-23'
-updated: '2026-04-23'
+updated: '2026-04-25'
 confidence: medium
 status: stub
 priority: reference
@@ -14,8 +14,16 @@ summary: AI-powered content creation workflows. See shannholmberg-ai-knowledge-l
   for knowledge layer approach.
 ---
 
-# Ai Content Creation
+*Concept in the ai-agents domain — needs expansion.*
 
-STUB — Requires expansion.
+- [[ai-content-creation]] — Content workflows
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
 
-[[knowledge-layer]] — Two-layer knowledge architecture
+## Related
+[[brand-foundation]] · [[c0ldbrain-wiki]] · [[knowledge-base-layer]] · [[personal-knowledge-management]] · [[karpathy-llm-knowledge-bases]] · [[langflow-claude-code-integration]] · [[context-engineering]] · [[llm-optimized-wiki]]
+
+## Sources
+[[shannholmberg-ai-know...

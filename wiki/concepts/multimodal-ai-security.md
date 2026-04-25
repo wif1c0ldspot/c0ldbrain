@@ -46,3 +46,11 @@ updated: '2026-04-18'
 
 
 [[prompt-injection-comprehensive-2026]], [[defense-in-depth-llm]], [[rag-security]], [[llm-vulnerability-scanners]], [[llm-supply-chain-attacks]]
+
+- [[ai-security-handbook-2026]]
+- [[multi-modal-ai]]
+- [[owasp-top-10-for-llm]]
+- [[prompt-injection-attack-vectors]]
+- [[prompt-injection-defense-guide]]
+- [[vibevoice-microsoft-2026-04]]
+- [[voice-ai]]

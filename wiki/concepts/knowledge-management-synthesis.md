@@ -130,3 +130,9 @@ Most practical systems use hybrids:
 - [[memory-systems]] — Memory technologies (TurboQuant, MemPalace)
 - [[context-substrate]] — Context engineering foundations
 - [[vectorless-rag]] — Alternative retrieval approach
+
+- [[commoncrawl-backlink-extraction]]
+- [[context-engineering-synthesis]]
+- [[gbrain-agent-brain]]
+- [[hermes-multi-profile-team]]
+- [[knowledge-management]]

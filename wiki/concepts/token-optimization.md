@@ -124,3 +124,21 @@ Tree-sitter-based MCP server provides structured code context instead of raw tex
 ## Related Concepts
 
 [[skill-registry]], [[memory-systems]], [[code-review-graph]], [[claude-md-best-practices]], [[local-llm-infrastructure]], [[agent-cli-tools]], [[vectorless-rag]]
+
+- [[ai-agents-handbook-2026]]
+- [[ai-coding-agents]]
+- [[axi-agent-experience-interface-2026-04]]
+- [[claude-caveman-prompting-strategy-2026-04]]
+- [[claude-code-opus-planning-2026-04]]
+- [[claude-code-patterns]]
+- [[cli-vs-mcp-debate]]
+- [[context-engineering]]
+- [[contextplus-mcp-2026-04]]
+- [[genericagent-contextual-density-2026-04]]
+- [[google-engineer-claude-code-automation-2026-04]]
+- [[knowledge-management-handbook-2026]]
+- [[llm-knowledge-bases]]
+- [[mac-mini-35b-local-ai-agent-2026-04]]
+- [[pageindex-vectorless-rag-2026-04]]
+- [[prompt-engineering]]
+- [[quantitative-trading]]

@@ -73,3 +73,10 @@ This log tracks research findings on pathways to emergent behavior in AI agents 
 3. **Object-centric priors dramatically improve data efficiency** — AXIOM in 10K steps
 4. **Multi-agent active inference enables self-emergent coordination** — No central planning needed
 5. **The Free Energy Principle is a unifying lens** — Connects memory, skills, workspace, and prediction
+
+## Related
+- [[cross-pathway-neuromodulation-synthesis-2026-04]]
+- [[evomedagent-memory-agents-2026-04]]
+- [[global-workspace-oscillation-coordination]]
+- [[hypermem-hypergraph-memory-2026-04]]
+- [[memory-worth-governance-2026-04]]

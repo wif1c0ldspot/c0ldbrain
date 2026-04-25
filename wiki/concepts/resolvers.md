@@ -173,3 +173,8 @@ The problem with most agent systems: they're organizations with no management la
 ## Key Sources
 
 - [[resolvers-garrytan-2026-04]] - Garry Tan's original article
+
+- [[ai-coding-agents]]
+- [[gstack-garrytan-2026-04]]
+- [[hermes-agent-architecture]]
+- [[llm-knowledge-bases]]

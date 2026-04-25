@@ -135,3 +135,12 @@ This source confirmed and expanded on several points:
 - [[ai-coding-agents]] — cloud agent ecosystem
 - [[token-optimization-and-efficiency]] — token reduction strategies
 - [[model-routing]] — Hermes model routing
+
+- [[apple-silicon-ai]]
+- [[edge-ai]]
+- [[local-397b-model-macbook-2026-03]]
+- [[mac-mini-35b-local-ai-agent-2026-04]]
+- [[mlx-turboquant-local-power-2026-04]]
+- [[privacy-first-ai]]
+- [[token-optimization]]
+- [[leopardracer-mac-mini-local-llm-2026-04]]

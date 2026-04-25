@@ -207,3 +207,5 @@ Patterns persist:
 - [[karpathy-llm-kb-architecture-2026-04]]
 - [[karpathy-personal-kb-agents-2026-04]]
 - [[karpathy-llm-kb-pattern-2026-04]]
+
+- [[autogenesis-self-evolving-agent-protocol-2026-04]]

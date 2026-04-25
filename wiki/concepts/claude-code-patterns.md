@@ -202,3 +202,7 @@ Extend via:
 - [[claude-code-skill-graphs-2026-04]]
 - [[claude-code-opus-planning-2026-04]]
 - [[excalidraw-claude-streaming-2026-04]]
+
+- [[claude-integration]]
+- [[jarvis-obsidian-claude-code-cyrilxbt-2026-04]]
+- [[prompt-engineering]]

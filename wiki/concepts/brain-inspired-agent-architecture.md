@@ -570,3 +570,21 @@ Cerebellum (refine output)
 - Neural Oscillations (Buzsáki)
 - Free Energy Principle (Friston)
 - [[agent-evolution-stages]] — Your evolution framework
+
+- [[active-inference-free-energy-principle]]
+- [[agent-harness]]
+- [[arxiv-active-inference-papers-2026-03]]
+- [[axiom-active-inference-games-2025]]
+- [[evomedagent-memory-agents-2026-04]]
+- [[github-agent-repos-roundup-gittrend-2026-04]]
+- [[github-ai-tools-roundup-2026-04]]
+- [[global-workspace-oscillation-coordination]]
+- [[gstack-garrytan-2026-04]]
+- [[harness-engineering-trae-ai-2026-04]]
+- [[hypermem-hypergraph-memory-2026-04]]
+- [[memory-worth-governance-2026-04]]
+- [[odar-active-inference-llm-2026]]
+- [[orchestrator-active-inference-mas-2025]]
+- [[predictive-coding-active-inference]]
+- [[skill-composition-procedural-learning]]
+- [[synergistic-rl-cerebellum-basalganglia-2025]]

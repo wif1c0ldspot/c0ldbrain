@@ -16,3 +16,7 @@ summary: "Research into alpha factors for crypto quant strategies"
 # Crypto Quant Factor Research
 
 STUB — auto-created during lint fix. Requires expansion.
+
+## Related
+- [[financial-llms]]
+- [[fingpt-ai4finance-2026-04]]

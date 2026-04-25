@@ -113,3 +113,9 @@ Additional source: [[google-engineer-claude-code-automation-2026-04]] — provid
 - File-based memory via CLAUDE.md persistence
 - Context window management for long sessions
 - Validates and extends the patterns described above
+
+- [[claude-code-from-source-2026-04]]
+- [[langflow-claude-code-integration]]
+- [[token-optimization]]
+- [[karpathy-wiki-self-evolving-claude-2026-04-06]]
+- [[noisyb0y1-claude-code-thread-2026-04]]

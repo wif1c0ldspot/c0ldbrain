@@ -76,3 +76,7 @@ summary: "Defense-in-depth architecture: 5 layers — input validation, prompt e
 - [[rag-security]] — RAG measures
 - [[multimodal-ai-security]] — Multimodal patterns
 - [[ai-compliance-frameworks]] — Regulatory compliance
+
+- [[ai-security-handbook-2026]]
+- [[prompt-injection-attack-vectors]]
+- [[prompt-injection-incidents]]

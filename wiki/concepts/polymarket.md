@@ -19,3 +19,6 @@ summary: Prediction market platform for event betting. See polymarket-weather-tr
 STUB — Requires expansion.
 
 [[polymarket-weather-trading-strategy]] — Weather-based prediction market strategy
+
+## Related
+- [[markov-chains]]

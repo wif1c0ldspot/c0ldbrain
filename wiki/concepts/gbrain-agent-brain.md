@@ -177,6 +177,10 @@ gbrain query "what themes show up?"
 
 ## Related
 - [[gbrain-garrytan-ayi-ainotes-2026-04]] Concepts
+- [[hermes-ecosystem-projects]]
+- [[hermes-multi-profile-team]]
+- [[memory-systems]]
+- [[gbrain-garrytan-agent-brain-2026-04]]
 
 - [[knowledge-management-synthesis]] — Paradigm comparison
 - [[llm-knowledge-bases]] — LLM wiki pattern

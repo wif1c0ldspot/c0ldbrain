@@ -66,3 +66,8 @@ See: [[cli-anything-hkuds-2026-04]]
 
 - [[axi-agent-experience-interface-2026-04]]
 - [[cli-anything-hkuds-2026-04]]
+
+- [[cli-vs-mcp-debate]]
+- [[mcp-protocol]]
+- [[skill-registry]]
+- [[career-ops-2026-04]]

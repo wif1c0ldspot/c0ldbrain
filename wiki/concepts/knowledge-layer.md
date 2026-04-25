@@ -185,3 +185,12 @@ my-wiki/
 - [[llm-optimized-wiki]] — Your implementation
 - [[knowledge-management-synthesis]] — Unified paradigm comparison
 - [[gbrain-agent-brain]] — Production implementation (Garry Tan)
+
+## Related
+- [[active-inference-free-energy-principle]]
+- [[ai-content-creation]]
+- [[arxiv-active-inference-papers-2026-03]]
+- [[brain-inspired-agent-architecture]]
+- [[brand-foundation]]
+- [[knowledge-base-layer]]
+- [[weekly-synthesis-async-subagent-2026-04-17]]

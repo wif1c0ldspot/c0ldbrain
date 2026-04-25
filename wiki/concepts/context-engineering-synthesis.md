@@ -143,6 +143,19 @@ Formalized as a discipline with five sub-fields:
 
 ## Related
 - [[weekly-synthesis-2026-04-20]] Concepts
+- [[atant-benchmark-critique-2026-04]]
+- [[cli-vs-mcp-debate]]
+- [[context-constitution]]
+- [[context-engineering]]
+- [[context-management]]
+- [[genericagent-contextual-density-2026-04]]
+- [[hierarchical-memory-architectures]]
+- [[mem0-v2-0-redesign-2026-04]]
+- [[memmachine-multi-tier-memory-2026-04]]
+- [[openviking-context-database]]
+- [[openviking-context-database-volcengine-2026-04]]
+- [[prompt-engineering]]
+- [[context-engineering-handbook-2026]]
 
 - [[context-substrate]] — Hardware/software foundation
 - [[context-compaction]] — Working memory optimization

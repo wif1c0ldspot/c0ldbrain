@@ -197,6 +197,8 @@ This pattern applies directly:
 
 ## Related
 - [[hermes-team-guide-nyk-builderz-2026-04]] Concepts
+- [[hermes-ecosystem-projects]]
+- [[llm-wiki-vs-notebooklm-artemxtech-2026-04]]
 
 - [[hermes-agent-architecture]] — Base Hermes architecture
 - [[skills-pattern]] — Skills-based agent design

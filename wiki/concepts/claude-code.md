@@ -227,3 +227,19 @@ All require **zero source modifications**:
 - [[tool-orchestration]] — Concurrent execution
 - [[mcp-protocol]] — Model Context Protocol
 - [[ai-coding-agents]] — Coding agent landscape
+
+- [[claude-caveman-prompting-strategy-2026-04]]
+- [[claude-caveman-token-strategy-2026-04]]
+- [[claude-code-opus-planning-2026-04]]
+- [[claude-code-patterns]]
+- [[claude-code-skill-graphs-2026-04]]
+- [[coral-human-agent-society-2026-04]]
+- [[coral-multi-agent-discovery]]
+- [[github-ai-tools-roundup-2026-04]]
+- [[gstack-garrytan-2026-04]]
+- [[harness-design]]
+- [[jarvis-obsidian-claude-code-cyrilxbt-2026-04]]
+- [[karpathy-wiki-self-evolving-claude-2026-04-06]]
+- [[langflow-claude-code-integration]]
+- [[multica-platform]]
+- [[mac-mini-35b-local-ai-agent-2026-04]]

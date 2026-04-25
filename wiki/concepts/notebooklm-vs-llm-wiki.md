@@ -59,3 +59,6 @@ Example: Dalio's 5-step decision process → daily template with reflection prom
 - [[karpathy-llm-wiki-agent]] — The original LLM wiki pattern this critiques
 - [[karpathy]] — Creator of the LLM wiki approach
 - [[knowledge-management]] — Broader domain
+
+- [[company-context-brain]]
+- [[personal-knowledge-management]]

@@ -261,3 +261,5 @@ Karpathy's original design uses flat pages with wikilinks. LLM Wiki v2 argues ty
 - [[token-optimization]] — Context window management, caching, prompt distillation
 - [[mcp-protocol]] — Model Context Protocol for standardized tool/resource access
 - [[hermes-agent-architecture]] — Hermes Agent design, skills, and autonomous workflows
+
+- [[knowledge-lifecycle-decision-framework]]

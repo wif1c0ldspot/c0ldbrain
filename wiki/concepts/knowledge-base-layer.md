@@ -19,3 +19,6 @@ summary: Dynamic knowledge base layer in two-layer systems. See knowledge-layer 
 STUB — Requires expansion.
 
 [[knowledge-layer]] — Two-layer knowledge architecture
+
+## Related
+- [[shannholmberg-ai-knowledge-layer-2026-04]]

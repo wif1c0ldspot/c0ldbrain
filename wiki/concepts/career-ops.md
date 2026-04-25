@@ -31,3 +31,5 @@ Career-Ops (santifer/career-ops, 13.6k stars) turns Claude Code into a job searc
 ## Related Concepts
 
 [[ai-coding-agents]], [[skill-registry]], [[hermes-agent-architecture]]
+
+- [[ai-agents-handbook-2026]]

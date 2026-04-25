@@ -19,3 +19,8 @@ summary: Graph-based knowledge representation for AI agents. See cognee for a pr
 STUB — Requires expansion.
 
 [[cognee]] — Graph-based memory with vector hybrid
+
+## Related
+- [[chum-mem-pckc-2026-04]]
+- [[claim-based-memory]]
+- [[knowledge-graph-codebase-engine-2026-04]]

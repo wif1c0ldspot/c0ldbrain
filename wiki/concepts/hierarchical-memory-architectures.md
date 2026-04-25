@@ -77,3 +77,10 @@ The best agent memory system in 2026 looks like a tiny operating system:
 - Mnemosyne (ArXiv:2510.08601)
 - Pichay / Missing Memory Hierarchy (ArXiv:2603.09023)
 - MemTensor/MemOS (GitHub)
+
+- [[apex-mem-acl-2026-2026-04]]
+- [[atant-benchmark-critique-2026-04]]
+- [[cavemem-cross-agent-memory-2026-04]]
+- [[genericagent-contextual-density-2026-04]]
+- [[higmem-acl-2026-2026-04]]
+- [[million-token-illusion-oracle-converged-db-datachaz-2026-04]]

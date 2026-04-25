@@ -19,3 +19,6 @@ summary: Scaling compute at test time for reasoning improvement. See recursive-l
 STUB — Requires expansion.
 
 [[recursive-language-models]] — Test-time compute via recursive subcalls
+
+## Related
+- [[rlms-new-reasoning-models-rawworks-2026-04]]

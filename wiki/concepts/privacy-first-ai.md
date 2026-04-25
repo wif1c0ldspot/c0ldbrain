@@ -19,3 +19,6 @@ summary: Privacy-first AI deployment. See local-llm-infrastructure for on-premis
 STUB — Requires expansion.
 
 [[local-llm-infrastructure]] — Local/privacy-first AI setup
+
+## Related
+- [[mlx-turboquant-local-power-2026-04]]

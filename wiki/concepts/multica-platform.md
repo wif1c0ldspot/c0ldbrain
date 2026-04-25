@@ -98,3 +98,8 @@ Use cheap models for routine roles (triager, reporter), premium models for hard 
 - [[claude-code]]
 - [[agent-harness]]
 - [[context-engineering]]
+
+- [[agent-orchestration-stacks]]
+- [[agent-skills-systems]]
+- [[multi-agent-systems]]
+- [[multica-kimi-k26-agent-teams-multicaai-2026-04]]

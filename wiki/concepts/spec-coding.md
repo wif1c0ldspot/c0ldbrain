@@ -16,3 +16,6 @@ summary: "Writing code from formal specifications using AI agents"
 # Specification-Driven Coding
 
 STUB — auto-created during lint fix. Requires expansion.
+
+## Related
+- [[harness-engineering-trae-ai-2026-04]]

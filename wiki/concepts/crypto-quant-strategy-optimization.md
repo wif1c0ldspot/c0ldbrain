@@ -16,3 +16,6 @@ summary: "Optimizing trading strategy parameters for crypto markets"
 # Crypto Quant Strategy Optimization
 
 STUB — auto-created during lint fix. Requires expansion.
+
+## Related
+- [[financial-llms]]

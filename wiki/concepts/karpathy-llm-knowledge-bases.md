@@ -19,3 +19,6 @@ summary: Andrej Karpathy's LLM knowledge base pattern. See karpathy-personal-kb-
 STUB — Requires expansion.
 
 [[karpathy-personal-kb-agents-2026-04]] — Karpathy's personal KB article
+
+## Related
+- [[shannholmberg-ai-knowledge-layer-2026-04]]

@@ -51,3 +51,8 @@ Long-running sessions require periodic context resets to maintain coherence. Ant
 - [[claude-code]] — primary harness implementation
 - [[context-engineering]] — context window strategies
 - [[multi-agent-systems]] — coordination patterns
+- [[bitter-lesson-agent-harnesses-gregpr07-2026-04]]
+- [[browser-automation]]
+- [[cloudflare-agent-memory]]
+- [[context-constitution]]
+- [[harness-engineering-trae-ai-2026-04]]

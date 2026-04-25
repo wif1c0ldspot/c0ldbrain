@@ -37,3 +37,5 @@ See [[bitter-lesson-agent-harnesses-gregpr07-2026-04]] for full argument.
 - [[agent-harness]]
 - [[harness-design]]
 - [[ai-coding-agents]]
+
+- [[web-scraping]]

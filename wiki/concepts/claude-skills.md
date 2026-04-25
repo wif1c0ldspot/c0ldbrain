@@ -117,3 +117,5 @@ Claude Skills and Hermes Skills share the same conceptual model — reusable wor
 - [[hermes-agent-architecture]] — Hermes skills system
 - [[claude-code-from-source-2026-04]] — Claude Code editor
 - [[agentic-ai]] — agent development patterns
+- [[agent-skills-osmani-2026-04]]
+- [[agent-skills-systems]]

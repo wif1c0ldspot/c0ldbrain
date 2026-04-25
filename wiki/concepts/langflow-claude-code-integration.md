@@ -598,3 +598,7 @@ As a [role], I want [feature] so that [benefit]
 ---
 
 *This is a living document. Update as implementation progresses, new patterns are discovered, or requirements change.*
+
+## Related
+- [[shannholmberg-ai-knowledge-layer-2026-04]]
+- [[weekly-synthesis-async-subagent-2026-04-17]]

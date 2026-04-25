@@ -19,3 +19,7 @@ summary: Running AI models on Apple Silicon (M1/M2/M3/M4). See local-llm-infrast
 STUB — Requires expansion.
 
 [[local-llm-infrastructure]] — Local LLM setup on Apple Silicon
+
+## Related
+- [[local-397b-model-macbook-2026-03]]
+- [[mlx-turboquant-local-power-2026-04]]

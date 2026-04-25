@@ -19,3 +19,8 @@ summary: Multi-agent collaboration patterns. See multi-agent-systems for coordin
 STUB — Requires expansion.
 
 [[multi-agent-systems]] — Multi-agent coordination frameworks
+
+## Related
+- [[coral-multi-agent-discovery]]
+- [[multica-kimi-k26-agent-teams-multicaai-2026-04]]
+- [[multica-platform]]

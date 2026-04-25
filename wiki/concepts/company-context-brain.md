@@ -65,6 +65,9 @@ No existing benchmark tests: "Given a company's real data across its real tools,
 
 ## Related
 - [[company-brain-vs-connectors-contextconor-2026-04]] Concepts
+- [[commoncrawl-backlink-extraction]]
+- [[context-engineering-synthesis]]
+- [[hermes-team-guide-nyk-builderz-2026-04]]
 
 - [[knowledge-management-synthesis]] — Unified view of retrieval vs compiled vs synthesized knowledge
 - [[context-substrate]] — Broader context engineering domain

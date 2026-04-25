@@ -146,3 +146,9 @@ The industry-standard vulnerability classification:
 - [[rag-security]] — RAG-specific security patterns
 - [[llm-supply-chain-attacks]] — Supply chain vulnerabilities
 - [[owasp-top-10-for-llm]] — Standard vulnerability taxonomy
+
+- [[adam-privacy-attack-agent-memory-2026-04]]
+- [[emergent-agent-evolution-synthesis]]
+- [[hermes-ecosystem-projects]]
+- [[prompt-injection-defense-guide]]
+- [[ml-models-handbook-2026]]

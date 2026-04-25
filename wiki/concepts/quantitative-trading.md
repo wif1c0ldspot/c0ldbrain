@@ -100,3 +100,9 @@ Google Research's pretrained time-series foundation model (17.5k stars):
 ## Related Concepts
 
 [[agent-meta-optimization]], [[open-source-ai-infra]], [[token-optimization]], [[memory-systems]], [[polymarket-weather-trading-strategy]]
+
+- [[automated-stock-research-agent-2026-03]]
+- [[financial-ai]]
+- [[quantstart-quant-trading-self-study-2026-04]]
+- [[quantstart-quant-trading-study-2026-04]]
+- [[timesfm-google-2026-04]]

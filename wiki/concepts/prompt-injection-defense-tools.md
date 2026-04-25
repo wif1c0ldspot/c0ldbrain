@@ -49,3 +49,10 @@ Survey of tools defending against prompt injection — from single-dev projects 
 
 
 [[rag-security]], [[llm-vulnerability-scanners]], [[continuous-red-teaming]], [[owasp-top-10-for-llm]], [[defense-in-depth-llm]]
+
+- [[ai-security-handbook-2026]]
+- [[ai-security-synthesis]]
+- [[prompt-injection-attack-vectors]]
+- [[prompt-injection-comprehensive-2026]]
+- [[prompt-injection-defense-guide]]
+- [[prompt-injection-testing-tools]]

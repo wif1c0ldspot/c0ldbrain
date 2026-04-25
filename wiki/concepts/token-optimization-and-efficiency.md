@@ -26,3 +26,7 @@ Strategies to reduce token usage while maintaining output quality
 ## See Also
 - [[agentic-ai]]
 - [[knowledge-management]]
+
+## Related
+- [[claude-md-best-practices]]
+- [[local-llm-infrastructure]]

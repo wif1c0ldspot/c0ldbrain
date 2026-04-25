@@ -19,3 +19,6 @@ summary: AI safety considerations for agent systems including alignment, oversig
 STUB — Requires expansion.
 
 [[prompt-injection-comprehensive-2026]] — Security framework for LLM agents
+
+## Related
+- [[agent-evolution-stages]]

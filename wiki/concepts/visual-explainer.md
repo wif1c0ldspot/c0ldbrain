@@ -38,3 +38,5 @@ Supports Claude Code, Pi, Codex. No build step.
 ## Cross-References
 
 - [[architecture-diagram-generator-2026-04]] — complementary approach using static HTML/SVG instead of Mermaid. Cocoon AI skill generates dark-themed architecture diagrams with semantic color coding (Cyan=frontend, Emerald=backend, Violet=database, Amber=cloud, Rose=security). Output is a self-contained HTML file with no JS dependencies. MIT licensed.
+
+- [[ai-agents-handbook-2026]]

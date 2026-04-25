@@ -327,3 +327,9 @@ class ActiveInferenceAgent:
 - [ ] Agent maintains goal-directed behavior under resource constraints
 - [ ] Agent adapts to changing environment statistics
 - [ ] Novel behaviors emerge not explicitly programmed
+
+- [[cross-pathway-neuromodulation-synthesis-2026-04]]
+- [[global-workspace-oscillation-coordination]]
+- [[axiom-active-inference-games-2025]]
+- [[evomedagent-memory-agents-2026-04]]
+- [[odar-active-inference-llm-2026]]

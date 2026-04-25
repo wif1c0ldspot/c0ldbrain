@@ -18,3 +18,6 @@ summary: Software engineering agent for autonomous code tasks. See ai-coding-age
 STUB — Requires expansion.
 
 [[ai-coding-agents]] — AI coding agent tools and benchmarks
+
+## Related
+- [[rohit4verse-claude-code-architecture-2026-04]]

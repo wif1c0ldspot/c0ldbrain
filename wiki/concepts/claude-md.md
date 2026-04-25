@@ -26,3 +26,7 @@ Anthropic's Claude desktop integration and markdown-based agent workflow
 ## See Also
 - [[agentic-ai]]
 - [[knowledge-management]]
+
+## Related
+- [[langflow-claude-code-integration]]
+- [[rohit4verse-claude-code-architecture-2026-04]]

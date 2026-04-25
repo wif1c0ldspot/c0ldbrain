@@ -321,3 +321,6 @@ Extend `wiki-health-monitoring` to include:
 - [[agent-memory-two-camps-witcheer-2026-04]] — OpenClaw dreaming, consolidation thresholds
 - [[llm-wiki-v2-rohitg00]] — Confidence decay, forgetting curves
 - [[karpathy-llm-wiki-agent]] — raw/wiki pattern
+
+- [[karpathy-llm-kb-architecture-2026-04]]
+- [[llm-knowledge-base-pattern]]

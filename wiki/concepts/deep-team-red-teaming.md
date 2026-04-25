@@ -42,3 +42,6 @@ DeepTeam by confident-ai (DeepEval creators): 50+ vulnerability tests, 20+ adver
 ## Related Concepts
 
 [[owasp-top-10-for-llm]], [[llm-vulnerability-scanners]], [[continuous-red-teaming]], [[prompt-injection-comprehensive-2026]]
+
+- [[ai-security-handbook-2026]]
+- [[prompt-injection-testing-tools]]

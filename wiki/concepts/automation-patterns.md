@@ -19,3 +19,6 @@ summary: Patterns for AI-driven automation. See claude-caveman-prompting-strateg
 STUB — Requires expansion.
 
 [[claude-caveman-prompting-strategy-2026-04]] — Claude automation patterns
+
+## Related
+- [[claude-caveman-token-strategy-2026-04]]

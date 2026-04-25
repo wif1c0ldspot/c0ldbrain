@@ -141,3 +141,13 @@ See [[bitter-lesson-agent-harnesses-gregpr07-2026-04]] for full article.
 - [[openai-agents-sdk]] — OpenAI's official agent harness (sandbox agents, handoffs, tracing)
 - [[agent-orchestration-stacks]] — multi-agent orchestration patterns
 - [[brain-inspired-agent-architecture]] — brain-module mapping for agent design
+
+- [[agent-memory-poisoning-security-2026-04]]
+- [[browser-automation]]
+- [[claude-code]]
+- [[langflow-claude-code-integration]]
+- [[memory-firewall]]
+- [[multica-platform]]
+- [[openviking-context-database-volcengine-2026-04]]
+- [[rohit4verse-claude-code-architecture-2026-04]]
+- [[agent-skills-osmani-github-2026-04]]

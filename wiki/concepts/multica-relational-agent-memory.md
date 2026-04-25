@@ -98,3 +98,7 @@ CREATE INDEX idx_agent_task_queue_pending ON agent_task_queue(status) WHERE stat
 - [[memory-systems]] — memory architectures across agent types
 - [[coral-multi-agent-discovery]] — autonomous multi-agent evolution
 - [[ai-coding-agents]] — coding agent ecosystem and tools
+
+- [[hypermem-hypergraph-memory-2026-04]]
+- [[multica-agent-memory-mem0ai-2026-04]]
+- [[openai-agents-sdk]]

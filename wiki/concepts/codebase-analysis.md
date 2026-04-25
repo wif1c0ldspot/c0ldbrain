@@ -18,3 +18,6 @@ summary: AI-powered codebase analysis. See code-review-graph for structural code
 STUB — Requires expansion.
 
 [[code-review-graph]] — Tree-sitter knowledge graph for codebases
+
+## Related
+- [[knowledge-graph-codebase-engine-2026-04]]

@@ -132,3 +132,8 @@ Moving beyond binary rewards to fine-grained credit assignment.
 
 ## Sources
 All sources listed above with `wikilink` citations.
+
+- [[evolving-programmatic-skill-networks-2026]]
+- [[global-workspace-oscillation-coordination]]
+- [[skill-graphs-shivsakhuja-2026-04]]
+- [[steps-compositional-generalization-2026]]

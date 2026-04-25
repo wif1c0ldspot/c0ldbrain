@@ -19,3 +19,6 @@ summary: Multi-modal AI systems combining text, vision, and audio. See multimoda
 STUB — Requires expansion.
 
 [[multimodal-ai-security]] — Multimodal AI security
+
+## Related
+- [[excalidraw-claude-streaming-2026-04]]

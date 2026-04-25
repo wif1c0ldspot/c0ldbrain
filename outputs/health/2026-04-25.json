@@ -1,0 +1,90 @@
+{
+  "date": "2026-04-25",
+  "total_pages": 371,
+  "average_score": 74.6,
+  "healthy": 170,
+  "needs_work": 146,
+  "at_risk": 55,
+  "at_risk_pages": [
+    [
+      "building-agents-mcp-production",
+      35
+    ],
+    [
+      "page",
+      36
+    ],
+    [
+      "osint",
+      37
+    ],
+    [
+      "domain-intel",
+      38
+    ],
+    [
+      "hermes-agent",
+      38
+    ],
+    [
+      "diagram-tools",
+      38
+    ],
+    [
+      "workflow-automation",
+      38
+    ],
+    [
+      "solo-ai-company",
+      39
+    ],
+    [
+      "intelligence-analysis",
+      39
+    ],
+    [
+      "text-to-sql",
+      39
+    ],
+    [
+      "crypto-quant-strategy-optimization",
+      39
+    ],
+    [
+      "langflow",
+      39
+    ],
+    [
+      "sentiment-analysis-finance",
+      39
+    ],
+    [
+      "crypto-quant-data-download-and-optimization",
+      39
+    ],
+    [
+      "cloud-native-agents",
+      39
+    ],
+    [
+      "spec-coding",
+      40
+    ],
+    [
+      "neutral-market-pairs-trading",
+      40
+    ],
+    [
+      "predictive-coding-hierarchy",
+      40
+    ],
+    [
+      "ocr",
+      40
+    ],
+    [
+      "test-driven-development",
+      40
+    ]
+  ]
+}

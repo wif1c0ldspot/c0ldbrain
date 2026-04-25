@@ -27,3 +27,14 @@ Structural patterns for building AI agents — decision loops, memory hierarchy,
 ## See Also
 - [[agentic-ai]]
 - [[knowledge-management]]
+
+## Related
+- [[claude-code]]
+- [[langflow-claude-code-integration]]
+- [[multica-kimi-k26-agent-teams-multicaai-2026-04]]
+- [[multica-platform]]
+- [[recursive-language-models]]
+- [[resolvers]]
+- [[rohit4verse-claude-code-architecture-2026-04]]
+- [[sub-agents-vs-agent-teams-suryanshti777-2026-04]]
+- [[infrastructure-handbook-2026]]

@@ -55,3 +55,23 @@ Defense-in-depth is non-negotiable. Use Garak for vulnerability scanning, llm-gu
 ## Related Concepts
 
 [[deep-team-red-teaming]], [[owasp-top-10-for-llm]], [[llm-vulnerability-scanners]], [[rag-security]], [[multimodal-ai-security]], [[defense-in-depth-llm]], [[continuous-red-teaming]]
+
+- [[academic-papers-2025-2026-source]]
+- [[agentsecops-guardian-self-healing-source]]
+- [[ai-compliance-frameworks]]
+- [[ai-safety]]
+- [[ai-security]]
+- [[ai-security-handbook-2026]]
+- [[ai-security-synthesis]]
+- [[garak-vulnerability-scanner-source]]
+- [[incident-case-studies-2025-2026-source]]
+- [[llm-guard-sanitization-framework-source]]
+- [[llm-prompt-injection-comprehensive-survey-2026]]
+- [[mcp-protocol]]
+- [[memory-firewall]]
+- [[multimodal-injection-emerging-threats-source]]
+- [[owasp-top10-llm-2025-source]]
+- [[prompt-engineering]]
+- [[prompt-injection]]
+- [[promptfoo-red-teaming-platform-source]]
+- [[rag-specific-injection-vulnerabilities-source]]

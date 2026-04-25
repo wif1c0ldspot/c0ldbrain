@@ -19,3 +19,7 @@ summary: Capabilities that emerge from scaling or composition. See emergent-agen
 STUB — Requires expansion.
 
 [[emergent-agent-evolution-synthesis]] — Emergence patterns across approaches
+
+## Related
+- [[agent-evolution-stages]]
+- [[evolving-programmatic-skill-networks-2026]]

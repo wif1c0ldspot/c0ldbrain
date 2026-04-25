@@ -26,3 +26,6 @@ Pattern for escalating agent tasks to human review or higher-capability models
 ## See Also
 - [[agentic-ai]]
 - [[knowledge-management]]
+
+## Related
+- [[confusion-protocol]]

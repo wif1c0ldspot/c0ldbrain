@@ -53,23 +53,17 @@ import wiki_config
 
 # Use wiki_config for wiki root
 WIKI_ROOT = wiki_config.WIKI_ROOT
-CONCEPTS_DIR = WIKI_ROOT / "wiki" / "concepts"
-RAW_DIR = WIKI_ROOT / "wiki" / "raw"
+CONCEPTS_DIR = wiki_config.CONCEPTS_DIR
+SOURCES_DIR = wiki_config.SOURCES_DIR
+SYNTHESIS_DIR = wiki_config.SYNTHESIS_DIR
+RAW_DIR = wiki_config.RAW_DIR
 MANIFEST_PATH = wiki_config.MANIFEST_PATH
 INDEX_PATH = wiki_config.INDEX_PATH
 LOG_PATH = wiki_config.LOG_PATH
 MERMAID_DIR = WIKI_ROOT / "outputs" / "mermaid"
 
-VALID_DOMAINS = {
-    "ai-agents", "ml-models", "crypto-quant", "devops", "security", "infrastructure"
-}
-VALID_TOPICS = {
-    "knowledge-management", "token-optimization", "memory-systems", "mcp-protocol",
-    "prompt-engineering", "local-models", "voice-ai", "prompt-injection",
-    "red-teaming", "owasp", "compliance", "defense-mechanisms", "llm-attacks",
-    "rag", "multimodal",
-}
-VALID_TAGS = VALID_DOMAINS | VALID_TOPICS
+# Use canonical VALID_TAGS from wiki_config (138 tags, single source of truth)
+VALID_TAGS = wiki_config.VALID_TAGS
 
 # ---------------------------------------------------------------------------
 # Knowledge Lifecycle helpers (LLM Wiki v2 — rohitg00 additions)

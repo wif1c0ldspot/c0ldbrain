@@ -19,3 +19,6 @@ summary: Integrating Claude into workflows and tools. See claude-code-patterns f
 STUB — Requires expansion.
 
 [[claude-code-patterns]] — Claude Code usage patterns
+
+## Related
+- [[excalidraw-claude-streaming-2026-04]]

@@ -46,3 +46,10 @@ updated: '2026-04-18'
 
 
 [[rag-security]], [[prompt-injection-defense-tools]], [[llm-vulnerability-scanners]], [[defense-in-depth-llm]], [[multimodal-ai-security]]
+
+- [[ai-security-handbook-2026]]
+- [[ai-security-synthesis]]
+- [[clearwing]]
+- [[deep-team-red-teaming]]
+- [[prompt-injection-comprehensive-2026]]
+- [[prompt-injection-testing-tools]]

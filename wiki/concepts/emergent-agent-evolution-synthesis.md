@@ -186,3 +186,13 @@ Nobody knows which we'll get.
 2. Li et al. (2026). "A Training-Free Regeneration Paradigm: Contrastive Reflection Memory Guided Self-Verification and Self-Improvement." arXiv:2603.20441
 3. Liu et al. (2026). "Search, Do not Guess: Teaching Small Language Models to Be Effective Search Agents." arXiv:2604.04651
 4. Zhang et al. (2026). "ASTER: Agentic Scaling with Tool-integrated Extended Reasoning." arXiv:2602.01204
+
+- [[active-inference-free-energy-principle]]
+- [[arxiv-active-inference-papers-2026-03]]
+- [[cross-pathway-neuromodulation-synthesis-2026-04]]
+- [[emergence-in-quantized-models]]
+- [[emergent-capabilities]]
+- [[evomedagent-memory-agents-2026-04]]
+- [[predictive-coding-active-inference]]
+- [[teaching-small-models-agentic-behavior]]
+- [[training-free-self-improvement]]

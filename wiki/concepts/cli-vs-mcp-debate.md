@@ -70,3 +70,8 @@ Cognee is leading a charge arguing that CLI-based memory interfaces are more tok
 
 - [Cognee: CLI Replaces MCP OAuth](https://www.cognee.ai/blog/deep-dives/cognee-cli-replaces-mcp-oauth) (2026-04-21)
 - [Cognee: Agents Don't Need a Protocol, They Need a CLI](https://www.cognee.ai/blog/deep-dives/agents-dont-need-a-protocol-they-need-a-cli) (2026-04-14)
+
+- [[openchronicle]]
+- [[cavemem-cross-agent-memory-2026-04]]
+- [[genericagent-contextual-density-2026-04]]
+- [[daily-research-agentic-memory-2026-04-18]]

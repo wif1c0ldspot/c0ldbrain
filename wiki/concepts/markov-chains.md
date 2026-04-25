@@ -42,3 +42,4 @@ Markov chain models applied to quantitative trading, particularly prediction mar
 ## Related
 - [[quantitative-trading]] — broader quant trading concepts
 - [[polymarket]] — prediction market platform
+- [[ev-kelly-position-sizing]]

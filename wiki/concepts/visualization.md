@@ -19,3 +19,6 @@ summary: AI-powered data visualization. See visual-explainer-2026-04 for termina
 STUB — Requires expansion.
 
 [[visual-explainer-2026-04]] — Terminal-to-HTML explanation tool
+
+## Related
+- [[excalidraw-claude-streaming-2026-04]]

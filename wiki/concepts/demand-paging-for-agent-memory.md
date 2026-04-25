@@ -65,3 +65,14 @@ Every production agent system implicitly does demand paging. This framing makes 
 - What eviction policies work best for different agent workloads?
 - How does this interact with context compaction?
 - Can working set prediction improve retrieval latency?
+
+- [[cavemem-cross-agent-memory-2026-04]]
+- [[claim-based-memory]]
+- [[context-engineering]]
+- [[context-engineering-synthesis]]
+- [[daily-research-agentic-memory-2026-04-19]]
+- [[hierarchical-memory-architectures]]
+- [[higmem-acl-2026-2026-04]]
+- [[memmachine-multi-tier-memory-2026-04]]
+- [[memory-firewall]]
+- [[memory-worth-governance-2026-04]]

@@ -85,3 +85,8 @@ The **[[belief-gate]]** is a specific implementation of the memory firewall conc
 - Benchmark-verified: 0 reasoning leaks
 
 See [[claim-based-memory]] for the full PCKC model.
+
+- [[adam-privacy-attack-agent-memory-2026-04]]
+- [[ai-security-synthesis]]
+- [[chum-mem-pckc-2026-04]]
+- [[daily-research-agentic-memory-2026-04-19]]

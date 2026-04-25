@@ -248,6 +248,8 @@ All 5 projects share:
 
 ## Related
 - [[hermes-ecosystem-nftcps-2026-04]] Concepts
+- [[hermes-kanban-gumbyender-2026-04]]
+- [[hermes-lcm]]
 
 - [[hermes-agent-architecture]] — Base Hermes architecture
 - [[hermes-multi-profile-team]] — Multi-agent team patterns

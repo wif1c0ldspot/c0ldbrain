@@ -727,10 +727,34 @@
       "status": "compiled",
       "raw_path": "raw/social/harness-engineering-trae-ai-2026-04.md",
       "compiled_at": "2026-04-25"
+    },
+    "synthesis/infrastructure-handbook-2026": {
+      "type": "synthesis",
+      "status": "compiled",
+      "ingested_at": "2026-04-25",
+      "compiled_at": "2026-04-25",
+      "source_page": "wiki/synthesis/infrastructure-handbook-2026.md",
+      "last_linted": "2026-04-25"
+    },
+    "synthesis/ml-models-handbook-2026": {
+      "type": "synthesis",
+      "status": "compiled",
+      "ingested_at": "2026-04-25",
+      "compiled_at": "2026-04-25",
+      "source_page": "wiki/synthesis/ml-models-handbook-2026.md",
+      "last_linted": "2026-04-25"
+    },
+    "synthesis/context-engineering-handbook-2026": {
+      "type": "synthesis",
+      "status": "compiled",
+      "ingested_at": "2026-04-25",
+      "compiled_at": "2026-04-25",
+      "source_page": "wiki/synthesis/context-engineering-handbook-2026.md",
+      "last_linted": "2026-04-25"
     }
   },
   "concept_count": 197,
-  "synthesis_count": 3,
+  "synthesis_count": 6,
   "research_log_entries": 1,
   "last_compile": "2026-04-25",
   "entries": [

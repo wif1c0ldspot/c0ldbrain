@@ -57,3 +57,6 @@ The ecosystem of voice AI models and frameworks covering automatic speech recogn
 ## Sources
 
 - [[vibevoice-microsoft-2026-04]]
+
+- [[nvidia-personaple-voice-ai-2026-04]]
+- [[speech-recognition]]

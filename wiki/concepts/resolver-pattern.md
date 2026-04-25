@@ -26,3 +26,8 @@ Garry Tan's pattern for hierarchical knowledge organization and resolution
 ## See Also
 - [[agentic-ai]]
 - [[knowledge-management]]
+
+## Related
+- [[confusion-protocol]]
+- [[karpathy-llm-kb-architecture-2026-04]]
+- [[llm-knowledge-base-pattern]]

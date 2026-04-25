@@ -19,3 +19,6 @@ summary: Chain-of-thought prompting for structured reasoning. See reasoning-para
 STUB — Requires expansion.
 
 [[reasoning-paradigms]] — LLM reasoning paradigms
+
+## Related
+- [[recursive-language-models]]

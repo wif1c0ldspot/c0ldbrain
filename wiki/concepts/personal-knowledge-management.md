@@ -19,3 +19,6 @@ summary: Personal knowledge management with AI assistance. See notebooklm-vs-llm
 STUB — Requires expansion.
 
 [[notebooklm-vs-llm-wiki]] — PKM paradigm comparison
+
+## Related
+- [[shannholmberg-ai-knowledge-layer-2026-04]]

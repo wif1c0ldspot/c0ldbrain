@@ -37,3 +37,4 @@ Google's AI-powered file type detection tool using deep learning. A custom, high
 ## Related
 - [[defense-in-depth-llm]] — security layering
 - [[llm-supply-chain-attacks]] — supply chain security
+- [[magika]]

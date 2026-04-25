@@ -17,3 +17,6 @@ summary: Wiki page reference. See MANIFEST for wiki structure.
 STUB — Requires expansion.
 
 MANIFEST — Wiki manifest and changelog
+
+## Related
+- [[knowledge-management-handbook-2026]]

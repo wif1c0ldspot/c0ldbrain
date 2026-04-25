@@ -80,3 +80,6 @@ For [[mempalace]]:
 - [[memory-firewall]] — broader security boundary
 - [[memory-systems]] — landscape overview
 - [[agent-memory-poisoning-security-2026-04]] — attack vectors
+
+- [[apex-mem-acl-2026-2026-04]]
+- [[higmem-acl-2026-2026-04]]

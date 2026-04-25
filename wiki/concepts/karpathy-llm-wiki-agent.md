@@ -42,3 +42,11 @@ Random nonces, content sanitization, author allowlist, auto-revert on failure.
 ## Related Concepts
 
 [[llm-knowledge-bases]], [[hermes-agent-architecture]], [[ai-coding-agents]], [[llm-wiki-v2-rohitg00|extended-by]] — LLM Wiki v2 extends Karpathy's original pattern with memory lifecycle, knowledge graph, hybrid search
+
+- [[agent-evolution-stages]]
+- [[ai-agents-handbook-2026]]
+- [[karpathy]]
+- [[knowledge-lifecycle-decision-framework]]
+- [[knowledge-management-handbook-2026]]
+- [[resolvers-garrytan-2026-04]]
+- [[rowboat-knowledge-graph-2026-04]]

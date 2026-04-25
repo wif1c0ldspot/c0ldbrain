@@ -37,3 +37,8 @@ Local knowledge graph for Claude Code (tirth8205/code-review-graph, 5.6k stars).
 ## Related Concepts
 
 [[token-optimization]], [[ai-coding-agents]], [[llm-knowledge-bases]]
+
+- [[ai-agents-handbook-2026]]
+- [[codebase-analysis]]
+- [[contextplus-mcp-2026-04]]
+- [[knowledge-management-handbook-2026]]

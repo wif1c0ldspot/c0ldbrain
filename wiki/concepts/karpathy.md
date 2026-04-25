@@ -22,3 +22,7 @@ AI researcher known for:
 
 ## Related
 - [[karpathy-llm-wiki-agent]] — His wiki architecture
+- [[gbrain-agent-brain]]
+- [[karpathy-llm-kb-pattern-2026-04]]
+- [[karpathy-llm-knowledge-base-viral-2026-04]]
+- [[karpathy-wiki-self-evolving-claude-2026-04-06]]

@@ -48,3 +48,9 @@ updated: '2026-04-18'
 
 
 [[rag-security]], [[continuous-red-teaming]], [[llm-vulnerability-scanners]], [[ai-compliance-frameworks]]
+
+- [[ai-security-handbook-2026]]
+- [[ai-security-synthesis]]
+- [[magika]]
+- [[multimodal-ai-security]]
+- [[owasp-top-10-for-llm]]

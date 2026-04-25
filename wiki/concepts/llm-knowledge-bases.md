@@ -80,3 +80,23 @@ PageIndex introduces a paradigm shift: replacing vector embeddings entirely with
 - [[knowledge-management-synthesis]] — Unified view of RAG vs compiled vs synthesized paradigms
 - [[gbrain-agent-brain]] — Production agent brain (Garry Tan, 9.5k stars)
 - [[code-review-graph]], [[ai-coding-agents]], [[memory-systems]], [[token-optimization]], [[llm-wiki-v2-rohitg00|extended-by]], [[vectorless-rag]], [[resolvers]]
+
+- [[agent-memory-cognee-akshay-2026-04]]
+- [[ai-agents-handbook-2026]]
+- [[c0ldbrain-wiki]]
+- [[cognee]]
+- [[context-engineering-synthesis]]
+- [[contextplus-mcp-2026-04]]
+- [[hermes-agent-practitioners-reference-2026]]
+- [[karpathy-llm-kb-pattern-2026-04]]
+- [[karpathy-llm-knowledge-base-viral-2026-04]]
+- [[karpathy-llm-wiki-agent]]
+- [[karpathy-personal-kb-agents-2026-04]]
+- [[karpathy-self-improving-second-brain-2026-04]]
+- [[knowledge-management]]
+- [[knowledge-management-handbook-2026]]
+- [[llm-knowledge-base-pattern]]
+- [[markitdown-microsoft-2026-04]]
+- [[pageindex-vectorless-rag-2026-04]]
+- [[rowboat-knowledge-graph-2026-04]]
+- [[teknium-hermes-llm-wiki-2026-04]]

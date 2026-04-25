@@ -118,3 +118,6 @@ Small models + RLM on consumer hardware can compete with frontier models:
 - [[agent-architecture]]
 - [[context-engineering]]
 - [[chain-of-thought]]
+
+- [[recursive-language-models-rlm-2026]]
+- [[rlms-new-reasoning-models-rawworks-2026-04]]

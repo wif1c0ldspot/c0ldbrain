@@ -192,6 +192,16 @@
   },
   "active": "185a00b8c69db220",
   "lastOpenFiles": [
+    "wiki/synthesis/context-engineering-handbook-2026.md",
+    "wiki/synthesis/ml-models-handbook-2026.md",
+    "wiki/synthesis/infrastructure-handbook-2026.md",
+    "outputs/health/2026-04-25.json",
+    "outputs/health",
+    "_scripts/health_score.py",
+    "_scripts/confidence_enforcer.py",
+    "_scripts/stub_resolver.py",
+    "_scripts/synthesis_engine.py",
+    "_scripts/backfill_links.py",
     "wiki/concepts/crypto-quant-strategy-optimization.md",
     "wiki/concepts/spec-coding.md",
     "wiki/concepts/delegate-task.md",
@@ -210,7 +220,6 @@
     "SCHEMA.md",
     "CATALINX_PTE_LTD_FRS_2025.md",
     "wiki/sources/2026-04-20-research.md",
-    "Untitled.base",
     "ABOUT.md",
     "wiki/concepts/financial-llms.md",
     "wiki/sources/fingpt-ai4finance-2026-04.md",
@@ -218,15 +227,6 @@
     "wiki/MANIFEST.md",
     "wiki/sources/harness-engineering-trae-ai-2026-04.md",
     "raw/social/harness-engineering-trae-ai-2026-04.md",
-    "wiki/concepts/context-substrate.md",
-    "wiki/concepts/memory-systems.md",
-    "wiki/research/emergence-tracking.md",
-    "wiki/synthesis/ai-agents-handbook-2026.md",
-    "wiki/plans",
-    "Personal/Joel_Chua_CV_2026.pdf",
-    "Joel_Chua_CV_Optimized_2026.pdf",
-    "_scripts/__pycache__/compile.cpython-313.pyc",
-    "_scripts/__pycache__/compile.cpython-311.pyc",
-    "_scripts/__pycache__"
+    "wiki/concepts/context-substrate.md"
   ]
 }

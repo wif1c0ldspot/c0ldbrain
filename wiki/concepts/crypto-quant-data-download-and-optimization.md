@@ -16,3 +16,6 @@ summary: "End-to-end data download and optimization workflow for crypto quant"
 # Crypto Quant Data Pipeline
 
 STUB — auto-created during lint fix. Requires expansion.
+
+## Related
+- [[fingpt-ai4finance-2026-04]]

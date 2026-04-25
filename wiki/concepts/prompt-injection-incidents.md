@@ -61,3 +61,6 @@ updated: '2026-04-10'
 - [[prompt-injection-testing-tools]] — Tools for preventing future incidents
 - [[rag-security]] — RAG-specific incidents
 - [[defense-in-depth-llm]] — Layered defense
+
+- [[ai-security-handbook-2026]]
+- [[prompt-injection-comprehensive-2026]]

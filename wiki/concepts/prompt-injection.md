@@ -19,3 +19,6 @@ summary: Redirect stub — see prompt-injection-comprehensive-2026 for full secu
 STUB — Requires expansion.
 
 [[prompt-injection-comprehensive-2026]] — Comprehensive prompt injection defense guide
+
+## Related
+- [[agent-memory-poisoning-security-2026-04]]

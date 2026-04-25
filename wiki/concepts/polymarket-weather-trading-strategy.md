@@ -144,6 +144,7 @@ weatherbot/
 
 ## Related
 - [[polymarket-weather-hermes-agent-0xmovez-2026-04]] Concepts
+- [[polymarket-weather-trading-0xmovez-2026-04]]
 
 - [[quantitative-trading]] — broader quant trading methodology
 - [[neutral-market-pairs-trading]] — market-neutral strategies

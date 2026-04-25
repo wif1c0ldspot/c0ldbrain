@@ -19,3 +19,10 @@ Pattern where agents discover capabilities via skill manifests:
 - Skill metadata presentation
 - Dynamic skill loading
 - Capability-based routing
+
+## Related
+- [[gbrain-agent-brain]]
+- [[hermes-ecosystem-projects]]
+- [[hermes-multi-profile-team]]
+- [[resolvers]]
+- [[skill-graphs]]

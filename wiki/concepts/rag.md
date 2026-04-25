@@ -15,3 +15,7 @@ summary: Retrieval-Augmented Generation — grounding LLM outputs in external da
 # RAG
 
 Retrieval-Augmented Generation patterns. See also [[rag-security]] for security considerations.
+
+## Related
+- [[db-gpt-ai-data-assistant-2026-04]]
+- [[million-token-illusion-oracle-converged-db-datachaz-2026-04]]

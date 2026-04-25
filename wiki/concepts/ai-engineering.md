@@ -26,3 +26,7 @@ Discipline of building production AI systems — MLOps, evaluation, monitoring
 ## See Also
 - [[agentic-ai]]
 - [[knowledge-management]]
+
+## Related
+- [[ed-donner-agentic-ai-course-2026-04]]
+- [[ml-road-agentic-ai-2026-04]]

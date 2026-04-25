@@ -6,7 +6,7 @@ tags:
 - memory-systems
 - research
 created: '2026-04-23'
-updated: '2026-04-23'
+updated: '2026-04-25'
 confidence: medium
 status: stub
 priority: reference
@@ -14,8 +14,16 @@ summary: Research field on persistent memory for autonomous agents. See memory-s
   for landscape overview.
 ---
 
-# Agentic Memory Research
+*Concept in the ai-agents domain — needs expansion.*
 
-STUB — Requires expansion.
+- **Research time**: ~20 minutes
+- [[memory-systems]]
+- [[agentic-memory-research]]
+- **Research time**: ~15 minutes
+- [[memory-systems]]
 
-[[memory-systems]] — Full memory systems landscape
+## Related
+[[hermes-agent-architecture]] · [[memory-systems]] · [[llm-optimized-wiki]]
+
+## Sources
+[[2026-04-20-research]], [[2026-04-19-research]], [[weekly-synthesis-2026-04-20]]

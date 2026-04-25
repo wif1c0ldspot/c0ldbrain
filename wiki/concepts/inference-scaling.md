@@ -19,3 +19,6 @@ summary: Scaling inference compute for better model outputs. See recursive-langu
 STUB — Requires expansion.
 
 [[recursive-language-models]] — Recursive inference and test-time compute
+
+## Related
+- [[rlms-new-reasoning-models-rawworks-2026-04]]

@@ -113,3 +113,6 @@ Response
 
 - [[honcho-hermes-lcm-stack-bayendor-2026-04]] — Production stack walkthrough by david bayendor
 - https://github.com/plastic-labs/honcho
+
+- [[openchronicle]]
+- [[openchronicle-einsia-2026-04]]

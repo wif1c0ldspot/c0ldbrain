@@ -23,3 +23,12 @@ Hierarchical vector memory system for AI agents. Uses palace metaphor (wings →
 ## Related
 - [[memory-systems]] — General memory patterns
 - [[context-substrate]] — Compounding context approach
+- [[agent-memory-two-camps-witcheer-2026-04]]
+- [[belief-gate]]
+- [[claim-based-memory]]
+- [[cognee]]
+- [[honcho]]
+- [[openchronicle]]
+- [[openchronicle-einsia-2026-04]]
+- [[openviking-context-database]]
+- [[weekly-synthesis-async-subagent-2026-04-17]]

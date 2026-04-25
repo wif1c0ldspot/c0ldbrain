@@ -19,3 +19,6 @@ summary: Security considerations for AI systems. See prompt-injection-comprehens
 STUB — Requires expansion.
 
 [[prompt-injection-comprehensive-2026]] — Comprehensive security framework
+
+## Related
+- [[personal-ai-infrastructure-2026-04]]

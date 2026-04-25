@@ -92,3 +92,6 @@ Hermes `delegate_task` already implements async subagent pattern:
 ## See Also
 - [[memory-systems]]
 - [[cognee]]
+
+- [[delegate_task]]
+- [[weekly-synthesis-async-subagent-2026-04-17]]

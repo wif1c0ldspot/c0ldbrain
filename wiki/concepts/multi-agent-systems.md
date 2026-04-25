@@ -21,3 +21,11 @@ Multi-agent systems involve multiple AI agents coordinating to solve complex tas
 - Source: [[sub-agents-vs-agent-teams-suryanshti777-2026-04]] — Two-layer orchestration + memory architecture
 - [[multica-platform]] — Production multi-agent workspace with relational memory
 - [[hermes-agent-architecture]] — Hermes multi-profile team architecture
+
+- [[claude-caveman-token-strategy-2026-04]]
+- [[coral-human-agent-society-2026-04]]
+- [[global-workspace-oscillation-coordination]]
+- [[harness-design]]
+- [[microsoft-autogen-2026-04]]
+- [[multi-agent-collaboration]]
+- [[orchestrator-active-inference-mas-2025]]

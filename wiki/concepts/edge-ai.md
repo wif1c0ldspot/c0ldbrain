@@ -6,7 +6,7 @@ tags:
 - edge
 - local-models
 created: '2026-04-23'
-updated: '2026-04-23'
+updated: '2026-04-25'
 confidence: medium
 status: stub
 priority: reference
@@ -14,8 +14,16 @@ summary: Running AI models on edge devices. See local-llm-infrastructure for loc
   deployment.
 ---
 
-# Edge Ai
+*Concept in the ml-models domain — needs expansion.*
 
-STUB — Requires expansion.
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
+- *Key aspect to be expanded*
 
-[[local-llm-infrastructure]] — Local LLM infrastructure
+## Related
+[[local-llm-infrastructure]] · [[apple-silicon-ai]] · [[quantization-techniques]]
+
+## Sources
+[[local-397b-model-macbook-2026-03]]

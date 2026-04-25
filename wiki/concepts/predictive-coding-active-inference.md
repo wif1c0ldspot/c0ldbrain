@@ -204,3 +204,14 @@ This is **Pathway 4** in [[brain-inspired-agent-architecture]]. Key connections:
 7. Basaran et al. (2026). "BRAIN." arXiv:2602.14033
 8. Taniguchi et al. (2024). "Collective Predictive Coding." arXiv:2501.00226
 9. Friston et al. (2024). "From Pixels to Planning: Scale-Free Active Inference." arXiv:2407.20292
+
+- [[active-inference-free-energy-principle]]
+- [[axiom-active-inference-games-2025]]
+- [[dkp-predictive-coding-2026]]
+- [[global-workspace-oscillation-coordination]]
+- [[odar-active-inference-llm-2026]]
+- [[orchestrator-active-inference-mas-2025]]
+- [[predictive-coding-hierarchy]]
+- [[temporal-predictive-coding-2026]]
+- [[hypermem-hypergraph-memory-2026-04]]
+- [[memory-worth-governance-2026-04]]

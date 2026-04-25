@@ -138,3 +138,18 @@ Addy Osmani's Agent Skills (15.6k stars) provides 7 slash commands demonstrating
 - [[career-ops]] — Job search pipeline via Claude Code
 
 [[visual-explainer]], [[ai-coding-agents]], [[token-optimization]], [[agent-cli-tools]]
+
+- [[agent-skills-osmani-2026-04]]
+- [[agent-skills-systems]]
+- [[agentic-ai]]
+- [[ai-agents-handbook-2026]]
+- [[autoagent-kevinrgu-2026-04]]
+- [[autogenesis-self-evolving-agent-protocol-2026-04]]
+- [[career-ops-2026-04]]
+- [[claude-code-patterns]]
+- [[claude-code-skill-graphs-2026-04]]
+- [[design-md]]
+- [[hermes-agent-architecture]]
+- [[hermes-agent-skills-hub-2026-04]]
+- [[resolvers-garrytan-2026-04]]
+- [[skill-graphs]]

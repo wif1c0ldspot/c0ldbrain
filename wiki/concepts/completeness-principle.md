@@ -27,3 +27,6 @@ Principle that knowledge bases should be comprehensive enough to answer related 
 ## See Also
 - [[agentic-ai]]
 - [[knowledge-management]]
+
+## Related
+- [[confusion-protocol]]

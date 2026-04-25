@@ -125,3 +125,7 @@ Supplementary material loaded on-demand:
 - [[context-engineering]]
 - [[test-driven-development]]
 - [[multica-platform]]
+
+- [[agent-skills-osmani-2026-04]]
+- [[resolvers]]
+- [[skill-graphs-shivsakhuja-2026-04]]

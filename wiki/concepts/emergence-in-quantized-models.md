@@ -83,3 +83,5 @@ The paper analyzed which model components are most sensitive to quantization:
 ## Source
 
 Liu, P., Liu, Z., Gao, Z., Gao, D., Zhao, W., Li, Y., Ding, B., & Wen, J. (2023). Do Emergent Abilities Exist in Quantized Large Language Models: An Empirical Study. arXiv:2307.08072. https://arxiv.org/abs/2307.08072
+
+- [[training-free-self-improvement]]

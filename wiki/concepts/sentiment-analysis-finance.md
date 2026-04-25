@@ -16,3 +16,6 @@ summary: "NLP techniques applied to financial market sentiment"
 # Sentiment Analysis in Finance
 
 STUB — auto-created during lint fix. Requires expansion.
+
+## Related
+- [[fingpt-ai4finance-2026-04]]

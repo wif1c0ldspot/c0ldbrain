@@ -67,3 +67,15 @@ Harbor framework is emerging as the standard for agent evaluation:
 ## Related Concepts
 
 [[coral-multi-agent-discovery]], [[ai-coding-agents]], [[hermes-agent-architecture]], [[quantitative-trading]]
+
+- [[agent-evolution-stages]]
+- [[agent-memory-two-camps-witcheer-2026-04]]
+- [[ai-agents-handbook-2026]]
+- [[autogenesis-self-evolving-agent-protocol-2026-04]]
+- [[context-substrate]]
+- [[dspy]]
+- [[emergent-agent-evolution-synthesis]]
+- [[hermes-lcm]]
+- [[resolvers]]
+- [[resolvers-garrytan-2026-04]]
+- [[training-free-self-improvement]]

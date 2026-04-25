@@ -141,3 +141,5 @@ For the framework to deliver leverage:
 - [[agent-orchestration-stacks]] — Two-layer orchestration + memory architecture
 - [[skill-registry]] — Skill metadata and discovery pattern
 - [[skills-pattern]] — Dynamic skill loading and capability-based routing
+
+- [[skill-graphs-shivsakhuja-2026-04]]

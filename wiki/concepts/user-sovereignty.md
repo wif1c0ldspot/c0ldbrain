@@ -26,3 +26,6 @@ Principle that users own and control their data, prompts, and AI interactions
 ## See Also
 - [[agentic-ai]]
 - [[knowledge-management]]
+
+## Related
+- [[confusion-protocol]]

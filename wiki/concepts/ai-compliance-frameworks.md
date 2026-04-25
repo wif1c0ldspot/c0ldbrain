@@ -40,3 +40,8 @@ updated: '2026-04-18'
 
 
 [[prompt-injection-comprehensive-2026]], [[llm-supply-chain-attacks]], [[rag-security]]
+
+- [[ai-security-handbook-2026]]
+- [[continuous-red-teaming]]
+- [[llm-vulnerability-scanners]]
+- [[prompt-injection-defense-guide]]

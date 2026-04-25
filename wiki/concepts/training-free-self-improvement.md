@@ -107,3 +107,5 @@ This is a critical component for:
 ## Source
 
 Li, Y., Wu, D., & Boulet, B. (2026). A Training-Free Regeneration Paradigm: Contrastive Reflection Memory Guided Self-Verification and Self-Improvement. arXiv:2603.20441. https://arxiv.org/abs/2603.20441
+
+- [[teaching-small-models-agentic-behavior]]

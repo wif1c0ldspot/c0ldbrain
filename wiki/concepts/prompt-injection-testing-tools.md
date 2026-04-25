@@ -69,3 +69,7 @@ updated: '2026-04-10'
 - [[deep-team-red-teaming]] — 50+ vuln tests, OWASP mapping
 - [[continuous-red-teaming]] — Ongoing security assessment
 - [[llm-vulnerability-scanners]] — Broader scanning
+
+- [[ai-security-handbook-2026]]
+- [[prompt-injection-comprehensive-2026]]
+- [[prompt-injection-incidents]]

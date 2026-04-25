@@ -84,3 +84,7 @@ Extracting hidden system prompts via repeated queries, role-play as developer mo
 - [[multimodal-ai-security]] — Image/audio/video vectors
 - [[defense-in-depth-llm]] — Layered defense
 - [[owasp-top-10-for-llm]] — OWASP standards
+
+- [[ai-security-handbook-2026]]
+- [[prompt-injection-comprehensive-2026]]
+- [[prompt-injection-incidents]]

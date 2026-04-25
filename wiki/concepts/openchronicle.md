@@ -109,3 +109,6 @@ This positions it as a **Camp 1 memory backend** (structured storage with retrie
 - [[honcho]] — Persistent memory and user-modeling layer
 - [[mempalace]] — Hierarchical memory palace approach
 - [[cli-vs-mcp-debate]] — CLI vs MCP tradeoffs for agent tool access
+
+- [[openchronicle-einsia-2026-04]]
+- [[million-token-illusion-oracle-converged-db-datachaz-2026-04]]

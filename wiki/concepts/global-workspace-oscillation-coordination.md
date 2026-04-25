@@ -303,3 +303,5 @@ LoRA switching = Module specialization
 ---
 
 #global-workspace #consciousness #neural-oscillation #brain-inspired #emergence #multi-module #day3-pathway
+
+- [[cross-pathway-neuromodulation-synthesis-2026-04]]

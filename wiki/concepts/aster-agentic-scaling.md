@@ -26,3 +26,6 @@ Research on scaling laws for agentic AI systems and emergent capabilities
 ## See Also
 - [[agentic-ai]]
 - [[knowledge-management]]
+
+## Related
+- [[teaching-small-models-agentic-behavior]]

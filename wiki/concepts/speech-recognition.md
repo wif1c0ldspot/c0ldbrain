@@ -19,3 +19,6 @@ summary: Speech-to-text and voice recognition for AI agents. See voice-ai for br
 STUB — Requires expansion.
 
 [[voice-ai]] — Voice AI ecosystem and tools
+
+## Related
+- [[nvidia-personaple-voice-ai-2026-04]]

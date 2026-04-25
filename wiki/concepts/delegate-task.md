@@ -16,3 +16,6 @@ summary: "Patterns for delegating tasks between AI agents"
 # Task Delegation in Agent Systems
 
 STUB — auto-created during lint fix. Requires expansion.
+
+## Related
+- [[sub-agents-vs-agent-teams-suryanshti777-2026-04]]

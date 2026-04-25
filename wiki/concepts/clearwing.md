@@ -44,3 +44,4 @@ Clearwing is an autonomous vulnerability scanner and source-code hunter built by
 - [[llm-vulnerability-scanners]] — LLM security scanning tools
 - [[owasp-top-10-for-llm]] — LLM security framework
 - [[continuous-red-teaming]] — ongoing security assessment
+- [[clearwing]]

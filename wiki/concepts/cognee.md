@@ -120,3 +120,11 @@ class CogneeMemoryAgent:
 - [[vectorless-rag]] — alternative: no vectors, LLM reasoning over structure
 - [[llm-knowledge-bases]] — knowledge management patterns
 - [[agent-memory-cognee-akshay-2026-04]] — source article
+- [[agent-memory-two-camps-witcheer-2026-04]]
+- [[async-subagent-pattern]]
+- [[context-substrate]]
+- [[daily-research-agentic-memory-2026-04-18]]
+- [[honcho]]
+- [[knowledge-graphs]]
+- [[openchronicle]]
+- [[openchronicle-einsia-2026-04]]

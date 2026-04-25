@@ -55,3 +55,10 @@ updated: '2026-04-18'
 
 
 [[prompt-injection-defense-tools]], [[llm-vulnerability-scanners]], [[defense-in-depth-llm]], [[continuous-red-teaming]]
+
+- [[ai-security-handbook-2026]]
+- [[ai-security-synthesis]]
+- [[clearwing]]
+- [[deep-team-red-teaming]]
+- [[prompt-injection-attack-vectors]]
+- [[prompt-injection-comprehensive-2026]]
