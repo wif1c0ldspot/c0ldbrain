@@ -1,14 +1,24 @@
 ---
-title: "Prompt Injection Attack Vectors (2026)"
-type: concept
-tags: [security, prompt-injection, llm-attacks, defense-mechanisms]
-sources: [owasp-top10-llm-2025-source, rag-specific-injection-vulnerabilities-source, multimodal-injection-emerging-threats-source, academic-papers-2025-2026-source, incident-case-studies-2025-2026-source]
-created: "2026-04-10"
-updated: '2026-04-10'
 confidence: high
-status: current
+created: '2026-04-10'
 priority: critical
-summary: "6 attack vectors: direct, indirect, RAG-specific, multimodal, tool abuse, system prompt leakage. 78% of incidents, avg cost $2.3M."
+sources:
+- owasp-top10-llm-2025-source
+- rag-specific-injection-vulnerabilities-source
+- multimodal-injection-emerging-threats-source
+- academic-papers-2025-2026-source
+- incident-case-studies-2025-2026-source
+status: current
+summary: '6 attack vectors: direct, indirect, RAG-specific, multimodal, tool abuse,
+  system prompt leakage. 78% of incidents, avg cost $2.3M.'
+tags:
+- security
+- prompt-injection
+- llm-attacks
+- defense-mechanisms
+title: Prompt Injection Attack Vectors (2026)
+type: concept
+updated: '2026-04-26'
 ---
 
 # Prompt Injection Attack Vectors (2026)

@@ -1,24 +1,24 @@
 ---
-title: Microsoft AutoGen - Agentic AI Framework
-type: source
+agents:
+- hermes
+compiled: true
+confidence: high
+created: '2026-04-10'
+priority: important
+source_url: https://github.com/microsoft/autogen
+sources: []
+status: current
+summary: Microsoft AutoGen — programming framework for building agentic AI systems
+  with multi-agent conversations, 56.9k GitHub stars.
 tags:
 - agentic-ai
 - multi-agent-systems
 - source
 - github
 - microsoft
-source_url: https://github.com/microsoft/autogen
-sources: []
-created: '2026-04-10'
-updated: '2026-04-10'
-confidence: high
-status: current
-agents:
-- hermes
-priority: important
-summary: Microsoft AutoGen — programming framework for building agentic AI systems
-  with multi-agent conversations, 56.9k GitHub stars.
-compiled: true
+title: Microsoft AutoGen - Agentic AI Framework
+type: source
+updated: '2026-04-26'
 ---
 
 # Microsoft AutoGen

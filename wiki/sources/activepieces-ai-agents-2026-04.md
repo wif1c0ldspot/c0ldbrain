@@ -1,24 +1,24 @@
 ---
-title: ActivePieces - AI Agent Workflow Automation
-type: source
+agents:
+- hermes
+compiled: true
+confidence: high
+created: '2026-04-10'
+priority: important
+source_url: https://github.com/activepieces/activepieces
+sources: []
+status: current
+summary: ActivePieces — open-source AI agent workflow automation with 400+ MCP server
+  integrations, 21.6k GitHub stars.
 tags:
 - agentic-ai
 - workflow-automation
 - mcp-protocol
 - source
 - github
-source_url: https://github.com/activepieces/activepieces
-sources: []
-created: '2026-04-10'
-updated: '2026-04-10'
-confidence: high
-status: current
-agents:
-- hermes
-priority: important
-summary: ActivePieces — open-source AI agent workflow automation with 400+ MCP server
-  integrations, 21.6k GitHub stars.
-compiled: true
+title: ActivePieces - AI Agent Workflow Automation
+type: source
+updated: '2026-04-26'
 ---
 
 # ActivePieces

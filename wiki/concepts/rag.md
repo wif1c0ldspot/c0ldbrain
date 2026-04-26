@@ -1,21 +1,31 @@
 ---
-title: RAG
-type: concept
+confidence: high
+created: 2026-04-18
+priority: important
+status: stub
+summary: Retrieval-Augmented Generation — grounding LLM outputs in external data
 tags:
 - knowledge-management
 - retrieval
-created: 2026-04-18
-updated: 2026-04-18
-confidence: high
-status: stub
-priority: important
-summary: Retrieval-Augmented Generation — grounding LLM outputs in external data
+title: RAG
+type: concept
+updated: '2026-04-26'
 ---
 
 # RAG
 
-Retrieval-Augmented Generation patterns. See also [[rag-security]] for security considerations.
+Retrieval-Augmented Generation — grounding LLM outputs in external data.
 
-## Related
+## Key Aspects
+
+- Dense vector representations for semantic similarity search
+- Chunking strategies optimized for retrieval quality
+- Hybrid search combining keyword and semantic matching
+- Re-ranking and filtering for precision improvement
+- Index management and incremental updates at scale
+
+## Related Concepts
+
+- [[rag-security]]
 - [[db-gpt-ai-data-assistant-2026-04]]
 - [[million-token-illusion-oracle-converged-db-datachaz-2026-04]]

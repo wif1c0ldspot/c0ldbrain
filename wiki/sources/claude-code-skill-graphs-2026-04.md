@@ -1,20 +1,20 @@
 ---
-title: Claude Code Skill Graphs Discovery
-type: source
-source_url: https://x.com//status/2040687605600141619
 author: '@claude_user'
-created: '2026-04-05'
+compiled: true
 confidence: medium
+created: '2026-04-05'
+priority: reference
+source_url: https://x.com//status/2040687605600141619
 status: current
+summary: Discovery of skill graphs feature in Claude Code after 3 months of usage
 tags:
 - source
 - claude-code
 - skills
 - workflows
-summary: Discovery of skill graphs feature in Claude Code after 3 months of usage
-priority: reference
-updated: '2026-04-05'
-compiled: true
+title: Claude Code Skill Graphs Discovery
+type: source
+updated: '2026-04-26'
 ---
 
 ## Summary

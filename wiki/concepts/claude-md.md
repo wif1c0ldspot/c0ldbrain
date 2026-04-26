@@ -1,33 +1,34 @@
 ---
-title: Claude.md
-type: concept
+confidence: medium
+created: 2026-04-18
+note: Auto-created stub — 2 broken link(s) point here
+priority: reference
+status: stub
+summary: Anthropic's Claude desktop integration and markdown-based agent workflow
 tags:
 - coding-agents
 - infrastructure
-created: 2026-04-18
-updated: 2026-04-18
-confidence: medium
-status: stub
-priority: reference
-summary: Anthropic's Claude desktop integration and markdown-based agent workflow
-note: Auto-created stub — 2 broken link(s) point here
+title: Claude.md
+type: concept
+updated: '2026-04-26'
 ---
 
 # Claude.md
 
-> **Stub page** — This concept needs expansion.
+Anthropic's Claude desktop integration and markdown-based agent workflow.
 
-## Overview
-Anthropic's Claude desktop integration and markdown-based agent workflow
+## Key Aspects
 
-## References
-- Referenced 2 time(s) in the wiki
+- Core principles and foundational concepts of Claude.md
+- Practical implementation patterns and best practices
+- Integration with related tools and frameworks
+- Current research directions and emerging trends
+- Trade-offs and design considerations for production use
 
-## See Also
+## Related Concepts
+
 - [[agentic-ai]]
 - [[knowledge-management]]
-
-## Related
 - [[langflow-claude-code-integration]]
 - [[rohit4verse-claude-code-architecture-2026-04]]
 - [[infrastructure-handbook-2026]]

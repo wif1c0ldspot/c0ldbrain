@@ -1,30 +1,36 @@
 ---
-title: Speech Recognition
-type: concept
+confidence: medium
+created: '2026-04-23'
+priority: reference
+status: stub
+summary: Speech-to-text and voice recognition for AI agents. See voice-ai for broader
+  voice ecosystem.
 tags:
 - voice-ai
 - ml-models
 - multimodal
-created: '2026-04-23'
-updated: '2026-04-25'
-confidence: medium
-status: stub
-priority: reference
-summary: Speech-to-text and voice recognition for AI agents. See voice-ai for broader
-  voice ecosystem.
+title: Speech Recognition
+type: concept
+updated: '2026-04-26'
 ---
 
-*Concept in the voice-ai domain — needs expansion.*
+# Speech Recognition
 
-- Speech recognition
+Speech-to-text and voice recognition for AI agents. See voice-ai for broader voice ecosystem..
+
+## Key Aspects
+
+- Automatic speech recognition with noise robustness
+- Real-time transcription with streaming architectures
+- Multi-language support and code-switching detection
+- Speaker diarization and voice activity detection
+- Audio preprocessing and enhancement pipelines
+
+## Related Concepts
+
 - [[speech-recognition]]
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
-
-## Related
 - [[ml-models-handbook-2026]]
-[[nvidia-ai]] · [[voice-ai]] · [[open-source-ai-infra]]
-
-## Sources
-[[nvidia-personaple-voice-ai-2026-04]]
+- [[nvidia-ai]]
+- [[voice-ai]]
+- [[open-source-ai-infra]]
+- [[nvidia-personaple-voice-ai-2026-04]]

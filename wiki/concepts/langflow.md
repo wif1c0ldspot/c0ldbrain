@@ -1,21 +1,34 @@
 ---
-title: Langflow
-type: concept
+confidence: medium
+created: '2026-04-23'
+priority: reference
+status: stub
+summary: Visual flow builder for AI agent workflows. See langflow-claude-code-integration
+  for Claude Code integration.
 tags:
 - ai-agents
 - visual-programming
 - low-code
-created: '2026-04-23'
-updated: '2026-04-23'
-confidence: medium
-status: stub
-priority: reference
-summary: Visual flow builder for AI agent workflows. See langflow-claude-code-integration
-  for Claude Code integration.
+title: Langflow
+type: concept
+updated: '2026-04-26'
 ---
 
 # Langflow
 
-STUB — Requires expansion.
+Visual flow builder for AI agent workflows. See langflow-claude-code-integration for Claude Code integration..
 
-[[langflow-claude-code-integration]] — Langflow + Claude Code production pipeline
+## Key Aspects
+
+- Core principles and foundational concepts of Langflow
+- Practical implementation patterns and best practices
+- Integration with related tools and frameworks
+- Current research directions and emerging trends
+- Trade-offs and design considerations for production use
+
+## Related Concepts
+
+- [[langflow-claude-code-integration]]
+
+---
+*This page was auto-expanded from a stub.*

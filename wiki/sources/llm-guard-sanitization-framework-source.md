@@ -4,6 +4,7 @@ created: '2026-04-08'
 priority: reference
 raw_path: raw/security/prompt-injection-2026/llm-guard-sanitization-framework-source.md
 source: llm-guard-sanitization-framework-source.md
+source_url: aggregate
 status: current
 summary: 'llm-guard: Input/Output Sanitization Framework'
 tags:
@@ -11,24 +12,22 @@ tags:
 - prompt-injection
 title: 'llm-guard: Input/Output Sanitization Framework'
 type: reference
-updated: '2026-04-08'
-source_url: aggregate
-
+updated: '2026-04-26'
 ---
-
 
 # llm-guard: Input/Output Sanitization Framework
 
-## Summary
-Source document from prompt injection research collection (2025-2026). Contains detailed information on: llm-guard: Input/Output Sanitization Framework.
+llm-guard: Input/Output Sanitization Framework.
 
-## Key Points
-This source covers specific aspects of prompt injection security. Refer to [[prompt-injection-comprehensive-2026]] for synthesized findings.
+## Key Aspects
 
-## Source Metadata
-- **File**: `llm-guard-sanitization-framework-source.md`
-- **Type**: Raw research source
-- **Date collected**: 2026-04-08
+- Core principles and foundational concepts of llm-guard: Input/Output Sanitization Framework
+- Practical implementation patterns and best practices
+- Integration with related tools and frameworks
+- Current research directions and emerging trends
+- Trade-offs and design considerations for production use
 
-## Notes
-This is a raw source page. For synthesized analysis, see the concept page: [[prompt-injection-comprehensive-2026]].
+## Related Concepts
+
+- [[prompt-injection-comprehensive-2026]]
+- [[prompt-injection-comprehensive-2026]]

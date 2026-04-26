@@ -27,7 +27,7 @@ tags:
 - handbook
 title: AI Security Handbook — LLM Defense-in-Depth 2026
 type: synthesis
-updated: '2026-04-11'
+updated: '2026-04-26'
 ---
 
 

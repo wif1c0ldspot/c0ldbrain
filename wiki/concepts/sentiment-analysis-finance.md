@@ -1,21 +1,33 @@
 ---
-title: Sentiment Analysis in Finance
-type: concept
+confidence: medium
+created: '2026-04-25'
+priority: important
+status: stub
+summary: NLP techniques applied to financial market sentiment
 tags:
 - quantitative-trading
 - nlp
 - concept
-created: '2026-04-25'
-updated: '2026-04-25'
-confidence: medium
-status: stub
-priority: important
-summary: NLP techniques applied to financial market sentiment
+title: Sentiment Analysis in Finance
+type: concept
+updated: '2026-04-26'
 ---
 
 # Sentiment Analysis in Finance
 
-STUB — auto-created during lint fix. Requires expansion.
+NLP techniques applied to financial market sentiment.
 
-## Related
+## Key Aspects
+
+- Prediction market analysis with odds interpretation
+- Sentiment signals from social media and news sources
+- Probability calibration and confidence estimation
+- Multi-source signal aggregation for forecast accuracy
+- Historical performance tracking and resolution tracking
+
+## Related Concepts
+
 - [[fingpt-ai4finance-2026-04]]
+
+---
+*This page was auto-expanded from a stub.*

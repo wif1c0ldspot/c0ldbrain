@@ -12,7 +12,7 @@ tags:
 - autonomous-optimization
 title: Karpathy LLM Wiki - Autonomous Agent
 type: concept
-updated: 2026-04-10
+updated: '2026-04-26'
 ---
 
 

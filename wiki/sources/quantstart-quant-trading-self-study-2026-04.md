@@ -1,20 +1,20 @@
 ---
-title: QuantStart Self-Study Plan for Quantitative Trading
-type: source
+compiled: true
+confidence: high
+created: '2026-04-07'
+priority: important
+source_url: https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Trader-Part-I/
+sources:
+- quantstart-article-2026-04
+status: current
+summary: QuantStart article outlining career paths, required background (math, stats,
+  programming), and self-study curriculum for quantitative trading.
 tags:
 - quantitative-trading
 - source
-sources:
-- quantstart-article-2026-04
-created: '2026-04-07'
-updated: '2026-04-07'
-confidence: high
-status: current
-priority: important
-summary: QuantStart article outlining career paths, required background (math, stats,
-  programming), and self-study curriculum for quantitative trading.
-compiled: true
-source_url: https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Trader-Part-I/
+title: QuantStart Self-Study Plan for Quantitative Trading
+type: source
+updated: '2026-04-26'
 ---
 
 # QuantStart Self-Study Plan for Quantitative Trading

@@ -1,26 +1,32 @@
 ---
-title: Skills Pattern
-type: concept
+confidence: medium
+created: 2026-04-18
+priority: important
+status: stub
+summary: Agent capability discovery and execution via skill manifests
 tags:
 - ai-agents
 - architecture
 - mcp
-created: 2026-04-18
-updated: 2026-04-18
-confidence: medium
-status: stub
-priority: important
-summary: Agent capability discovery and execution via skill manifests
+title: Skills Pattern
+type: concept
+updated: '2026-04-26'
 ---
 
 # Skills Pattern
 
-Pattern where agents discover capabilities via skill manifests:
-- Skill metadata presentation
-- Dynamic skill loading
-- Capability-based routing
+Agent capability discovery and execution via skill manifests.
 
-## Related
+## Key Aspects
+
+- Reusable procedural knowledge for recurring task patterns
+- Skill composition through dependency chaining
+- Auto-patching when edge cases and errors are discovered
+- Category-based organization for discovery and maintenance
+- Template and script attachments for complex workflows
+
+## Related Concepts
+
 - [[gbrain-agent-brain]]
 - [[hermes-ecosystem-projects]]
 - [[hermes-multi-profile-team]]

@@ -1,21 +1,20 @@
 ---
-title: QuantStart Self-Study Plan for Quantitative Trading
-type: source
+compiled: true
+confidence: high
+created: '2026-04-07'
+priority: important
+source_url: aggregate
+sources:
+- raw/articles/Quant Trading Article.md
+status: current
+summary: QuantStart article (Part I) covering career expectations, required mathematical/statistical
+  background, and recommended textbook curriculum for quantitative trading.
 tags:
 - quantitative-trading
 - source
-sources:
-- raw/articles/Quant Trading Article.md
-created: '2026-04-07'
-updated: '2026-04-07'
-confidence: high
-status: current
-priority: important
-summary: QuantStart article (Part I) covering career expectations, required mathematical/statistical
-  background, and recommended textbook curriculum for quantitative trading.
-compiled: true
-source_url: aggregate
-
+title: QuantStart Self-Study Plan for Quantitative Trading
+type: source
+updated: '2026-04-26'
 ---
 
 # QuantStart Self-Study Plan for Quantitative Trading

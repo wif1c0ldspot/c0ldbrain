@@ -1,30 +1,38 @@
 ---
-title: Automation
-type: concept
+confidence: medium
+created: '2026-04-23'
+priority: reference
+status: stub
+summary: AI-driven automation patterns for workflows and processes. See agentic-ai
+  for autonomous agent patterns.
 tags:
 - ai-agents
 - productivity
 - workflows
-created: '2026-04-23'
-updated: '2026-04-25'
-confidence: medium
-status: stub
-priority: reference
-summary: AI-driven automation patterns for workflows and processes. See agentic-ai
-  for autonomous agent patterns.
+title: Automation
+type: concept
+updated: '2026-04-26'
 ---
 
-*Concept in the ai-agents domain — needs expansion.*
+# Automation
 
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
+AI-driven automation patterns for workflows and processes. See agentic-ai for autonomous agent patterns..
 
-## Related
+## Key Aspects
+
+- Event-driven automation with trigger-action patterns
+- Pipeline orchestration for multi-stage data processing
+- Error recovery and retry strategies for distributed workflows
+- Parallel execution with dependency resolution
+- Observability through structured logging and metrics
+
+## Related Concepts
+
 - [[agentic-ai]]
-[[financial-ai]] · [[ocr]] · [[quantitative-trading]] · [[agentic-research]] · [[open-source-ai-infra]] · [[document-processing]]
-
-## Sources
-[[automated-stock-research-agent-2026-03]], [[glm-ocr-open-source-2026-04]]
+- [[financial-ai]]
+- [[ocr]]
+- [[quantitative-trading]]
+- [[agentic-research]]
+- [[open-source-ai-infra]]
+- [[document-processing]]
+- [[automated-stock-research-agent-2026-03]]

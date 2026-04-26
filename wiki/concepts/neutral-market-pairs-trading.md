@@ -1,21 +1,34 @@
 ---
-title: Neutral Market Pairs Trading
-type: concept
+confidence: medium
+created: '2026-04-23'
+priority: reference
+status: stub
+summary: Market-neutral pairs trading strategy for ranging markets. See polymarket-weather-trading-strategy
+  for related approach.
 tags:
 - quantitative-trading
 - market-neutral
 - crypto
-created: '2026-04-23'
-updated: '2026-04-23'
-confidence: medium
-status: stub
-priority: reference
-summary: Market-neutral pairs trading strategy for ranging markets. See polymarket-weather-trading-strategy
-  for related approach.
+title: Neutral Market Pairs Trading
+type: concept
+updated: '2026-04-26'
 ---
 
 # Neutral Market Pairs Trading
 
-STUB — Requires expansion.
+Market-neutral pairs trading strategy for ranging markets. See polymarket-weather-trading-strategy for related approach..
 
-[[polymarket-weather-trading-strategy]] — Weather-based trading on prediction markets
+## Key Aspects
+
+- Statistical analysis of price patterns and market microstructure
+- Risk management through position sizing and portfolio construction
+- Signal generation combining multiple indicators and timeframes
+- Backtesting methodology with out-of-sample validation
+- Live execution with slippage and latency considerations
+
+## Related Concepts
+
+- [[polymarket-weather-trading-strategy]]
+
+---
+*This page was auto-expanded from a stub.*

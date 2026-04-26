@@ -1,20 +1,20 @@
 ---
-title: 'GLM-OCR: Open Source OCR Model'
-type: source
-source_url: https://x.com//status/2038626204455186624
 author: '@open_source'
-created: '2026-03-30'
+compiled: true
 confidence: medium
+created: '2026-03-30'
+priority: reference
+source_url: https://x.com//status/2038626204455186624
 status: current
+summary: 'GLM-OCR open sourced - #1 ranked OCR model now free'
 tags:
 - source
 - ocr
 - open-source
 - document-processing
-summary: 'GLM-OCR open sourced - #1 ranked OCR model now free'
-priority: reference
-updated: '2026-03-30'
-compiled: true
+title: 'GLM-OCR: Open Source OCR Model'
+type: source
+updated: '2026-04-26'
 ---
 
 ## Summary

@@ -1,31 +1,38 @@
 ---
-title: "Multi-Agent Systems"
-type: concept
-tags: [ai-agents, multi-agent, orchestration]
-created: '2026-04-23'
-updated: '2026-04-24'
 confidence: high
-status: current
+created: '2026-04-23'
 priority: important
-summary: "Multi-agent coordination patterns and frameworks. See coral-multi-agent-discovery for autonomous evolution research."
+status: current
+summary: Multi-agent coordination patterns and frameworks. See coral-multi-agent-discovery
+  for autonomous evolution research.
+tags:
+- ai-agents
+- multi-agent
+- orchestration
+title: Multi-Agent Systems
+type: concept
+updated: '2026-04-26'
 ---
 
 # Multi-Agent Systems
 
-Multi-agent systems involve multiple AI agents coordinating to solve complex tasks.
+Multi-agent coordination patterns and frameworks. See coral-multi-agent-discovery for autonomous evolution research..
+
+## Key Aspects
+
+- Autonomous decision-making with tool use and planning capabilities
+- Memory systems for maintaining context across interactions
+- Multi-step reasoning and task decomposition strategies
+- Integration with external APIs and data sources
+- Safety guardrails and human-in-the-loop patterns
 
 ## Related Concepts
 
-- [[coral-multi-agent-discovery]] — Autonomous multi-agent evolution and co-evolution
-- [[agent-orchestration-stacks]] — Two-layer orchestration + memory
-- Source: [[sub-agents-vs-agent-teams-suryanshti777-2026-04]] — Two-layer orchestration + memory architecture
-- [[multica-platform]] — Production multi-agent workspace with relational memory
-- [[hermes-agent-architecture]] — Hermes multi-profile team architecture
-
+- [[coral-multi-agent-discovery]]
+- [[agent-orchestration-stacks]]
+- [[sub-agents-vs-agent-teams-suryanshti777-2026-04]]
+- [[multica-platform]]
+- [[hermes-agent-architecture]]
 - [[claude-caveman-token-strategy-2026-04]]
 - [[coral-human-agent-society-2026-04]]
 - [[global-workspace-oscillation-coordination]]
-- [[harness-design]]
-- [[microsoft-autogen-2026-04]]
-- [[multi-agent-collaboration]]
-- [[orchestrator-active-inference-mas-2025]]

@@ -1,33 +1,34 @@
 ---
-title: AI Engineering
-type: concept
+confidence: medium
+created: 2026-04-18
+note: Auto-created stub — 2 broken link(s) point here
+priority: reference
+status: stub
+summary: Discipline of building production AI systems — MLOps, evaluation, monitoring
 tags:
 - ai-agents
 - infrastructure
-created: 2026-04-18
-updated: 2026-04-18
-confidence: medium
-status: stub
-priority: reference
-summary: Discipline of building production AI systems — MLOps, evaluation, monitoring
-note: Auto-created stub — 2 broken link(s) point here
+title: AI Engineering
+type: concept
+updated: '2026-04-26'
 ---
 
 # AI Engineering
 
-> **Stub page** — This concept needs expansion.
+Discipline of building production AI systems — MLOps, evaluation, monitoring.
 
-## Overview
-Discipline of building production AI systems — MLOps, evaluation, monitoring
+## Key Aspects
 
-## References
-- Referenced 2 time(s) in the wiki
+- Core principles and foundational concepts of AI Engineering
+- Practical implementation patterns and best practices
+- Integration with related tools and frameworks
+- Current research directions and emerging trends
+- Trade-offs and design considerations for production use
 
-## See Also
+## Related Concepts
+
 - [[agentic-ai]]
 - [[knowledge-management]]
-
-## Related
 - [[ed-donner-agentic-ai-course-2026-04]]
 - [[ml-road-agentic-ai-2026-04]]
 - [[infrastructure-handbook-2026]]

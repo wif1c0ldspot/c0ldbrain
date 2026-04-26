@@ -1,20 +1,20 @@
 ---
-title: 397 Billion Parameters on MacBook
-type: source
-source_url: https://x.com//status/2038614549973401699
 author: '@local_ai'
-created: '2026-03-30'
+compiled: true
 confidence: medium
+created: '2026-03-30'
+priority: reference
+source_url: https://x.com//status/2038614549973401699
 status: current
+summary: Running 397B parameter model locally on MacBook - no cloud, no GPU cluster
 tags:
 - source
 - local-ai
 - large-models
 - quantization
-summary: Running 397B parameter model locally on MacBook - no cloud, no GPU cluster
-priority: reference
-updated: '2026-03-30'
-compiled: true
+title: 397 Billion Parameters on MacBook
+type: source
+updated: '2026-04-26'
 ---
 
 ## Summary

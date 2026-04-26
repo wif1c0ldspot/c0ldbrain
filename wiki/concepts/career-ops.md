@@ -13,23 +13,24 @@ tags:
 - knowledge-management
 title: Career-Ops
 type: concept
-updated: 2026-04-10
+updated: '2026-04-26'
 ---
-
-
 
 # Career-Ops
 
-## Summary
+Claude Code skill for job search pipeline — 14 modes, Go dashboard, batch processing..
 
-Career-Ops (santifer/career-ops, 13.6k stars) turns Claude Code into a job search command center. 14 skill modes, Go dashboard, PDF reports, batch processing, ATS normalization.
+## Key Aspects
 
-## Architecture
-
-`.claude/skills/career-ops` slash command, modes/, batch/, dashboard/, interview-prep/, config/
+- Core principles and foundational concepts of Career-Ops
+- Practical implementation patterns and best practices
+- Integration with related tools and frameworks
+- Current research directions and emerging trends
+- Trade-offs and design considerations for production use
 
 ## Related Concepts
 
-[[ai-coding-agents]], [[skill-registry]], [[hermes-agent-architecture]]
-
+- [[ai-coding-agents]]
+- [[skill-registry]]
+- [[hermes-agent-architecture]]
 - [[ai-agents-handbook-2026]]

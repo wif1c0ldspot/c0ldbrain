@@ -1,41 +1,38 @@
 ---
-title: Agent Architecture
-type: concept
+confidence: medium
+created: 2026-04-18
+note: Auto-created stub — 4 broken link(s) point here
+priority: reference
+status: stub
+summary: Structural patterns for building AI agents — decision loops, memory hierarchy,
+  tool integration
 tags:
 - agentic-ai
 - infrastructure
-created: 2026-04-18
-updated: 2026-04-18
-confidence: medium
-status: stub
-priority: reference
-summary: Structural patterns for building AI agents — decision loops, memory hierarchy,
-  tool integration
-note: Auto-created stub — 4 broken link(s) point here
+title: Agent Architecture
+type: concept
+updated: '2026-04-26'
 ---
 
 # Agent Architecture
 
-> **Stub page** — This concept needs expansion.
+Structural patterns for building AI agents — decision loops, memory hierarchy, tool integration.
 
-## Overview
-Structural patterns for building AI agents — decision loops, memory hierarchy, tool integration
+## Key Aspects
 
-## References
-- Referenced 4 time(s) in the wiki
+- Autonomous decision-making with tool use and planning capabilities
+- Memory systems for maintaining context across interactions
+- Multi-step reasoning and task decomposition strategies
+- Integration with external APIs and data sources
+- Safety guardrails and human-in-the-loop patterns
 
-## See Also
+## Related Concepts
+
 - [[agentic-ai]]
 - [[knowledge-management]]
-
-## Related
 - [[claude-code]]
 - [[langflow-claude-code-integration]]
 - [[multica-kimi-k26-agent-teams-multicaai-2026-04]]
 - [[multica-platform]]
 - [[recursive-language-models]]
 - [[resolvers]]
-- [[rohit4verse-claude-code-architecture-2026-04]]
-- [[sub-agents-vs-agent-teams-suryanshti777-2026-04]]
-- [[infrastructure-handbook-2026]]
-- [[agent-harness]]

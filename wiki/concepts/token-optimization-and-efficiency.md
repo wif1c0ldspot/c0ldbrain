@@ -1,32 +1,33 @@
 ---
-title: Token Optimization & Efficiency
-type: concept
+confidence: medium
+created: 2026-04-18
+note: Auto-created stub — 2 broken link(s) point here
+priority: reference
+status: stub
+summary: Strategies to reduce token usage while maintaining output quality
 tags:
 - llm-optimization
 - context-management
-created: 2026-04-18
-updated: 2026-04-18
-confidence: medium
-status: stub
-priority: reference
-summary: Strategies to reduce token usage while maintaining output quality
-note: Auto-created stub — 2 broken link(s) point here
+title: Token Optimization & Efficiency
+type: concept
+updated: '2026-04-26'
 ---
 
 # Token Optimization & Efficiency
 
-> **Stub page** — This concept needs expansion.
+Strategies to reduce token usage while maintaining output quality.
 
-## Overview
-Strategies to reduce token usage while maintaining output quality
+## Key Aspects
 
-## References
-- Referenced 2 time(s) in the wiki
+- Model compression through quantization and pruning
+- Inference optimization with caching and batching strategies
+- Scaling laws and compute-optimal training configurations
+- Hardware-specific optimization for GPU/TPU/edge deployment
+- Latency-throughput tradeoffs in production serving
 
-## See Also
+## Related Concepts
+
 - [[agentic-ai]]
 - [[knowledge-management]]
-
-## Related
 - [[claude-md-best-practices]]
 - [[local-llm-infrastructure]]

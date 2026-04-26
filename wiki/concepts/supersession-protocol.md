@@ -1,32 +1,33 @@
 ---
-title: Supersession Protocol
-type: concept
+confidence: medium
+created: 2026-04-18
+note: Auto-created stub — 1 broken link(s) point here
+priority: reference
+status: stub
+summary: Pattern for replacing outdated AI models or strategies with newer versions
 tags:
 - agentic-ai
 - knowledge-management
-created: 2026-04-18
-updated: 2026-04-18
-confidence: medium
-status: stub
-priority: reference
-summary: Pattern for replacing outdated AI models or strategies with newer versions
-note: Auto-created stub — 1 broken link(s) point here
+title: Supersession Protocol
+type: concept
+updated: '2026-04-26'
 ---
 
 # Supersession Protocol
 
-> **Stub page** — This concept needs expansion.
+Pattern for replacing outdated AI models or strategies with newer versions.
 
-## Overview
-Pattern for replacing outdated AI models or strategies with newer versions
+## Key Aspects
 
-## References
-- Referenced 1 time(s) in the wiki
+- Standardized protocol for tool communication and discovery
+- Server-sent events and streaming for real-time updates
+- Authentication and authorization for multi-tenant access
+- Schema validation and type-safe message passing
+- Composability through chaining and parallel execution
 
-## See Also
+## Related Concepts
+
 - [[agentic-ai]]
 - [[knowledge-management]]
-
-## Related
 - [[apex-mem-acl-2026-2026-04]]
 - [[knowledge-lifecycle-decision-framework]]

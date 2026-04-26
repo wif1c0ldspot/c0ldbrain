@@ -1,27 +1,34 @@
 ---
+confidence: high
+created: 2026-04-18
+priority: important
+status: current
+summary: Andrej Karpathy — AI researcher, educator, and creator of LLM wiki pattern
+tags:
+- people
+- ai-research
+- wiki
 title: Karpathy (Andrej)
 type: concept
-tags: [people, ai-research, wiki]
-created: 2026-04-18
-updated: 2026-04-18
-confidence: high
-status: current
-priority: important
-summary: "Andrej Karpathy — AI researcher, educator, and creator of LLM wiki pattern"
+updated: '2026-04-26'
 ---
 
-# Andrej Karpathy
+# Karpathy (Andrej)
 
-AI researcher known for:
-- karpathy-llm-wiki_agent — LLM-maintained wiki pattern
-- Open-source AI projects (minGPT, WebGPT)
-- Teaching AI at Andrej Karpathy
+Andrej Karpathy — AI researcher, educator, and creator of LLM wiki pattern.
 
-## Critiques
-- [[notebooklm-vs-llm-wiki]] — @artemxtech argues wiki is overkill for personal knowledge; NotebookLM + skills workflow is faster/cheaper
+## Key Aspects
 
-## Related
-- [[karpathy-llm-wiki-agent]] — His wiki architecture
+- Core principles and foundational concepts of Karpathy (Andrej)
+- Practical implementation patterns and best practices
+- Integration with related tools and frameworks
+- Current research directions and emerging trends
+- Trade-offs and design considerations for production use
+
+## Related Concepts
+
+- [[notebooklm-vs-llm-wiki]]
+- [[karpathy-llm-wiki-agent]]
 - [[gbrain-agent-brain]]
 - [[karpathy-llm-kb-pattern-2026-04]]
 - [[karpathy-llm-knowledge-base-viral-2026-04]]

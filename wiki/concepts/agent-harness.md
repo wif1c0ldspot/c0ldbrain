@@ -70,6 +70,6 @@ The harness is distinct from the "agent" — the agent is emergent behavior; the
 - [[akshay-agent-harness-anatomy-2026-04]]
 - [[agent-architecture]]
 - [[context-engineering]]
-- [[orchestration]]
+- [[tool-orchestration]]
 - [[memory-systems]]
 - [[agent-harness]]

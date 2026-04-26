@@ -1,43 +1,37 @@
 ---
-title: "Knowledge Management"
-type: concept
-tags: [knowledge-management, ai-agents]
-created: '2026-04-23'
-updated: '2026-04-23'
 confidence: high
-status: current
+created: '2026-04-23'
 priority: important
-summary: "Redirect stub — see knowledge-management-synthesis for the unified paradigm comparison."
+status: current
+summary: Redirect stub — see knowledge-management-synthesis for the unified paradigm
+  comparison.
+tags:
+- knowledge-management
+- ai-agents
+title: Knowledge Management
+type: concept
+updated: '2026-04-26'
 ---
 
 # Knowledge Management
 
-See [[knowledge-management-synthesis]] for the comprehensive unified view of RAG vs compiled vs synthesized knowledge paradigms.
+Redirect stub — see knowledge-management-synthesis for the unified paradigm comparison..
 
-Also see:
-- [[llm-knowledge-bases]] — Compiled knowledge pattern (Karpathy)
-- [[context-substrate]] — Context-as-substrate paradigm
-- [[company-context-brain]] — Synthesized organizational knowledge
+## Key Aspects
 
-## Related
+- Structured knowledge representation with frontmatter schemas
+- Automated compilation from raw sources to wiki pages
+- Link integrity and orphan detection for knowledge graphs
+- Domain-based routing and filing conventions
+- Synthesis generation from clustered source material
+
+## Related Concepts
+
+- [[knowledge-management-synthesis]]
+- [[llm-knowledge-bases]]
+- [[context-substrate]]
+- [[company-context-brain]]
 - [[agent-architecture]]
 - [[agent-infrastructure]]
 - [[ai-engineering]]
 - [[aster-agentic-scaling]]
-- [[claude-35-evaluation-2025]]
-- [[claude-code-skill-graphs-2026-04]]
-- [[claude-md]]
-- [[completeness-principle]]
-- [[emergent-strategies]]
-- [[escalation-protocol]]
-- [[hermes-atropos-environments]]
-- [[llm-knowledge-base-pattern]]
-- [[llm-optimized-wiki]]
-- [[markitdown-microsoft-2026-04]]
-- [[notebooklm-vs-llm-wiki]]
-- [[quantization-techniques]]
-- [[resolver-pattern]]
-- [[supersession-protocol]]
-- [[token-optimization-and-efficiency]]
-- [[user-sovereignty]]
-- [[infrastructure-handbook-2026]]

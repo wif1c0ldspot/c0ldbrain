@@ -1,21 +1,21 @@
 ---
-title: Automated Stock Research Agent
-type: source
-source_url: https://x.com//status/2034079928178925663
 author: '@quant_dev'
-created: '2026-03-18'
+compiled: true
 confidence: medium
+created: '2026-03-18'
+priority: reference
+source_url: https://x.com//status/2034079928178925663
 status: current
+summary: AI agent automating $500/hour stock research - Wall Street quality analysis
+  free
 tags:
 - source
 - quant
 - automation
 - research
-summary: AI agent automating $500/hour stock research - Wall Street quality analysis
-  free
-priority: reference
-updated: '2026-03-18'
-compiled: true
+title: Automated Stock Research Agent
+type: source
+updated: '2026-04-26'
 ---
 
 ## Summary

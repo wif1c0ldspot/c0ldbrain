@@ -1,31 +1,36 @@
 ---
-title: Reasoning Paradigms
-type: concept
+confidence: medium
+created: '2026-04-23'
+priority: reference
+status: stub
+summary: Paradigms for LLM reasoning including chain-of-thought and recursive reasoning.
 tags:
 - ml-models
 - reasoning
 - ai-agents
-created: '2026-04-23'
-updated: '2026-04-25'
-confidence: medium
-status: stub
-priority: reference
-summary: Paradigms for LLM reasoning including chain-of-thought and recursive reasoning.
+title: Reasoning Paradigms
+type: concept
+updated: '2026-04-26'
 ---
 
-*Concept in the ml-models domain — needs expansion.*
+# Reasoning Paradigms
 
-- RLM = reasoning + tool use collapsed into one abstraction — prompt becomes environment, context becomes computation
-- Three benchmark failure modes of single forward pass: long context (Oolong), memory (LongMemEval), long reasoning (LongCoT)
+Paradigms for LLM reasoning including chain-of-thought and recursive reasoning..
+
+## Key Aspects
+
+- Core principles and foundational concepts of Reasoning Paradigms
+- Practical implementation patterns and best practices
+- Integration with related tools and frameworks
+- Current research directions and emerging trends
+- Trade-offs and design considerations for production use
+
+## Related Concepts
+
 - [[reasoning-paradigms]]
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
-
-## Related
 - [[chain-of-thought]]
 - [[ml-models-handbook-2026]]
 - [[rlms-new-reasoning-models-rawworks-2026-04]]
-[[recursive-language-models]] · [[test-time-compute-scaling]] · [[inference-scaling]]
-
-## Sources
-[[r...
+- [[recursive-language-models]]
+- [[test-time-compute-scaling]]
+- [[inference-scaling]]

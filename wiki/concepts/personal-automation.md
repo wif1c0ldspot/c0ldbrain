@@ -1,27 +1,37 @@
 ---
-title: Personal Automation
-type: concept
+confidence: medium
+created: '2026-04-23'
+priority: reference
+status: stub
+summary: Personal automation workflows with AI agents. See agentic-ai for agent patterns.
 tags:
 - ai-agents
 - automation
 - productivity
-created: '2026-04-23'
-updated: '2026-04-25'
-confidence: medium
-status: stub
-priority: reference
-summary: Personal automation workflows with AI agents. See agentic-ai for agent patterns.
+title: Personal Automation
+type: concept
+updated: '2026-04-26'
 ---
 
-*Concept in the ai-agents domain — needs expansion.*
+# Personal Automation
 
-- Automation of research, writing, and analysis workflows
-- Compare with [[homeassistant-agent-setup]] for personal automation
-- [[personal-automation]] — Automating personal workflows
-- [[personal-automation]] — Personal AI assistant patterns
-- *Key aspect to be expanded*
+Personal automation workflows with AI agents. See agentic-ai for agent patterns..
 
-## Related
+## Key Aspects
+
+- Event-driven automation with trigger-action patterns
+- Pipeline orchestration for multi-stage data processing
+- Error recovery and retry strategies for distributed workflows
+- Parallel execution with dependency resolution
+- Observability through structured logging and metrics
+
+## Related Concepts
+
+- [[homeassistant-agent-setup]]
+- [[personal-automation]]
+- [[personal-automation]]
 - [[jarvis-obsidian-claude-code-cyrilxbt-2026-04]]
 - [[personal-ai-infrastructure-2026-04]]
-[[ai-security]] · [[agent-orchestration-stacks]] · [[claude-code-patterns]] · [[agentic-ai]] · [[homeassistant-agent-setup]] · [[llm-optimized-wiki]] · [[cla...
+- [[ai-security]]
+- [[agent-orchestration-stacks]]
+- [[claude-code-patterns]]

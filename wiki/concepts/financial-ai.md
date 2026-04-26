@@ -1,29 +1,36 @@
 ---
-title: Financial Ai
-type: concept
+confidence: medium
+created: '2026-04-23'
+priority: reference
+status: stub
+summary: AI applications in finance and trading. See quantitative-trading for trading-specific
+  approaches.
 tags:
 - quantitative-trading
 - ai-agents
 - finance
-created: '2026-04-23'
-updated: '2026-04-25'
-confidence: medium
-status: stub
-priority: reference
-summary: AI applications in finance and trading. See quantitative-trading for trading-specific
-  approaches.
+title: Financial Ai
+type: concept
+updated: '2026-04-26'
 ---
 
-*Concept in the quantitative-trading domain — needs expansion.*
+# Financial Ai
+
+AI applications in finance and trading. See quantitative-trading for trading-specific approaches..
+
+## Key Aspects
+
+- Core principles and foundational concepts of Financial Ai
+- Practical implementation patterns and best practices
+- Integration with related tools and frameworks
+- Current research directions and emerging trends
+- Trade-offs and design considerations for production use
+
+## Related Concepts
 
 - [[quantitative-trading]]
 - [[financial-ai]]
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
-
-## Related
-[[quantitative-trading]] · [[automation]] · [[agentic-research]]
-
-## Sources
-[[automated-stock-research-agent-2026-03]]
+- [[quantitative-trading]]
+- [[automation]]
+- [[agentic-research]]
+- [[automated-stock-research-agent-2026-03]]

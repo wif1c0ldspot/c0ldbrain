@@ -1,21 +1,21 @@
 ---
-title: Building Personal Knowledge Base for Agents
-type: source
-source_url: https://x.com//status/2039844072748204246
 author: '@karpathy'
-created: '2026-04-02'
+compiled: true
 confidence: high
+created: '2026-04-02'
+priority: reference
+source_url: https://x.com//status/2039844072748204246
 status: current
+summary: Using LLMs to build personal knowledge bases that serve as context for AI
+  agents
 tags:
 - source
 - knowledge-management
 - agents
 - llm-wiki
-summary: Using LLMs to build personal knowledge bases that serve as context for AI
-  agents
-priority: reference
-updated: '2026-04-02'
-compiled: true
+title: Building Personal Knowledge Base for Agents
+type: source
+updated: '2026-04-26'
 ---
 
 ## Summary

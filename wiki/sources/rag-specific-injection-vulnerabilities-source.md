@@ -4,6 +4,7 @@ created: '2026-04-08'
 priority: reference
 raw_path: raw/security/prompt-injection-2026/rag-specific-injection-vulnerabilities-source.md
 source: rag-specific-injection-vulnerabilities-source.md
+source_url: aggregate
 status: current
 summary: RAG-Specific Prompt Injection Vulnerabilities
 tags:
@@ -11,24 +12,22 @@ tags:
 - prompt-injection
 title: RAG-Specific Prompt Injection Vulnerabilities
 type: reference
-updated: '2026-04-08'
-source_url: aggregate
-
+updated: '2026-04-26'
 ---
-
 
 # RAG-Specific Prompt Injection Vulnerabilities
 
-## Summary
-Source document from prompt injection research collection (2025-2026). Contains detailed information on: RAG-Specific Prompt Injection Vulnerabilities.
+RAG-Specific Prompt Injection Vulnerabilities.
 
-## Key Points
-This source covers specific aspects of prompt injection security. Refer to [[prompt-injection-comprehensive-2026]] for synthesized findings.
+## Key Aspects
 
-## Source Metadata
-- **File**: `rag-specific-injection-vulnerabilities-source.md`
-- **Type**: Raw research source
-- **Date collected**: 2026-04-08
+- Input validation and sanitization for LLM interactions
+- Prompt injection attack vectors and defense mechanisms
+- Model-level safety training and alignment techniques
+- Red-teaming methodologies for vulnerability assessment
+- Monitoring and logging for threat detection
 
-## Notes
-This is a raw source page. For synthesized analysis, see the concept page: [[prompt-injection-comprehensive-2026]].
+## Related Concepts
+
+- [[prompt-injection-comprehensive-2026]]
+- [[prompt-injection-comprehensive-2026]]

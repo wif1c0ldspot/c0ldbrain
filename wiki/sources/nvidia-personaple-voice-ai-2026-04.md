@@ -1,20 +1,20 @@
 ---
-title: NVIDIA PersonaPle Voice AI
-type: source
-source_url: https://x.com//status/2040323104577339641
 author: '@nvidia'
-created: '2026-04-04'
+compiled: true
 confidence: medium
+created: '2026-04-04'
+priority: reference
+source_url: https://x.com//status/2040323104577339641
 status: current
+summary: NVIDIA open sourced PersonaPle removing friction from Voice AI development
 tags:
 - source
 - voice-ai
 - nvidia
 - open-source
-summary: NVIDIA open sourced PersonaPle removing friction from Voice AI development
-priority: reference
-updated: '2026-04-04'
-compiled: true
+title: NVIDIA PersonaPle Voice AI
+type: source
+updated: '2026-04-26'
 ---
 
 ## Summary

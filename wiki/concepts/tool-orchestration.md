@@ -1,27 +1,32 @@
 ---
-title: Tool Orchestration
-type: concept
+confidence: medium
+created: 2026-04-18
+priority: important
+status: stub
+summary: Coordinating multiple tool calls in agent workflows
 tags:
 - ai-agents
 - mcp
 - tools
-created: 2026-04-18
-updated: 2026-04-18
-confidence: medium
-status: stub
-priority: important
-summary: Coordinating multiple tool calls in agent workflows
+title: Tool Orchestration
+type: concept
+updated: '2026-04-26'
 ---
 
 # Tool Orchestration
 
-Pattern for managing multiple tool calls:
-- Sequential execution
-- Parallel execution
-- Dependent calls
-- Error handling
+Coordinating multiple tool calls in agent workflows.
 
-## Related
+## Key Aspects
+
+- Event-driven automation with trigger-action patterns
+- Pipeline orchestration for multi-stage data processing
+- Error recovery and retry strategies for distributed workflows
+- Parallel execution with dependency resolution
+- Observability through structured logging and metrics
+
+## Related Concepts
+
 - [[claude-code]]
 - [[langflow-claude-code-integration]]
 - [[rohit4verse-claude-code-architecture-2026-04]]

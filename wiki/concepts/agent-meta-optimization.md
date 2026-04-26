@@ -1,19 +1,26 @@
 ---
-title: Agent Meta-Optimization
-type: concept
-tags: [ai-agents, autonomous-optimization, meta-agents, benchmarking]
+agents:
+- hermes
+- claude
+- codex
+confidence: high
+created: '2026-04-07'
+priority: critical
 sources:
 - autoagent-kevinrgu-2026-04
 - autogenesis-self-evolving-agent-protocol-2026-04
-created: '2026-04-07'
-updated: '2026-04-10'
 status: current
-confidence: high
-agents: [hermes, claude, codex]
-priority: critical
 summary: Autonomous meta-agent systems that iteratively optimize AI agent configurations
- by modifying prompts, tools, and orchestration, then hill-climbing on benchmark
- scores.
+  by modifying prompts, tools, and orchestration, then hill-climbing on benchmark
+  scores.
+tags:
+- ai-agents
+- autonomous-optimization
+- meta-agents
+- benchmarking
+title: Agent Meta-Optimization
+type: concept
+updated: '2026-04-26'
 ---
 
 

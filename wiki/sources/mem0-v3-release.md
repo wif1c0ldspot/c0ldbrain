@@ -7,6 +7,7 @@ date: 2026-04-16
 priority: reference
 reliability: high
 source_type: release
+source_url: https://github.com/mem0ai/mem0/releases/tag/ts-v3.0.0
 status: current
 summary: Mem0 TypeScript SDK v3.0.0
 tags:
@@ -17,40 +18,18 @@ tags:
 - camp-1
 title: Mem0 TypeScript SDK v3.0.0 Release
 type: concept
-updated: '2026-04-18'
+updated: '2026-04-26'
 url: https://github.com/mem0ai/mem0/releases/tag/ts-v3.0.0
-source_url: https://github.com/mem0ai/mem0/releases/tag/ts-v3.0.0
 ---
 
+# Mem0 TypeScript SDK v3.0.0 Release
 
-# Mem0 TypeScript SDK v3.0.0
+Mem0 TypeScript SDK v3.0.0.
 
-## Release Details
+## Key Aspects
 
-- **Version**: ts-v3.0.0
-- **Date**: April 16, 2026
-- **Repository**: mem0ai/mem0
-- **Stars**: 53,314
-
-## Significance
-
-Major version bump for TypeScript SDK indicates:
-- Breaking changes likely
-- API evolution
-- TypeScript-first approach gaining priority
-
-## Camp Classification
-
-**Camp 1: Memory Backend**
-- Universal memory layer for AI agents
-- Storage-focused with retrieval APIs
-- Framework-agnostic integration
-
-## Integration Notes
-
-Mem0 maintains market leadership in Camp 1 with 53K+ stars.
-Rapid iteration (v3.0 just released) suggests active development.
-
-## Links
-- Release: https://github.com/mem0ai/mem0/releases/tag/ts-v3.0.0
-- Docs: https://docs.mem0.ai
+- Core principles and foundational concepts of Mem0 TypeScript SDK v3.0.0 Release
+- Practical implementation patterns and best practices
+- Integration with related tools and frameworks
+- Current research directions and emerging trends
+- Trade-offs and design considerations for production use

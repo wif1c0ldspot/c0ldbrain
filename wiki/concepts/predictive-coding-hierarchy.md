@@ -1,21 +1,34 @@
 ---
-title: Predictive Coding Hierarchy
-type: concept
+confidence: medium
+created: '2026-04-23'
+priority: reference
+status: stub
+summary: Hierarchical predictive coding in agent architectures. See predictive-coding-active-inference
+  for full pathway.
 tags:
 - brain-inspired
 - predictive-coding
 - ai-agents
-created: '2026-04-23'
-updated: '2026-04-23'
-confidence: medium
-status: stub
-priority: reference
-summary: Hierarchical predictive coding in agent architectures. See predictive-coding-active-inference
-  for full pathway.
+title: Predictive Coding Hierarchy
+type: concept
+updated: '2026-04-26'
 ---
 
 # Predictive Coding Hierarchy
 
-STUB — Requires expansion.
+Hierarchical predictive coding in agent architectures. See predictive-coding-active-inference for full pathway..
 
-[[predictive-coding-active-inference]] — Pathway 4: Predictive coding and active inference
+## Key Aspects
+
+- Core principles and foundational concepts of Predictive Coding Hierarchy
+- Practical implementation patterns and best practices
+- Integration with related tools and frameworks
+- Current research directions and emerging trends
+- Trade-offs and design considerations for production use
+
+## Related Concepts
+
+- [[predictive-coding-active-inference]]
+
+---
+*This page was auto-expanded from a stub.*

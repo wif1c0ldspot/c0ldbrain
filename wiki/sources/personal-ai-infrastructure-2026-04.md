@@ -1,24 +1,24 @@
 ---
-title: Personal AI Infrastructure - Agentic AI Human Amplification
-type: source
+agents:
+- hermes
+compiled: true
+confidence: high
+created: '2026-04-10'
+priority: important
+source_url: https://github.com/danielmiessler/Personal_AI_Infrastructure
+sources: []
+status: current
+summary: Daniel Miessler's Personal AI Infrastructure — agentic AI system for amplifying
+  human capabilities, 11.2k GitHub stars.
 tags:
 - agentic-ai
 - personal-ai
 - ai-infrastructure
 - source
 - github
-source_url: https://github.com/danielmiessler/Personal_AI_Infrastructure
-sources: []
-created: '2026-04-10'
-updated: '2026-04-10'
-confidence: high
-status: current
-agents:
-- hermes
-priority: important
-summary: Daniel Miessler's Personal AI Infrastructure — agentic AI system for amplifying
-  human capabilities, 11.2k GitHub stars.
-compiled: true
+title: Personal AI Infrastructure - Agentic AI Human Amplification
+type: source
+updated: '2026-04-26'
 ---
 
 # Personal AI Infrastructure

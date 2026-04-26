@@ -1,7 +1,9 @@
 ---
+compiled: true
 confidence: high
 created: '2026-04-16'
 priority: important
+source_url: https://github.com/santifer/career-ops
 sources:
 - career-ops-2026-04
 status: current
@@ -14,9 +16,7 @@ tags:
 - career
 title: Career-Ops - AI Job Search Pipeline
 type: source
-updated: '2026-04-07'
-compiled: true
-source_url: https://github.com/santifer/career-ops
+updated: '2026-04-26'
 ---
 
 

@@ -1,29 +1,35 @@
 ---
-title: Codebase Analysis
-type: concept
+confidence: medium
+created: '2026-04-23'
+priority: reference
+status: stub
+summary: AI-powered codebase analysis. See code-review-graph for structural code understanding.
 tags:
 - ai-coding-agents
 - code-analysis
 - developer-tools
-created: '2026-04-23'
-updated: '2026-04-25'
-confidence: medium
-status: stub
-priority: reference
-summary: AI-powered codebase analysis. See code-review-graph for structural code understanding.
+title: Codebase Analysis
+type: concept
+updated: '2026-04-26'
 ---
 
-*Concept in the ai-coding-agents domain — needs expansion.*
+# Codebase Analysis
+
+AI-powered codebase analysis. See code-review-graph for structural code understanding..
+
+## Key Aspects
+
+- Automated code analysis with static and dynamic checks
+- AI-assisted code review with security vulnerability detection
+- Multi-file refactoring with context-aware suggestions
+- Test generation and coverage gap identification
+- Integration with CI/CD pipelines for continuous quality
+
+## Related Concepts
 
 - [[codebase-analysis]]
 - [[developer-tools]]
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
-
-## Related
 - [[code-review-graph]]
-[[developer-tools]] · [[knowledge-graphs]]
-
-## Sources
-[[knowledge-graph-codebase-engine-2026-04]]
+- [[developer-tools]]
+- [[knowledge-graphs]]
+- [[knowledge-graph-codebase-engine-2026-04]]

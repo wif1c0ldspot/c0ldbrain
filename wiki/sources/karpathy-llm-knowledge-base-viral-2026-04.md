@@ -1,21 +1,21 @@
 ---
-title: Karpathy's LLM Obsidian Knowledge Base Went Viral
-type: source
-source_url: https://x.com//status/2040800539546661226
 author: '@karpathy'
-created: '2026-04-05'
+compiled: true
 confidence: high
+created: '2026-04-05'
+priority: reference
+source_url: https://x.com//status/2040800539546661226
 status: current
+summary: Viral thread analyzing Karpathy's LLM Obsidian knowledge base - 7 key insights
+  about the pattern
 tags:
 - source
 - knowledge-management
 - llm-wiki
 - karpathy
-summary: Viral thread analyzing Karpathy's LLM Obsidian knowledge base - 7 key insights
-  about the pattern
-priority: reference
-updated: '2026-04-05'
-compiled: true
+title: Karpathy's LLM Obsidian Knowledge Base Went Viral
+type: source
+updated: '2026-04-26'
 ---
 
 ## Summary

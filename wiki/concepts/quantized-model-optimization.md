@@ -1,23 +1,27 @@
 ---
-title: Quantized Model Optimization
-type: concept
+confidence: medium
+created: '2026-04-23'
+priority: reference
+status: stub
+summary: Optimization techniques for quantized models. See quantization-techniques
+  and emergence-in-quantized-models.
 tags:
 - ml-models
 - quantization
 - local-models
-created: '2026-04-23'
+title: Quantized Model Optimization
+type: concept
 updated: '2026-04-26'
-confidence: medium
-status: stub
-priority: reference
-summary: Optimization techniques for quantized models. See quantization-techniques
-  and emergence-in-quantized-models.
 ---
 
-*Concept in the ml-models domain — needs expansion.*
+# Quantized Model Optimization
 
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
+Optimization techniques for quantized models. See quantization-techniques and emergence-in-quantized-models..
+
+## Key Aspects
+
+- Statistical analysis of price patterns and market microstructure
+- Risk management through position sizing and portfolio construction
+- Signal generation combining multiple indicators and timeframes
+- Backtesting methodology with out-of-sample validation
+- Live execution with slippage and latency considerations

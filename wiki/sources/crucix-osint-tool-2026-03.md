@@ -1,20 +1,20 @@
 ---
-title: 'Crucix: Open Source Intelligence Tool'
-type: source
-source_url: https://x.com//status/2034034576893612113
 author: '@osint_community'
-created: '2026-03-17'
+compiled: true
 confidence: low
+created: '2026-03-17'
+priority: reference
+source_url: https://x.com//status/2034034576893612113
 status: current
+summary: Open source intelligence tool - previously cost millions, now free
 tags:
 - source
 - osint
 - intelligence
 - tools
-summary: Open source intelligence tool - previously cost millions, now free
-priority: reference
-updated: '2026-03-17'
-compiled: true
+title: 'Crucix: Open Source Intelligence Tool'
+type: source
+updated: '2026-04-26'
 ---
 
 ## Summary

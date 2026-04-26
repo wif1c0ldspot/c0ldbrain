@@ -1,14 +1,21 @@
 ---
-title: "Prompt Injection Defense Guide"
-type: concept
-tags: [security, prompt-injection, defense-mechanisms, compliance]
-sources: [llm-guard-sanitization-framework-source, agentsecops-guardian-self-healing-source]
-created: "2026-04-10"
-updated: '2026-04-10'
 confidence: high
-status: current
+created: '2026-04-10'
 priority: critical
-summary: "Defense-in-depth architecture: 5 layers — input validation, prompt engineering, output filtering, architectural controls, monitoring."
+sources:
+- llm-guard-sanitization-framework-source
+- agentsecops-guardian-self-healing-source
+status: current
+summary: 'Defense-in-depth architecture: 5 layers — input validation, prompt engineering,
+  output filtering, architectural controls, monitoring.'
+tags:
+- security
+- prompt-injection
+- defense-mechanisms
+- compliance
+title: Prompt Injection Defense Guide
+type: concept
+updated: '2026-04-26'
 ---
 
 # Prompt Injection Defense Guide

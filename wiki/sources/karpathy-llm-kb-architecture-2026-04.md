@@ -1,20 +1,20 @@
 ---
-title: Full Architecture of LLM Knowledge Base System
-type: source
-source_url: https://x.com//status/2039811786602607052
 author: '@karpathy'
-created: '2026-04-02'
+compiled: true
 confidence: high
+created: '2026-04-02'
+priority: reference
+source_url: https://x.com//status/2039811786602607052
 status: current
+summary: Complete architecture breakdown covering every stage from ingest to retrieval
 tags:
 - source
 - knowledge-management
 - architecture
 - llm-wiki
-summary: Complete architecture breakdown covering every stage from ingest to retrieval
-priority: reference
-updated: '2026-04-02'
-compiled: true
+title: Full Architecture of LLM Knowledge Base System
+type: source
+updated: '2026-04-26'
 ---
 
 ## Summary

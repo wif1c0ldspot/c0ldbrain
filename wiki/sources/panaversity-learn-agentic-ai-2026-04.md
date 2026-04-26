@@ -1,6 +1,15 @@
 ---
-title: Learn Agentic AI - Panaversity
-type: source
+agents:
+- hermes
+compiled: true
+confidence: high
+created: '2026-04-10'
+priority: important
+source_url: https://github.com/panaversity/learn-agentic-ai
+sources: []
+status: current
+summary: Learn Agentic AI curriculum covering OpenAI Agents SDK, MCP, A2A, knowledge
+  graphs, Dapr, and Kubernetes, 4.1k stars.
 tags:
 - agentic-ai
 - education
@@ -8,18 +17,9 @@ tags:
 - mcp-protocol
 - source
 - github
-source_url: https://github.com/panaversity/learn-agentic-ai
-sources: []
-created: '2026-04-10'
-updated: '2026-04-10'
-confidence: high
-status: current
-agents:
-- hermes
-priority: important
-summary: Learn Agentic AI curriculum covering OpenAI Agents SDK, MCP, A2A, knowledge
-  graphs, Dapr, and Kubernetes, 4.1k stars.
-compiled: true
+title: Learn Agentic AI - Panaversity
+type: source
+updated: '2026-04-26'
 ---
 
 # Learn Agentic AI - Panaversity

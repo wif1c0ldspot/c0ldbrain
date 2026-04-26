@@ -1,29 +1,35 @@
 ---
-title: Homeassistant Agent Setup
-type: concept
+confidence: medium
+created: '2026-04-23'
+priority: reference
+status: stub
+summary: Setting up AI agents with Home Assistant. See personal-ai-infrastructure
+  for broader setup.
 tags:
 - smart-home
 - ai-agents
 - home-assistant
-created: '2026-04-23'
-updated: '2026-04-25'
-confidence: medium
-status: stub
-priority: reference
-summary: Setting up AI agents with Home Assistant. See personal-ai-infrastructure
-  for broader setup.
+title: Homeassistant Agent Setup
+type: concept
+updated: '2026-04-26'
 ---
 
-*Concept in the smart-home domain — needs expansion.*
+# Homeassistant Agent Setup
 
-- Compare with [[homeassistant-agent-setup]] for personal automation
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
+Setting up AI agents with Home Assistant. See personal-ai-infrastructure for broader setup..
 
-## Related
-[[personal-automation]] · [[agentic-ai]] · [[ai-security]]
+## Key Aspects
 
-## Sources
-[[personal-ai-infrastructure-2026-04]]
+- Autonomous decision-making with tool use and planning capabilities
+- Memory systems for maintaining context across interactions
+- Multi-step reasoning and task decomposition strategies
+- Integration with external APIs and data sources
+- Safety guardrails and human-in-the-loop patterns
+
+## Related Concepts
+
+- [[homeassistant-agent-setup]]
+- [[personal-automation]]
+- [[agentic-ai]]
+- [[ai-security]]
+- [[personal-ai-infrastructure-2026-04]]

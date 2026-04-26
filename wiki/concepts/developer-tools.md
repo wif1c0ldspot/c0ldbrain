@@ -1,31 +1,38 @@
 ---
-title: Developer Tools
-type: concept
+confidence: medium
+created: '2026-04-23'
+priority: reference
+status: stub
+summary: AI-powered developer tools and IDE integrations. See ai-coding-agents for
+  ecosystem overview.
 tags:
 - developer-tools
 - ai-coding-agents
 - infrastructure
-created: '2026-04-23'
-updated: '2026-04-25'
-confidence: medium
-status: stub
-priority: reference
-summary: AI-powered developer tools and IDE integrations. See ai-coding-agents for
-  ecosystem overview.
+title: Developer Tools
+type: concept
+updated: '2026-04-26'
 ---
 
-*Concept in the developer-tools domain — needs expansion.*
+# Developer Tools
 
-- [[ai-coding-agents]] — tools for making CLIs agent-accessible
-- [[open-source-ai-infra]] — major open-source infrastructure project
-- [[developer-tools]] — CLI wrappers for developer toolchains
+AI-powered developer tools and IDE integrations. See ai-coding-agents for ecosystem overview..
+
+## Key Aspects
+
+- Core principles and foundational concepts of Developer Tools
+- Practical implementation patterns and best practices
+- Integration with related tools and frameworks
+- Current research directions and emerging trends
+- Trade-offs and design considerations for production use
+
+## Related Concepts
+
+- [[ai-coding-agents]]
+- [[open-source-ai-infra]]
 - [[developer-tools]]
-- *Key aspect to be expanded*
-
-## Related
+- [[developer-tools]]
 - [[infrastructure-handbook-2026]]
 - [[knowledge-graph-codebase-engine-2026-04]]
-[[ai-coding-agents]] · [[open-source-ai-infra]] · [[knowledge-graphs]] · [[codebase-analysis]]
-
-## Sources
-[[cli-anything-hkuds-2026-04]], [[knowledge-graph-codebase-engine-2026...
+- [[ai-coding-agents]]
+- [[open-source-ai-infra]]

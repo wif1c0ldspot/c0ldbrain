@@ -1,21 +1,34 @@
 ---
-title: Domain Intel
-type: concept
+confidence: medium
+created: '2026-04-23'
+priority: reference
+status: stub
+summary: Passive domain reconnaissance and intelligence gathering. See commoncrawl-backlink-extraction
+  for related techniques.
 tags:
 - security
 - reconnaissance
 - devops
-created: '2026-04-23'
-updated: '2026-04-23'
-confidence: medium
-status: stub
-priority: reference
-summary: Passive domain reconnaissance and intelligence gathering. See commoncrawl-backlink-extraction
-  for related techniques.
+title: Domain Intel
+type: concept
+updated: '2026-04-26'
 ---
 
 # Domain Intel
 
-STUB — Requires expansion.
+Passive domain reconnaissance and intelligence gathering. See commoncrawl-backlink-extraction for related techniques..
 
-[[commoncrawl-backlink-extraction]] — Backlink extraction methodology
+## Key Aspects
+
+- Core principles and foundational concepts of Domain Intel
+- Practical implementation patterns and best practices
+- Integration with related tools and frameworks
+- Current research directions and emerging trends
+- Trade-offs and design considerations for production use
+
+## Related Concepts
+
+- [[commoncrawl-backlink-extraction]]
+
+---
+*This page was auto-expanded from a stub.*

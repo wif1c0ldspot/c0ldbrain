@@ -1,45 +1,37 @@
 ---
-title: LLM-Optimized Wiki
-type: concept
+confidence: medium
+created: 2026-04-18
+note: Auto-created stub — 2 broken link(s) point here
+priority: reference
+status: stub
+summary: Wiki architecture designed for efficient LLM consumption and reasoning
 tags:
 - knowledge-management
 - llm-optimization
-created: 2026-04-18
-updated: 2026-04-18
-confidence: medium
-status: stub
-priority: reference
-summary: Wiki architecture designed for efficient LLM consumption and reasoning
-note: Auto-created stub — 2 broken link(s) point here
+title: LLM-Optimized Wiki
+type: concept
+updated: '2026-04-26'
 ---
 
 # LLM-Optimized Wiki
 
-> **Stub page** — This concept needs expansion.
+Wiki architecture designed for efficient LLM consumption and reasoning.
 
-## Overview
-Wiki architecture designed for efficient LLM consumption and reasoning
+## Key Aspects
 
-## References
-- Referenced 2 time(s) in the wiki
+- Structured knowledge representation with frontmatter schemas
+- Automated compilation from raw sources to wiki pages
+- Link integrity and orphan detection for knowledge graphs
+- Domain-based routing and filing conventions
+- Synthesis generation from clustered source material
 
-## See Also
+## Related Concepts
+
 - [[agentic-ai]]
 - [[knowledge-management]]
-
-
-## Sources
 - [[llm-wiki-vs-notebooklm-artemxtech-2026-04]]
-
-## Related
 - [[browser-harness-browser-use]]
 - [[jarvis-obsidian-claude-code-cyrilxbt-2026-04]]
 - [[karpathy-llm-kb-architecture-2026-04]]
 - [[karpathy-llm-knowledge-base-viral-2026-04]]
 - [[knowledge-layer]]
-- [[polymarket-weather-hermes-agent-0xmovez-2026-04]]
-- [[shannholmberg-ai-knowledge-layer-2026-04]]
-- [[agentic-memory-research]]
-- [[ai-content-creation]]
-- [[personal-automation]]
-- [[brand-foundation]]

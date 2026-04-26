@@ -1,24 +1,35 @@
 ---
-title: Document Processing
-type: concept
+confidence: medium
+created: '2026-04-23'
+priority: reference
+status: stub
+summary: AI-powered document processing and analysis. See glm-ocr-open-source-2026-04
+  for OCR implementation.
 tags:
 - ai-agents
 - documents
 - ocr
-created: '2026-04-23'
-updated: '2026-04-23'
-confidence: medium
-status: stub
-priority: reference
-summary: AI-powered document processing and analysis. See glm-ocr-open-source-2026-04
-  for OCR implementation.
+title: Document Processing
+type: concept
+updated: '2026-04-26'
 ---
 
 # Document Processing
 
-STUB — Requires expansion.
+AI-powered document processing and analysis. See glm-ocr-open-source-2026-04 for OCR implementation..
 
-[[glm-ocr-open-source-2026-04]] — Open-source OCR with GLM
+## Key Aspects
 
-## Related
+- Layout-aware text extraction from scanned documents
+- OCR post-processing with language model correction
+- Table and figure detection for structured data extraction
+- Multi-format support (PDF, images, office documents)
+- Batch processing with queue management
+
+## Related Concepts
+
+- [[glm-ocr-open-source-2026-04]]
 - [[automation]]
+
+---
+*This page was auto-expanded from a stub.*

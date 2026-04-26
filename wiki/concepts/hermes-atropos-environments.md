@@ -1,28 +1,31 @@
 ---
-title: Hermes Atropos Environments
-type: concept
+confidence: medium
+created: 2026-04-18
+note: Auto-created stub — 1 broken link(s) point here
+priority: reference
+status: stub
+summary: RL environments for training Hermes agent in decision-making tasks
 tags:
 - reinforcement-learning
 - agentic-ai
-created: 2026-04-18
-updated: 2026-04-18
-confidence: medium
-status: stub
-priority: reference
-summary: RL environments for training Hermes agent in decision-making tasks
-note: Auto-created stub — 1 broken link(s) point here
+title: Hermes Atropos Environments
+type: concept
+updated: '2026-04-26'
 ---
 
 # Hermes Atropos Environments
 
-> **Stub page** — This concept needs expansion.
+RL environments for training Hermes agent in decision-making tasks.
 
-## Overview
-RL environments for training Hermes agent in decision-making tasks
+## Key Aspects
 
-## References
-- Referenced 1 time(s) in the wiki
+- Reusable procedural knowledge for recurring task patterns
+- Skill composition through dependency chaining
+- Auto-patching when edge cases and errors are discovered
+- Category-based organization for discovery and maintenance
+- Template and script attachments for complex workflows
 
-## See Also
+## Related Concepts
+
 - [[agentic-ai]]
 - [[knowledge-management]]

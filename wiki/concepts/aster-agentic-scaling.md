@@ -1,31 +1,32 @@
 ---
-title: Agentic Scaling
-type: concept
+confidence: medium
+created: 2026-04-18
+note: Auto-created stub — 1 broken link(s) point here
+priority: reference
+status: stub
+summary: Research on scaling laws for agentic AI systems and emergent capabilities
 tags:
 - agentic-ai
 - research
-created: 2026-04-18
-updated: 2026-04-18
-confidence: medium
-status: stub
-priority: reference
-summary: Research on scaling laws for agentic AI systems and emergent capabilities
-note: Auto-created stub — 1 broken link(s) point here
+title: Agentic Scaling
+type: concept
+updated: '2026-04-26'
 ---
 
 # Agentic Scaling
 
-> **Stub page** — This concept needs expansion.
+Research on scaling laws for agentic AI systems and emergent capabilities.
 
-## Overview
-Research on scaling laws for agentic AI systems and emergent capabilities
+## Key Aspects
 
-## References
-- Referenced 1 time(s) in the wiki
+- Autonomous decision-making with tool use and planning capabilities
+- Memory systems for maintaining context across interactions
+- Multi-step reasoning and task decomposition strategies
+- Integration with external APIs and data sources
+- Safety guardrails and human-in-the-loop patterns
 
-## See Also
+## Related Concepts
+
 - [[agentic-ai]]
 - [[knowledge-management]]
-
-## Related
 - [[teaching-small-models-agentic-behavior]]

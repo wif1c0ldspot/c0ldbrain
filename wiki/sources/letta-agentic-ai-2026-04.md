@@ -1,23 +1,23 @@
 ---
-title: Letta - Stateful AI Agents with Memory
-type: source
+agents:
+- hermes
+compiled: true
+confidence: high
+created: '2026-04-10'
+priority: important
+source_url: https://github.com/letta-ai/letta
+sources: []
+status: current
+summary: Letta — platform for building stateful AI agents with advanced memory, self-improvement
+  over time, 21.9k GitHub stars.
 tags:
 - agentic-ai
 - memory-systems
 - source
 - github
-source_url: https://github.com/letta-ai/letta
-sources: []
-created: '2026-04-10'
-updated: '2026-04-10'
-confidence: high
-status: current
-agents:
-- hermes
-priority: important
-summary: Letta — platform for building stateful AI agents with advanced memory, self-improvement
-  over time, 21.9k GitHub stars.
-compiled: true
+title: Letta - Stateful AI Agents with Memory
+type: source
+updated: '2026-04-26'
 ---
 
 # Letta

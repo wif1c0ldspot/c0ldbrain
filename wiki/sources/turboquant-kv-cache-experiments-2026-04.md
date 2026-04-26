@@ -1,20 +1,20 @@
 ---
-title: TurboQuant KV Cache Experiments
-type: source
-source_url: https://x.com//status/2039047105830900008
 author: '@research'
-created: '2026-03-31'
+compiled: true
 confidence: medium
+created: '2026-03-31'
+priority: reference
+source_url: https://x.com//status/2039047105830900008
 status: current
+summary: Experiments using TurboQuant to compress KV cache beyond standard approaches
 tags:
 - source
 - kv-cache
 - quantization
 - research
-summary: Experiments using TurboQuant to compress KV cache beyond standard approaches
-priority: reference
-updated: '2026-03-31'
-compiled: true
+title: TurboQuant KV Cache Experiments
+type: source
+updated: '2026-04-26'
 ---
 
 ## Summary

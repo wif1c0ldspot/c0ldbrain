@@ -1,25 +1,35 @@
 ---
-title: "Prompt Engineering"
-type: concept
-tags: [prompt-engineering, ai-agents, llm]
-created: '2026-04-23'
-updated: '2026-04-23'
 confidence: high
-status: current
+created: '2026-04-23'
 priority: important
-summary: "Techniques for designing effective prompts for LLMs and agent systems."
+status: current
+summary: Techniques for designing effective prompts for LLMs and agent systems.
+tags:
+- prompt-engineering
+- ai-agents
+- llm
+title: Prompt Engineering
+type: concept
+updated: '2026-04-26'
 ---
 
 # Prompt Engineering
 
-Techniques for designing, optimizing, and structuring prompts for LLM-based systems and agents.
+Techniques for designing effective prompts for LLMs and agent systems..
+
+## Key Aspects
+
+- Input validation and sanitization for LLM interactions
+- Prompt injection attack vectors and defense mechanisms
+- Model-level safety training and alignment techniques
+- Red-teaming methodologies for vulnerability assessment
+- Monitoring and logging for threat detection
 
 ## Related Concepts
 
-- [[claude-code-patterns]] — Claude Code-specific prompting patterns
-- [[token-optimization]] — Token-efficient prompt design
-- [[context-engineering-synthesis]] — Context stack and prompt context management
-- [[prompt-injection-comprehensive-2026]] — Security considerations for prompts
-
+- [[claude-code-patterns]]
+- [[token-optimization]]
+- [[context-engineering-synthesis]]
+- [[prompt-injection-comprehensive-2026]]
 - [[autogenesis-self-evolving-agent-protocol-2026-04]]
 - [[claude-caveman-prompting-strategy-2026-04]]

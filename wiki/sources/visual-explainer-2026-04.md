@@ -1,7 +1,9 @@
 ---
+compiled: true
 confidence: high
 created: '2026-04-16'
 priority: important
+source_url: https://github.com/nicobailon/visual-explainer
 sources:
 - visual-explainer-2026-04
 status: current
@@ -14,9 +16,7 @@ tags:
 - developer-tools
 title: visual-explainer - Claude Code Visualization Skill
 type: source
-updated: '2026-04-07'
-compiled: true
-source_url: https://github.com/nicobailon/visual-explainer
+updated: '2026-04-26'
 ---
 
 

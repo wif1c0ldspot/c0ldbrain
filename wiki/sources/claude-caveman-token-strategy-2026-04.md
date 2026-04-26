@@ -1,21 +1,21 @@
 ---
-title: AI Job Search System for Claude Code
-type: source
-source_url: https://x.com//status/2040820834428658008
 author: '@builder'
-created: '2026-04-05'
+compiled: true
 confidence: medium
+created: '2026-04-05'
+priority: reference
+source_url: https://x.com//status/2040820834428658008
 status: current
+summary: AI job search system for Claude Code that scored 700+ job applications and
+  got results
 tags:
 - source
 - automation
 - claude-code
 - workflows
-summary: AI job search system for Claude Code that scored 700+ job applications and
-  got results
-priority: reference
-updated: '2026-04-05'
-compiled: true
+title: AI Job Search System for Claude Code
+type: source
+updated: '2026-04-26'
 ---
 
 ## Summary

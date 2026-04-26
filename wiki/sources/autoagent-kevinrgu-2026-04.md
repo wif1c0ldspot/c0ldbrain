@@ -1,22 +1,22 @@
 ---
-title: AutoAgent - Autonomous Agent Harness Engineering
-type: source
+compiled: true
+confidence: high
+created: '2026-04-07'
+priority: important
+source_url: https://github.com/kevinrgu/autoagent
+sources:
+- github-autoagent
+status: compiled
+summary: AutoAgent is an autonomous meta-agent system that iteratively optimizes AI
+  agent harnesses overnight by modifying prompts, tools, and configuration, then hill-climbing
+  on benchmark scores via the Harbor framework.
 tags:
 - ai-agents
 - autonomous-optimization
 - meta-agents
-sources:
-- github-autoagent
-created: '2026-04-07'
-updated: '2026-04-07'
-status: compiled
-confidence: high
-priority: important
-summary: AutoAgent is an autonomous meta-agent system that iteratively optimizes AI
-  agent harnesses overnight by modifying prompts, tools, and configuration, then hill-climbing
-  on benchmark scores via the Harbor framework.
-compiled: true
-source_url: https://github.com/kevinrgu/autoagent
+title: AutoAgent - Autonomous Agent Harness Engineering
+type: source
+updated: '2026-04-26'
 ---
 
 # AutoAgent - Autonomous Agent Harness Engineering

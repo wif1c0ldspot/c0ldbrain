@@ -14,7 +14,7 @@ tags:
 - timeline
 title: Prompt Injection Real-World Incidents (2025-2026)
 type: concept
-updated: '2026-04-10'
+updated: '2026-04-26'
 ---
 
 

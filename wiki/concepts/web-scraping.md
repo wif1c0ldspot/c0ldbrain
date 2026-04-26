@@ -1,28 +1,34 @@
 ---
-title: Web Scraping
-type: concept
+confidence: medium
+created: '2026-04-23'
+priority: reference
+status: stub
+summary: Web scraping with AI agents. See browser-automation for related approaches.
 tags:
 - ai-agents
 - scraping
 - data-extraction
-created: '2026-04-23'
-updated: '2026-04-25'
-confidence: medium
-status: stub
-priority: reference
-summary: Web scraping with AI agents. See browser-automation for related approaches.
+title: Web Scraping
+type: concept
+updated: '2026-04-26'
 ---
 
-*Concept in the ai-agents domain — needs expansion.*
+# Web Scraping
 
-- Web scraping without selectors
+Web scraping with AI agents. See browser-automation for related approaches..
+
+## Key Aspects
+
+- Standardized protocol for tool communication and discovery
+- Server-sent events and streaming for real-time updates
+- Authentication and authorization for multi-tenant access
+- Schema validation and type-safe message passing
+- Composability through chaining and parallel execution
+
+## Related Concepts
+
 - [[web-scraping]]
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
-
-## Related
-[[agentic-ai]] · [[gui-agents]] · [[browser-automation]]
-
-## Sources
-[[alibaba-gui-agent-web-control-2026-03]]
+- [[agentic-ai]]
+- [[gui-agents]]
+- [[browser-automation]]
+- [[alibaba-gui-agent-web-control-2026-03]]

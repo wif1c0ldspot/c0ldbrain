@@ -1,24 +1,24 @@
 ---
-title: Complete Agentic AI Engineering Course
-type: source
+agents:
+- hermes
+compiled: true
+confidence: high
+created: '2026-04-10'
+priority: important
+source_url: https://github.com/ed-donner/agents
+sources: []
+status: current
+summary: Repository for Complete Agentic AI Engineering Course by Ed Donner, teaching
+  agent building patterns, 4.6k GitHub stars.
 tags:
 - agentic-ai
 - education
 - ai-engineering
 - source
 - github
-source_url: https://github.com/ed-donner/agents
-sources: []
-created: '2026-04-10'
-updated: '2026-04-10'
-confidence: high
-status: current
-agents:
-- hermes
-priority: important
-summary: Repository for Complete Agentic AI Engineering Course by Ed Donner, teaching
-  agent building patterns, 4.6k GitHub stars.
-compiled: true
+title: Complete Agentic AI Engineering Course
+type: source
+updated: '2026-04-26'
 ---
 
 # Complete Agentic AI Engineering Course

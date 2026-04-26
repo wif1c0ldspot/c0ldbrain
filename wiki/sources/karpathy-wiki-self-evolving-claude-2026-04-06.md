@@ -2,6 +2,7 @@
 confidence: medium
 created: '2026-04-16'
 priority: reference
+source_url: https://x.com/intheworldofai/status/2041055883770081450
 sources:
 - raw/social/karpathy-wiki-self-evolving-claude-2026-04-06.md
 status: current
@@ -15,8 +16,7 @@ tags:
 - karpathy
 title: WorldofAI - Karpathy LLM Wiki Self-Evolving Claude Code System
 type: concept
-updated: '2026-04-06'
-source_url: https://x.com/intheworldofai/status/2041055883770081450
+updated: '2026-04-26'
 ---
 
 

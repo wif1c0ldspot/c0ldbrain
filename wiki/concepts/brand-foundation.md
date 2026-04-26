@@ -1,31 +1,38 @@
 ---
-title: Brand Foundation
-type: concept
+confidence: medium
+created: '2026-04-23'
+priority: reference
+status: stub
+summary: Static brand knowledge layer for AI content systems. See knowledge-layer
+  for two-layer architecture.
 tags:
 - knowledge-management
 - branding
 - strategy
-created: '2026-04-23'
-updated: '2026-04-25'
-confidence: medium
-status: stub
-priority: reference
-summary: Static brand knowledge layer for AI content systems. See knowledge-layer
-  for two-layer architecture.
+title: Brand Foundation
+type: concept
+updated: '2026-04-26'
 ---
 
-|  KNOWLEDGE BASE  |   | BRAND FOUNDATION  |
+# Brand Foundation
 
-- [[personal-knowledge-management]] — PKM systems
-- [[brand-foundation]] — Static layer concept
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
-- *Key aspect to be expanded*
+Static brand knowledge layer for AI content systems. See knowledge-layer for two-layer architecture..
 
-## Related
+## Key Aspects
+
+- Core principles and foundational concepts of Brand Foundation
+- Practical implementation patterns and best practices
+- Integration with related tools and frameworks
+- Current research directions and emerging trends
+- Trade-offs and design considerations for production use
+
+## Related Concepts
+
+- [[personal-knowledge-management]]
+- [[brand-foundation]]
 - [[knowledge-layer]]
 - [[shannholmberg-ai-knowledge-layer-2026-04]]
-[[c0ldbrain-wiki]] · [[llm-optimized-wiki]] · [[ai-content-creation]] · [[karpathy-llm-knowledge-bases]] · [[langflow-claude-code-integration]] · [[context-engineering]] · [[knowledge-base-layer]] · [[personal-knowledge-management]]
-
-## Sources
-[[shannh...
+- [[c0ldbrain-wiki]]
+- [[llm-optimized-wiki]]
+- [[ai-content-creation]]
+- [[karpathy-llm-knowledge-bases]]

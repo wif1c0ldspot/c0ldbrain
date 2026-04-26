@@ -1,33 +1,34 @@
 ---
-title: Resolver Pattern
-type: concept
+confidence: medium
+created: 2026-04-18
+note: Auto-created stub — 1 broken link(s) point here
+priority: reference
+status: stub
+summary: Garry Tan's pattern for hierarchical knowledge organization and resolution
 tags:
 - knowledge-management
 - architecture
-created: 2026-04-18
-updated: 2026-04-18
-confidence: medium
-status: stub
-priority: reference
-summary: Garry Tan's pattern for hierarchical knowledge organization and resolution
-note: Auto-created stub — 1 broken link(s) point here
+title: Resolver Pattern
+type: concept
+updated: '2026-04-26'
 ---
 
 # Resolver Pattern
 
-> **Stub page** — This concept needs expansion.
+Garry Tan's pattern for hierarchical knowledge organization and resolution.
 
-## Overview
-Garry Tan's pattern for hierarchical knowledge organization and resolution
+## Key Aspects
 
-## References
-- Referenced 1 time(s) in the wiki
+- Structured knowledge representation with frontmatter schemas
+- Automated compilation from raw sources to wiki pages
+- Link integrity and orphan detection for knowledge graphs
+- Domain-based routing and filing conventions
+- Synthesis generation from clustered source material
 
-## See Also
+## Related Concepts
+
 - [[agentic-ai]]
 - [[knowledge-management]]
-
-## Related
 - [[confusion-protocol]]
 - [[karpathy-llm-kb-architecture-2026-04]]
 - [[llm-knowledge-base-pattern]]

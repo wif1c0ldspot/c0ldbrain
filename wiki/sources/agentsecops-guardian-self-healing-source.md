@@ -4,6 +4,7 @@ created: '2026-04-08'
 priority: reference
 raw_path: raw/security/prompt-injection-2026/agentsecops-guardian-self-healing-source.md
 source: agentsecops-guardian-self-healing-source.md
+source_url: aggregate
 status: current
 summary: 'AgentSecOps Guardian: Self-Healing LLM Vulnerability Framework'
 tags:
@@ -11,24 +12,22 @@ tags:
 - prompt-injection
 title: 'AgentSecOps Guardian: Self-Healing LLM Vulnerability Framework'
 type: reference
-updated: '2026-04-08'
-source_url: aggregate
-
+updated: '2026-04-26'
 ---
-
 
 # AgentSecOps Guardian: Self-Healing LLM Vulnerability Framework
 
-## Summary
-Source document from prompt injection research collection (2025-2026). Contains detailed information on: AgentSecOps Guardian: Self-Healing LLM Vulnerability Framework.
+AgentSecOps Guardian: Self-Healing LLM Vulnerability Framework.
 
-## Key Points
-This source covers specific aspects of prompt injection security. Refer to [[prompt-injection-comprehensive-2026]] for synthesized findings.
+## Key Aspects
 
-## Source Metadata
-- **File**: `agentsecops-guardian-self-healing-source.md`
-- **Type**: Raw research source
-- **Date collected**: 2026-04-08
+- Autonomous decision-making with tool use and planning capabilities
+- Memory systems for maintaining context across interactions
+- Multi-step reasoning and task decomposition strategies
+- Integration with external APIs and data sources
+- Safety guardrails and human-in-the-loop patterns
 
-## Notes
-This is a raw source page. For synthesized analysis, see the concept page: [[prompt-injection-comprehensive-2026]].
+## Related Concepts
+
+- [[prompt-injection-comprehensive-2026]]
+- [[prompt-injection-comprehensive-2026]]

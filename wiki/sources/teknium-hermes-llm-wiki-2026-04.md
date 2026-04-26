@@ -1,7 +1,9 @@
 ---
+compiled: true
 confidence: high
 created: '2026-04-16'
 priority: reference
+source_url: https://x.com/teknium/status/2041370915012071577
 sources:
 - teknium-hermes-llm-wiki-2026-04
 status: current
@@ -13,9 +15,7 @@ tags:
 - knowledge-management
 title: Teknium - Hermes LLM-Wiki Integration Announcement
 type: source
-updated: '2026-04-07'
-compiled: true
-source_url: https://x.com/teknium/status/2041370915012071577
+updated: '2026-04-26'
 ---
 
 

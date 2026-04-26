@@ -1,21 +1,21 @@
 ---
-title: 'MLX + TurboQuant: Local AI Power'
-type: source
-source_url: https://x.com//status/2039326869510578506
 author: '@mlx_community'
-created: '2026-04-01'
+compiled: true
 confidence: medium
+created: '2026-04-01'
+priority: reference
+source_url: https://x.com//status/2039326869510578506
 status: current
+summary: Combining MLX framework with TurboQuant for powerful local AI on Apple Silicon
 tags:
 - source
 - mlx
 - quantization
 - local-ai
 - apple-silicon
-summary: Combining MLX framework with TurboQuant for powerful local AI on Apple Silicon
-priority: reference
-updated: '2026-04-01'
-compiled: true
+title: 'MLX + TurboQuant: Local AI Power'
+type: source
+updated: '2026-04-26'
 ---
 
 ## Summary

@@ -1,20 +1,20 @@
 ---
-title: Claude Code Opus Planning Feature
-type: source
-source_url: https://x.com//status/2033647622909489475
 author: '@claude_user'
-created: '2026-03-16'
+compiled: true
 confidence: medium
+created: '2026-03-16'
+priority: reference
+source_url: https://x.com//status/2033647622909489475
 status: current
+summary: /model opus command for advanced planning in Claude Code
 tags:
 - source
 - claude-code
 - planning
 - opus
-summary: /model opus command for advanced planning in Claude Code
-priority: reference
-updated: '2026-03-16'
-compiled: true
+title: Claude Code Opus Planning Feature
+type: source
+updated: '2026-04-26'
 ---
 
 ## Summary

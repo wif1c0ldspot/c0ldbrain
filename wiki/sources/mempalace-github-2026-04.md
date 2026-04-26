@@ -1,24 +1,24 @@
 ---
-title: MemPalace GitHub Repository
-type: source
+agents:
+- hermes
+compiled: true
+confidence: high
+created: '2026-04-07'
+priority: important
+source_url: https://github.com/milla-jovovich/mempalace
+sources:
+- raw/github/mempalace.md
+status: current
+summary: MemPalace GitHub repo — hierarchical AI memory system with MCP integration,
+  96.6% LongMemEval score, lossless storage.
 tags:
 - memory-systems
 - mcp-protocol
 - source
 - github
-source_url: https://github.com/milla-jovovich/mempalace
-sources:
-- raw/github/mempalace.md
-created: '2026-04-07'
-updated: '2026-04-07'
-confidence: high
-status: current
-agents:
-- hermes
-priority: important
-summary: MemPalace GitHub repo — hierarchical AI memory system with MCP integration,
-  96.6% LongMemEval score, lossless storage.
-compiled: true
+title: MemPalace GitHub Repository
+type: source
+updated: '2026-04-26'
 ---
 
 # MemPalace GitHub Repository

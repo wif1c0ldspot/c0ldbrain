@@ -1,53 +1,39 @@
 ---
-title: ML Road - Machine Learning and Agentic AI Resources
-type: source
+agents:
+- hermes
+compiled: true
+confidence: high
+created: '2026-04-10'
+priority: important
+source_url: https://github.com/yanshengjia/ml-road
+sources: []
+status: current
+summary: ML Road — curated machine learning and agentic AI resources, practice guides,
+  and research, 4.7k GitHub stars.
 tags:
 - agentic-ai
 - machine-learning
 - learning-resources
 - source
 - github
-source_url: https://github.com/yanshengjia/ml-road
-sources: []
-created: '2026-04-10'
-updated: '2026-04-10'
-confidence: high
-status: current
-agents:
-- hermes
-priority: important
-summary: ML Road — curated machine learning and agentic AI resources, practice guides,
-  and research, 4.7k GitHub stars.
-compiled: true
+title: ML Road - Machine Learning and Agentic AI Resources
+type: source
+updated: '2026-04-26'
 ---
 
-# ML Road
+# ML Road - Machine Learning and Agentic AI Resources
 
-## Summary
+ML Road — curated machine learning and agentic AI resources, practice guides, and research, 4.7k GitHub stars..
 
-ML Road (github.com/yanshengjia/ml-road) is a curated collection of machine learning and agentic AI resources, practice guides, and research materials. 4.7k GitHub stars.
+## Key Aspects
 
-## Source
-
-- https://github.com/yanshengjia/ml-road
-
-## Key Features
-
-- Structured learning path for ML and agentic AI
-- Curated papers, tutorials, and code examples
-- Practice exercises and projects
-- Research direction tracking
-
-## Metrics
-
-- 4,707+ GitHub stars
-
-## Notes
-
-- Good learning resource for agentic AI fundamentals
-- Structured curriculum approach
+- Autonomous decision-making with tool use and planning capabilities
+- Memory systems for maintaining context across interactions
+- Multi-step reasoning and task decomposition strategies
+- Integration with external APIs and data sources
+- Safety guardrails and human-in-the-loop patterns
 
 ## Related Concepts
 
-- [[agentic-ai]] — Core concept
-- [[ai-engineering]] — Building AI systems
+- [[agentic-ai]]
+- [[ai-engineering]]

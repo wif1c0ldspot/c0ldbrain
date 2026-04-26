@@ -1,7 +1,9 @@
 ---
+compiled: true
 confidence: high
 created: '2026-04-16'
 priority: important
+source_url: https://hermes-agent.nousresearch.com/docs/skills/
 sources:
 - hermes-agent-skills-hub-2026-04
 status: current
@@ -13,9 +15,7 @@ tags:
 - developer-tools
 title: Hermes Agent Skills Hub
 type: source
-updated: '2026-04-07'
-compiled: true
-source_url: https://hermes-agent.nousresearch.com/docs/skills/
+updated: '2026-04-26'
 ---
 
 

@@ -1,24 +1,24 @@
 ---
-title: DB-GPT - Agentic AI Data Assistant
-type: source
+agents:
+- hermes
+compiled: true
+confidence: high
+created: '2026-04-10'
+priority: important
+source_url: https://github.com/eosphoros-ai/DB-GPT
+sources: []
+status: current
+summary: DB-GPT — open-source agentic AI data assistant for AI + Data products, text-to-SQL,
+  multi-database support, 18.5k GitHub stars.
 tags:
 - agentic-ai
 - data-assistant
 - text-to-sql
 - source
 - github
-source_url: https://github.com/eosphoros-ai/DB-GPT
-sources: []
-created: '2026-04-10'
-updated: '2026-04-10'
-confidence: high
-status: current
-agents:
-- hermes
-priority: important
-summary: DB-GPT — open-source agentic AI data assistant for AI + Data products, text-to-SQL,
-  multi-database support, 18.5k GitHub stars.
-compiled: true
+title: DB-GPT - Agentic AI Data Assistant
+type: source
+updated: '2026-04-26'
 ---
 
 # DB-GPT

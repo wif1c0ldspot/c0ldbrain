@@ -1,37 +1,37 @@
 ---
-title: Quantization Techniques
-type: concept
+confidence: medium
+created: 2026-04-18
+note: Auto-created stub — 2 broken link(s) point here
+priority: reference
+status: stub
+summary: Model quantization methods for efficient inference — INT8, INT4, GGUF, GPTQ
 tags:
 - mlops
 - inference-optimization
-created: 2026-04-18
-updated: 2026-04-18
-confidence: medium
-status: stub
-priority: reference
-summary: Model quantization methods for efficient inference — INT8, INT4, GGUF, GPTQ
-note: Auto-created stub — 2 broken link(s) point here
+title: Quantization Techniques
+type: concept
+updated: '2026-04-26'
 ---
 
 # Quantization Techniques
 
-> **Stub page** — This concept needs expansion.
+Model quantization methods for efficient inference — INT8, INT4, GGUF, GPTQ.
 
-## Overview
-Model quantization methods for efficient inference — INT8, INT4, GGUF, GPTQ
+## Key Aspects
 
-## References
-- Referenced 2 time(s) in the wiki
+- Statistical analysis of price patterns and market microstructure
+- Risk management through position sizing and portfolio construction
+- Signal generation combining multiple indicators and timeframes
+- Backtesting methodology with out-of-sample validation
+- Live execution with slippage and latency considerations
 
-## See Also
+## Related Concepts
+
 - [[agentic-ai]]
 - [[knowledge-management]]
-
-## Related
 - [[emergence-in-quantized-models]]
 - [[emergent-agent-evolution-synthesis]]
 - [[local-397b-model-macbook-2026-03]]
 - [[mlx-turboquant-local-power-2026-04]]
 - [[predictive-coding-active-inference]]
 - [[quantized-model-optimization]]
-- [[edge-ai]]

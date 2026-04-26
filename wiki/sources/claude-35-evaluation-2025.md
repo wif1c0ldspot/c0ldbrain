@@ -1,32 +1,34 @@
 ---
-title: Claude 3.5 Evaluation 2025
-type: source
+compiled: true
+confidence: medium
+created: 2026-04-18
+note: Auto-created stub — 1 broken link(s) point here
+priority: reference
+source_url: aggregate
+status: stub
+summary: Evaluation benchmarks and results for Claude 3.5 models (2025)
 tags:
 - evaluation
 - claude
 - benchmark
-created: 2026-04-18
-updated: 2026-04-18
-confidence: medium
-status: stub
-priority: reference
-summary: Evaluation benchmarks and results for Claude 3.5 models (2025)
-note: Auto-created stub — 1 broken link(s) point here
-compiled: true
-source_url: aggregate
-
+title: Claude 3.5 Evaluation 2025
+type: source
+updated: '2026-04-26'
 ---
 
 # Claude 3.5 Evaluation 2025
 
-> **Stub page** — This concept needs expansion.
+Evaluation benchmarks and results for Claude 3.5 models (2025).
 
-## Overview
-Evaluation benchmarks and results for Claude 3.5 models (2025)
+## Key Aspects
 
-## References
-- Referenced 1 time(s) in the wiki
+- Core principles and foundational concepts of Claude 3.5 Evaluation 2025
+- Practical implementation patterns and best practices
+- Integration with related tools and frameworks
+- Current research directions and emerging trends
+- Trade-offs and design considerations for production use
 
-## See Also
+## Related Concepts
+
 - [[agentic-ai]]
 - [[knowledge-management]]

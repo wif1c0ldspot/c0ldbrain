@@ -1,20 +1,20 @@
 ---
-title: 'Alibaba GUI Agent: Web Control'
-type: source
-source_url: https://x.com//status/2033476048650928215
 author: '@alibaba'
-created: '2026-03-16'
+compiled: true
 confidence: medium
+created: '2026-03-16'
+priority: reference
+source_url: https://x.com//status/2033476048650928215
 status: current
+summary: Alibaba open sourced GUI agent that controls web pages with natural language
 tags:
 - source
 - gui-agent
 - automation
 - web
-summary: Alibaba open sourced GUI agent that controls web pages with natural language
-priority: reference
-updated: '2026-03-16'
-compiled: true
+title: 'Alibaba GUI Agent: Web Control'
+type: source
+updated: '2026-04-26'
 ---
 
 ## Summary
