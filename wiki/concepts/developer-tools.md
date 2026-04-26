@@ -36,3 +36,8 @@ AI-powered developer tools and IDE integrations. See ai-coding-agents for ecosys
 - [[knowledge-graph-codebase-engine-2026-04]]
 - [[ai-coding-agents]]
 - [[open-source-ai-infra]]
+
+- [[ashpreet-bedi-systems-engineering-agentic-2026-04]]
+- [[cli-anything-hkuds-2026-04]]
+- [[codebase-analysis]]
+- [[knowledge-graphs]]

@@ -31,3 +31,5 @@ Coordinating multiple tool calls in agent workflows.
 - [[langflow-claude-code-integration]]
 - [[rohit4verse-claude-code-architecture-2026-04]]
 - [[sub-agents-vs-agent-teams-suryanshti777-2026-04]]
+
+- [[agent-harness]]

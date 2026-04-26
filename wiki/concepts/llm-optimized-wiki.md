@@ -35,3 +35,8 @@ Wiki architecture designed for efficient LLM consumption and reasoning.
 - [[karpathy-llm-kb-architecture-2026-04]]
 - [[karpathy-llm-knowledge-base-viral-2026-04]]
 - [[knowledge-layer]]
+
+- [[agentic-memory-research]]
+- [[brand-foundation]]
+- [[polymarket-weather-hermes-agent-0xmovez-2026-04]]
+- [[shannholmberg-ai-knowledge-layer-2026-04]]

@@ -36,3 +36,5 @@ AI-driven automation patterns for workflows and processes. See agentic-ai for au
 - [[open-source-ai-infra]]
 - [[document-processing]]
 - [[automated-stock-research-agent-2026-03]]
+
+- [[glm-ocr-open-source-2026-04]]

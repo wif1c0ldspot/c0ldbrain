@@ -35,3 +35,5 @@ Personal automation workflows with AI agents. See agentic-ai for agent patterns.
 - [[ai-security]]
 - [[agent-orchestration-stacks]]
 - [[claude-code-patterns]]
+
+- [[agentic-ai]]

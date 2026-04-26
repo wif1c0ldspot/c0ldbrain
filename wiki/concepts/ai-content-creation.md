@@ -36,3 +36,5 @@ AI-powered content creation workflows. See shannholmberg-ai-knowledge-layer-2026
 - [[knowledge-base-layer]]
 - [[personal-knowledge-management]]
 - [[karpathy-llm-knowledge-bases]]
+
+- [[langflow-claude-code-integration]]

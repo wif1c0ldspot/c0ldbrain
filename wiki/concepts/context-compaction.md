@@ -35,3 +35,12 @@ Techniques for reducing context window usage while preserving key information.
 - [[company-context-brain]]
 - [[context-compression]]
 - [[context-constitution]]
+
+- [[context-engineering]]
+- [[context-engineering-synthesis]]
+- [[demand-paging-for-agent-memory]]
+- [[genericagent-contextual-density-2026-04]]
+- [[langflow-claude-code-integration]]
+- [[million-token-illusion-oracle-converged-db-datachaz-2026-04]]
+- [[missing-memory-hierarchy-arxiv-2026-04]]
+- [[rohit4verse-claude-code-architecture-2026-04]]

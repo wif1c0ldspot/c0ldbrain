@@ -33,3 +33,5 @@ Redirect stub — see prompt-injection-comprehensive-2026 for full security fram
 
 ---
 *This page was auto-expanded from a stub.*
+
+- [[ashpreet-bedi-systems-engineering-agentic-2026-04]]

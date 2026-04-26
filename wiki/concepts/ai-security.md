@@ -34,3 +34,7 @@ Security considerations for AI systems. See prompt-injection-comprehensive-2026 
 - [[personal-automation]]
 - [[agentic-ai]]
 - [[personal-ai-infrastructure-2026-04]]
+
+- [[agno-harness-vs-systems-engineering-2026-04]]
+- [[ashpreet-bedi-systems-engineering-agentic-2026-04]]
+- [[systems-engineering]]

@@ -36,3 +36,6 @@ Static brand knowledge layer for AI content systems. See knowledge-layer for two
 - [[llm-optimized-wiki]]
 - [[ai-content-creation]]
 - [[karpathy-llm-knowledge-bases]]
+
+- [[knowledge-base-layer]]
+- [[langflow-claude-code-integration]]

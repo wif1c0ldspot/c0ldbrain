@@ -29,3 +29,6 @@ Retrieval-Augmented Generation — grounding LLM outputs in external data.
 - [[rag-security]]
 - [[db-gpt-ai-data-assistant-2026-04]]
 - [[million-token-illusion-oracle-converged-db-datachaz-2026-04]]
+
+- [[agno-harness-vs-systems-engineering-2026-04]]
+- [[ashpreet-bedi-systems-engineering-agentic-2026-04]]

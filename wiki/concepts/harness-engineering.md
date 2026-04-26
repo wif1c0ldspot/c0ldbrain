@@ -33,3 +33,6 @@ Adopt [[systems-engineering]] — design the full system (agent, data, security,
 ## Sources
 
 - [[agno-harness-vs-systems-engineering-2026-04]] — Agno blog, April 2026
+
+## Related
+- [[harness-engineering]]

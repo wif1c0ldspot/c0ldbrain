@@ -734,7 +734,7 @@
       "ingested_at": "2026-04-25",
       "compiled_at": "2026-04-25",
       "source_page": "wiki/synthesis/infrastructure-handbook-2026.md",
-      "last_linted": "2026-04-26"
+      "last_linted": "2026-04-27"
     },
     "synthesis/ml-models-handbook-2026": {
       "type": "synthesis",
@@ -742,7 +742,7 @@
       "ingested_at": "2026-04-25",
       "compiled_at": "2026-04-25",
       "source_page": "wiki/synthesis/ml-models-handbook-2026.md",
-      "last_linted": "2026-04-26"
+      "last_linted": "2026-04-27"
     },
     "synthesis/context-engineering-handbook-2026": {
       "type": "synthesis",
@@ -750,7 +750,7 @@
       "ingested_at": "2026-04-25",
       "compiled_at": "2026-04-25",
       "source_page": "wiki/synthesis/context-engineering-handbook-2026.md",
-      "last_linted": "2026-04-26"
+      "last_linted": "2026-04-27"
     },
     "raw/social/akshay-agent-harness-anatomy-2026-04.md": {
       "type": "raw",
@@ -771,7 +771,7 @@
       "concept_pages_created": [
         "agent-harness"
       ],
-      "last_linted": "2026-04-26"
+      "last_linted": "2026-04-27"
     },
     "raw/daily-research/2026-04-25-agentic-memory.md": {
       "type": "raw",
@@ -801,12 +801,22 @@
       "compiled_at": "2026-04-27",
       "source": "Video by @CyrilXBT \u2014 Anthropic/Google 4-layer multi-agent framework",
       "raw_path": "/tmp/anthropic-agents-cyrilxbt.mp4"
+    },
+    "raw/social/agno-harness-vs-systems-engineering-2026-04.md": {
+      "type": "raw",
+      "status": "unprocessed",
+      "discovered_at": "2026-04-27"
+    },
+    "raw/social/ashpreet-bedi-systems-engineering-agentic-2026-04.md": {
+      "type": "raw",
+      "status": "unprocessed",
+      "discovered_at": "2026-04-27"
     }
   },
-  "concept_count": 197,
+  "concept_count": 200,
   "synthesis_count": 6,
   "research_log_entries": 1,
-  "last_compile": "2026-04-26",
+  "last_compile": "2026-04-27",
   "entries": [
     {
       "path": "wiki/sources/cavemem-cross-agent-memory-2026-04.md",

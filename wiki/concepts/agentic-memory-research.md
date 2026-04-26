@@ -36,3 +36,5 @@ Research field on persistent memory for autonomous agents. See memory-systems fo
 - [[llm-optimized-wiki]]
 - [[2026-04-20-research]]
 - [[2026-04-19-research]]
+
+- [[weekly-synthesis-2026-04-20]]

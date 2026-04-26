@@ -36,3 +36,5 @@ Running AI models on Apple Silicon (M1/M2/M3/M4). See local-llm-infrastructure f
 
 ---
 *This page was auto-expanded from a stub.*
+
+- [[privacy-first-ai]]

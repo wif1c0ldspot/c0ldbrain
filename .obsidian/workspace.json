@@ -192,6 +192,7 @@
   },
   "active": "185a00b8c69db220",
   "lastOpenFiles": [
+    "outputs/health/2026-04-27.json",
     "wiki/concepts/agent-development-kit.md",
     "wiki/sources/anthropic-adk-4layer-multiagent-framework-cyrilxbt-2026-04.md",
     "wiki/concepts/harness-engineering.md",
@@ -225,7 +226,6 @@
     "wiki/concepts/crypto-quant-factor-research.md",
     "wiki/concepts/crypto-quant-trading.md",
     "outputs/digest/2026-04-25.md",
-    "wiki/sources/sub-agents-vs-agent-teams-suryanshti777-2026-04.md",
     "wiki/MANIFEST.json",
     "_scripts/property_fix_log.json"
   ]

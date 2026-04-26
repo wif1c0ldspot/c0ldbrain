@@ -105,3 +105,7 @@ Critical questions for harnesses integrating with MCP:
 - [[simplemem-github-2026-04]]
 - [[anthropic-adk-4layer-multiagent-framework-cyrilxbt-2026-04]] — ADK bidirectional MCP integration
 - [[agent-development-kit]] — ADK toolkit
+
+- [[agno-harness-vs-systems-engineering-2026-04]]
+- [[ashpreet-bedi-systems-engineering-agentic-2026-04]]
+- [[systems-engineering]]

@@ -1,19 +1,19 @@
 ---
 title: "Wiki Index"
-updated: "2026-04-26"
+updated: "2026-04-27"
 ---
 
 # C0ldbrain Wiki - Master Index
 
 ## Ai Agents
 
-- [[agent-meta-optimization]] — Autonomous meta-agent systems that iteratively optimize AI agent configurations
+- [[agent-development-kit]] — Open-source, code-first toolkit by Google/Anthropic for building, evaluating, and deploying AI agents. Part of the 4-layer agentic stack with MCP, A2A, and Agent Engine.
 - [[ai-coding-agents]] — 'The ecosystem of AI coding agents: Claude Code, Cursor, and their supporting
 - [[browser-automation]] — Automating browser interactions with AI agents via CDP, DOM manipulation, and agent-driven tool use.
 - [[gbrain-agent-brain]] — Garry Tan's production-grade agent brain for OpenClaw/Hermes. Hybrid search + self-wiring knowledge graph + 26 skills + durable job queue (Minions). 9.5k stars.
+- [[harness-engineering]] — Anti-pattern where engineers optimize tools (model, prompt, framework) instead of system outcomes. Results in duct-taped systems that collapse in production.
 - [[hermes-ecosystem-projects]] — 6 key community projects from the Hermes Atlas ecosystem — covering security (CaMeL), deployment (Alpha), auto-skill generation (Skill Factory), multi-agent coordination (Maestro), and model replacement (Icarus).
 - [[hermes-multi-profile-team]] — Running coherent multi-agent teams using Hermes profiles — 4-role split (orchestrator, research, writer, engineer) with handoff contracts, memory KPIs, and per-role policy gates.
-- [[multi-agent-systems]] — Multi-agent coordination patterns and frameworks. See coral-multi-agent-discovery for autonomous evolution research.
 - [[multica-relational-agent-memory]] — Pure relational (SQL + JSONB) memory for multi-agent systems. No vector embeddings. Explicit skill-to-agent joins, point-in-time snapshots for cold inference, workspace-scoped isolation.
 - [[openai-agents-sdk]] — Official OpenAI agent harness — lightweight, provider-agnostic multi-agent framework. Sandbox agents, handoffs, guardrails, tracing, MCP tools.
 - [[openchronicle]] — Open-source, local-first memory system for AI agents. Captures macOS AX Tree context, converts to Markdown memory, exposes via MCP. Model-agnostic alternative to OpenAI Chronicle.
@@ -25,7 +25,6 @@ updated: "2026-04-26"
 ## Context Engineering
 
 - [[context-engineering-synthesis]] — Unified view of context engineering — from substrate to compaction to organizational synthesis. How agents build, maintain, and utilize context.
-- [[context-engineering]] — Redirect stub — see context-engineering-synthesis for the unified context stack and paradigm overview.
 
 ## Developer Tools
 
@@ -40,14 +39,13 @@ updated: "2026-04-26"
 ## Infrastructure
 
 - [[open-source-ai-infra]] — Open-source AI tools, local model deployment, and infrastructure. NVIDIA
+- [[systems-engineering]] — Discipline of designing systems where behavior emerges from component interactions, not individual optimization. Originated at Bell Labs (1940s). Applied to agentic software as 5 layers.
 
 ## Knowledge Management
 
 - [[company-context-brain]] — A 'company brain' that synthesizes fragmented multi-source organizational data into a persistent, conflict-resolved context graph — vs retrieval-based approaches (RAG, MCP) that start from zero each query.
 - [[knowledge-management-synthesis]] — Unified synthesis of knowledge management patterns for AI agents — from RAG to LLM wikis to synthesized organizational brains. Three paradigms, tradeoffs, and when to use each.
-- [[knowledge-management]] — Redirect stub — see knowledge-management-synthesis for the unified paradigm comparison.
 - [[llm-knowledge-bases]] — LLMs build, compile, and maintain personal knowledge bases as structured
-- [[mempalace]] — Hierarchical memory system for AI agents — palace graph architecture with wings/rooms/drawers
 - [[notebooklm-vs-llm-wiki]] — Comparison of LLM-maintained wikis vs embedding-based tools (NotebookLM) for personal knowledge management. Key insight: convert knowledge to skills, not just storage.
 - [[vectorless-rag]] — RAG without vector embeddings. Uses LLM reasoning over structured indices (trees, graphs) to retrieve information. PageIndex achieves 98.7% FinanceBench accuracy.
 
@@ -67,10 +65,6 @@ updated: "2026-04-26"
 
 - [[multica-platform]] — Open-source platform (17.5k★) for humans + AI agents as equal teammates. Shared workspace, issues, PRs, skills, autopilot scheduling. Supports multiple runtimes (Kimi Code CLI, Claude Code, Codex).
 
-## Prompt Engineering
-
-- [[prompt-engineering]] — Techniques for designing effective prompts for LLMs and agent systems.
-
 ## Quantitative Trading
 
 - [[financial-llms]] — Large language models specialized for finance — sentiment analysis, robo-advisory, trading signals. Open-source alternatives to BloombergGPT.
@@ -81,8 +75,6 @@ updated: "2026-04-26"
 
 - [[clearwing]] — Autonomous vulnerability scanner by Lazarus AI — dual-mode network pentest + source-code hunter with evidence-based severity scoring
 - [[magika]] — Google's AI-powered file type detection — ~99% accuracy across 200+ types, used in Gmail/Drive/Safe Browsing/VirusTotal
-- [[prompt-injection-attack-vectors]] — 6 attack vectors: direct, indirect, RAG-specific, multimodal, tool abuse, system prompt leakage. 78% of incidents, avg cost $2.3M.
-- [[prompt-injection-defense-guide]] — Defense-in-depth architecture: 5 layers — input validation, prompt engineering, output filtering, architectural controls, monitoring.
 - [[rag-security]] — Securing Retrieval-Augmented Generation systems against injection and manipulation attacks.
 
 ## Uncategorized
@@ -93,6 +85,7 @@ updated: "2026-04-26"
 - [[agent-evolution-stages]] — Agent Evolution Stages
 - [[agent-harness]] — The complete software infrastructure wrapping an LLM: orchestration loop, tools, memory, context management, state persistence, error handling, and guardrails. Formalized 2026.
 - [[agent-infrastructure]] — Backend systems supporting agent operation — servers, APIs, state management
+- [[agent-meta-optimization]] — Autonomous meta-agent systems that iteratively optimize AI agent configurations
 - [[agent-orchestration-stacks]] — 'Pattern of combining orchestration (task routing, multi-agent coordination)
 - [[agent-skills-systems]] — Pattern of organizing AI coding agent capabilities as structured skills mapped
 - [[agentic-ai]] — Agentic AI systems that act autonomously — frameworks, patterns, and
@@ -134,6 +127,7 @@ updated: "2026-04-26"
 - [[context-compaction]] — Techniques for reducing context window usage while preserving key information
 - [[context-compression]] — Techniques for compressing context to fit within token limits. See context-compaction
 - [[context-constitution]] — Letta's philosophical and technical framework for treating agent learning
+- [[context-engineering]] — Redirect stub — see context-engineering-synthesis for the unified context
 - [[context-management]] — Context window management and optimization for LLM agents. See context-engineering-synthesis
 - [[context-substrate]] — Overview
 - [[continuous-red-teaming]] — Key Facts
@@ -182,6 +176,7 @@ updated: "2026-04-26"
 - [[knowledge-graphs]] — Graph-based knowledge representation for AI agents. See cognee for a production
 - [[knowledge-layer]] — AI Knowledge Layer
 - [[knowledge-lifecycle-decision-framework]] — Systematic framework for evaluating when knowledge becomes outdated, when
+- [[knowledge-management]] — Redirect stub — see knowledge-management-synthesis for the unified paradigm
 - [[kv-cache-optimization]] — Key-value cache optimization for LLM inference acceleration.
 - [[langflow-claude-code-integration]] — Living document for implementing Claude Code's four-layer architecture in
 - [[langflow]] — Visual flow builder for AI agent workflows. See langflow-claude-code-integration
@@ -192,9 +187,11 @@ updated: "2026-04-26"
 - [[local-llm-infrastructure]] — Running local LLMs on consumer hardware ($599 Mac Mini M4, 16GB). Three-tier
 - [[markov-chains]] — Markov chain models for quantitative trading — state machines, transition matrices, Kelly criterion bet sizing for prediction markets
 - [[memory-firewall]] — Defense pattern for agent memory systems — validates, quarantines, and audits
+- [[mempalace]] — Hierarchical memory system for AI agents — palace graph architecture with
 - [[meta-learning]] — Learning to learn — adapting learning strategies across tasks. See mistake-notebook-learning-acl-2026
 - [[model-routing]] — Intelligent routing of tasks to optimal models based on complexity and cost.
 - [[multi-agent-collaboration]] — Multi-agent collaboration patterns. See multi-agent-systems for coordination
+- [[multi-agent-systems]] — Multi-agent coordination patterns and frameworks. See coral-multi-agent-discovery
 - [[multi-modal-ai]] — Multi-modal AI systems combining text, vision, and audio. See multimodal-ai-security
 - [[multimodal-ai-security]] — Key Facts
 - [[neutral-market-pairs-trading]] — Market-neutral pairs trading strategy for ranging markets. See polymarket-weather-trading-strategy
@@ -210,7 +207,10 @@ updated: "2026-04-26"
 - [[predictive-coding-active-inference]] — Predictive coding and active inference as pathways to emergent behavior in
 - [[predictive-coding-hierarchy]] — Hierarchical predictive coding in agent architectures. See predictive-coding-active-inference
 - [[privacy-first-ai]] — Privacy-first AI deployment. See local-llm-infrastructure for on-premise
+- [[prompt-engineering]] — Techniques for designing effective prompts for LLMs and agent systems.
+- [[prompt-injection-attack-vectors]] — '6 attack vectors: direct, indirect, RAG-specific, multimodal, tool abuse,
 - [[prompt-injection-comprehensive-2026]] — Hub page for prompt injection knowledge — links to attack vectors, defense
+- [[prompt-injection-defense-guide]] — 'Defense-in-depth architecture: 5 layers — input validation, prompt engineering,
 - [[prompt-injection-defense-tools]] — Prompt Injection Defense Tools
 - [[prompt-injection-incidents]] — '6 incidents: Microsoft Copilot, ChatGPT, Anthropic Claude, Meta Llama, Google
 - [[prompt-injection-testing-tools]] — Garak (NVIDIA scanner v5.0), Promptfoo (red team platform v3.0, acquired
@@ -248,10 +248,6 @@ updated: "2026-04-26"
 - [[workflow-automation]] — Workflow automation with AI agents. See activepieces-ai-agents-2026-04 for
 
 ## Stats
-- Total concepts: 197
-- Domains covered: 15
-- Last compiled: 2026-04-26
-
-
-## Backfill Links
-- [[2026-04-21-research]]
+- Total concepts: 200
+- Domains covered: 14
+- Last compiled: 2026-04-27

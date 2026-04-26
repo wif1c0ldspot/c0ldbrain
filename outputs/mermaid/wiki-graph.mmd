@@ -10,10 +10,11 @@ graph TD
     agency_agents["Agency Agents"]:::uncategorized
     agent_architecture["Agent Architecture"]:::uncategorized
     agent_cli_tools["Agent-Native CLI Tools & AXI Design"]:::developer_tools
+    agent_development_kit["Agent Development Kit (ADK)"]:::ai_agents
     agent_evolution_stages["Agent Evolution Stages"]:::uncategorized
     agent_harness["Agent Harness"]:::uncategorized
     agent_infrastructure["Agent Infrastructure"]:::uncategorized
-    agent_meta_optimization["Agent Meta-Optimization"]:::ai_agents
+    agent_meta_optimization["Agent Meta-Optimization"]:::uncategorized
     agent_orchestration_stacks["Agent Orchestration Stacks"]:::uncategorized
     agent_skills_systems["Agent Skills Systems"]:::uncategorized
     agentic_ai["Agentic AI"]:::uncategorized
@@ -61,7 +62,7 @@ graph TD
     context_compression["Context Compression"]:::uncategorized
     context_constitution["Context Constitution"]:::uncategorized
     context_engineering_synthesis["Context Engineering — Synthesis"]:::context_engineering
-    context_engineering["Context Engineering"]:::context_engineering
+    context_engineering["Context Engineering"]:::uncategorized
     context_management["Context Management"]:::uncategorized
     context_substrate["Context Substrate"]:::uncategorized
     continuous_red_teaming["Continuous Red Teaming"]:::uncategorized
@@ -96,6 +97,7 @@ graph TD
     global_workspace_oscillation_coordination["Global Workspace & Oscillation Coordination"]:::uncategorized
     gui_agents["Gui Agents"]:::uncategorized
     harness_design["Harness Design"]:::uncategorized
+    harness_engineering["Harness Engineering"]:::ai_agents
     hermes_agent_architecture["Hermes Agent Architecture"]:::hermes
     hermes_agent["Hermes Agent"]:::uncategorized
     hermes_atropos_environments["Hermes Atropos Environments"]:::uncategorized
@@ -117,7 +119,7 @@ graph TD
     knowledge_layer["AI Knowledge Layer"]:::uncategorized
     knowledge_lifecycle_decision_framework["Knowledge Lifecycle Decision Framework"]:::uncategorized
     knowledge_management_synthesis["Knowledge Management for AI Agents — Synthesis"]:::knowledge_management
-    knowledge_management["Knowledge Management"]:::knowledge_management
+    knowledge_management["Knowledge Management"]:::uncategorized
     kv_cache_optimization["Kv Cache Optimization"]:::uncategorized
     langflow_claude_code_integration["Langflow Claude Code Integration Architecture"]:::uncategorized
     langflow["Langflow"]:::uncategorized
@@ -132,11 +134,11 @@ graph TD
     mcp_protocol["MCP Protocol"]:::mcp_protocol
     memory_firewall["Memory Firewall"]:::uncategorized
     memory_systems["AI Memory Systems & Context Management"]:::memory_systems
-    mempalace["MemPalace"]:::knowledge_management
+    mempalace["MemPalace"]:::uncategorized
     meta_learning["Meta Learning"]:::uncategorized
     model_routing["Model Routing"]:::uncategorized
     multi_agent_collaboration["Multi Agent Collaboration"]:::uncategorized
-    multi_agent_systems["Multi-Agent Systems"]:::ai_agents
+    multi_agent_systems["Multi-Agent Systems"]:::uncategorized
     multi_modal_ai["Multi Modal Ai"]:::uncategorized
     multica_platform["Multica Platform"]:::multi_agent
     multica_relational_agent_memory["Multica Relational Agent Memory Pattern"]:::ai_agents
@@ -159,10 +161,10 @@ graph TD
     predictive_coding_active_inference["Predictive Coding & Active Inference for Emergent AI"]:::uncategorized
     predictive_coding_hierarchy["Predictive Coding Hierarchy"]:::uncategorized
     privacy_first_ai["Privacy First Ai"]:::uncategorized
-    prompt_engineering["Prompt Engineering"]:::prompt_engineering
-    prompt_injection_attack_vectors["Prompt Injection Attack Vectors (2026)"]:::security
+    prompt_engineering["Prompt Engineering"]:::uncategorized
+    prompt_injection_attack_vectors["Prompt Injection Attack Vectors (2026)"]:::uncategorized
     prompt_injection_comprehensive_2026["Prompt Injection: Comprehensive Guide 2026"]:::uncategorized
-    prompt_injection_defense_guide["Prompt Injection Defense Guide"]:::security
+    prompt_injection_defense_guide["Prompt Injection Defense Guide"]:::uncategorized
     prompt_injection_defense_tools["Prompt Injection Defense Tools"]:::uncategorized
     prompt_injection_incidents["Prompt Injection Real-World Incidents (2025-2026)"]:::uncategorized
     prompt_injection_testing_tools["Prompt Injection Testing Tools"]:::uncategorized
@@ -186,6 +188,7 @@ graph TD
     speech_recognition["Speech Recognition"]:::uncategorized
     supersession_protocol["Supersession Protocol"]:::uncategorized
     swe_agent["Swe Agent"]:::uncategorized
+    systems_engineering["Systems Engineering"]:::infrastructure
     teaching_small_models_agentic_behavior["Teaching Small Models Agentic Behavior"]:::uncategorized
     test_driven_development["Test Driven Development"]:::uncategorized
     test_time_compute_scaling["Test Time Compute Scaling"]:::uncategorized
@@ -228,10 +231,8 @@ graph TD
     agent_architecture --> multica_platform
     agent_architecture --> recursive_language_models
     agent_architecture --> resolvers
-    agent_architecture --> rohit4verse_claude_code_architecture_2026_04
-    agent_architecture --> sub_agents_vs_agent_teams_suryanshti777_2026_04
-    agent_architecture --> infrastructure_handbook_2026
-    agent_architecture --> agent_harness
+    agent_architecture --> anthropic_adk_4layer_multiagent_framework_cyrilxbt_2026_04
+    agent_architecture --> agent_development_kit
     agent_cli_tools --> axi_agent_experience_interface_2026_04
     agent_cli_tools --> cli_anything_hkuds_2026_04
     agent_cli_tools --> token_optimization
@@ -242,6 +243,10 @@ graph TD
     agent_cli_tools --> mcp_protocol
     agent_cli_tools --> skill_registry
     agent_cli_tools --> career_ops_2026_04
+    agent_development_kit --> mcp_protocol
+    agent_development_kit --> agent_architecture
+    agent_development_kit --> multi_agent_collaboration
+    agent_development_kit --> anthropic_adk_4layer_multiagent_framework_cyrilxbt_2026_04
     agent_evolution_stages --> coral_multi_agent_discovery
     agent_evolution_stages --> karpathy_llm_wiki_agent
     agent_evolution_stages --> agent_meta_optimization
@@ -264,10 +269,16 @@ graph TD
     agent_harness --> harness_design
     agent_harness --> harness_engineering_trae_ai_2026_04
     agent_harness --> langflow_claude_code_integration
+    agent_harness --> memory_firewall
+    agent_harness --> multica_platform
+    agent_harness --> multica_relational_agent_memory
+    agent_harness --> openai_agents_sdk
+    agent_harness --> openviking_context_database_volcengine_2026_04
+    agent_harness --> rohit4verse_claude_code_architecture_2026_04
     agent_harness --> akshay_agent_harness_anatomy_2026_04
     agent_harness --> agent_architecture
     agent_harness --> context_engineering
-    agent_harness --> orchestration
+    agent_harness --> tool_orchestration
     agent_harness --> memory_systems
     agent_harness --> agent_harness
     agent_infrastructure --> agentic_ai
@@ -378,7 +389,6 @@ graph TD
     agentic_memory_research --> llm_optimized_wiki
     agentic_memory_research --> 2026_04_20_research
     agentic_memory_research --> 2026_04_19_research
-    agentic_memory_research --> weekly_synthesis_2026_04_20
     agentic_research --> agentic_research
     agentic_research --> quantitative_trading
     agentic_research --> financial_ai
@@ -452,9 +462,6 @@ graph TD
     ai_content_creation --> knowledge_base_layer
     ai_content_creation --> personal_knowledge_management
     ai_content_creation --> karpathy_llm_knowledge_bases
-    ai_content_creation --> langflow_claude_code_integration
-    ai_content_creation --> context_engineering
-    ai_content_creation --> llm_optimized_wiki
     ai_engineering --> agentic_ai
     ai_engineering --> knowledge_management
     ai_engineering --> ed_donner_agentic_ai_course_2026_04
@@ -509,7 +516,6 @@ graph TD
     automation --> open_source_ai_infra
     automation --> document_processing
     automation --> automated_stock_research_agent_2026_03
-    automation --> glm_ocr_open_source_2026_04
     belief_gate --> memory_firewall
     belief_gate --> mempalace
     belief_gate --> claim_based_memory
@@ -549,9 +555,6 @@ graph TD
     brand_foundation --> llm_optimized_wiki
     brand_foundation --> ai_content_creation
     brand_foundation --> karpathy_llm_knowledge_bases
-    brand_foundation --> langflow_claude_code_integration
-    brand_foundation --> context_engineering
-    brand_foundation --> knowledge_base_layer
     browser_automation --> agent_harness
     browser_automation --> alibaba_gui_agent_web_control_2026_03
     browser_automation --> bitter_lesson_agent_harnesses_gregpr07_2026_04
@@ -723,14 +726,6 @@ graph TD
     context_compaction --> company_context_brain
     context_compaction --> context_compression
     context_compaction --> context_constitution
-    context_compaction --> context_engineering
-    context_compaction --> context_engineering_synthesis
-    context_compaction --> demand_paging_for_agent_memory
-    context_compaction --> genericagent_contextual_density_2026_04
-    context_compaction --> langflow_claude_code_integration
-    context_compaction --> million_token_illusion_oracle_converged_db_datachaz_2026_04
-    context_compaction --> missing_memory_hierarchy_arxiv_2026_04
-    context_compaction --> rohit4verse_claude_code_architecture_2026_04
     context_compression --> context_compaction
     context_compression --> memvid_mp4_ai_memory_2026_04
     context_compression --> turboquant_kv_cache_experiments_2026_04
@@ -771,16 +766,6 @@ graph TD
     context_engineering --> agent_orchestration_stacks
     context_engineering --> agent_skills_systems
     context_engineering --> cloudflare_agent_memory_2026_04
-    context_engineering --> harness_design
-    context_engineering --> harness_engineering_trae_ai_2026_04
-    context_engineering --> multica_platform
-    context_engineering --> recursive_language_models
-    context_engineering --> resolvers
-    context_engineering --> shannholmberg_ai_knowledge_layer_2026_04
-    context_engineering --> ai_content_creation
-    context_engineering --> context_engineering_handbook_2026
-    context_engineering --> brand_foundation
-    context_engineering --> agent_harness
     context_management --> context_engineering_synthesis
     context_management --> context_engineering_handbook_2026
     context_substrate --> memory_systems
@@ -910,9 +895,6 @@ graph TD
     developer_tools --> developer_tools
     developer_tools --> infrastructure_handbook_2026
     developer_tools --> knowledge_graph_codebase_engine_2026_04
-    developer_tools --> knowledge_graphs
-    developer_tools --> codebase_analysis
-    developer_tools --> cli_anything_hkuds_2026_04
     diagram_tools --> excalidraw_claude_streaming_2026_04
     document_processing --> glm_ocr_open_source_2026_04
     document_processing --> automation
@@ -1006,6 +988,8 @@ graph TD
     harness_design --> cloudflare_agent_memory
     harness_design --> context_constitution
     harness_design --> harness_engineering_trae_ai_2026_04
+    harness_engineering --> systems_engineering
+    harness_engineering --> agno_harness_vs_systems_engineering_2026_04
     hermes_agent_architecture --> skill_registry
     hermes_agent_architecture --> agent_orchestration_stacks
     hermes_agent_architecture --> hermes_team_guide_nyk_builderz_2026_04
@@ -1200,23 +1184,6 @@ graph TD
     knowledge_management --> agent_infrastructure
     knowledge_management --> ai_engineering
     knowledge_management --> aster_agentic_scaling
-    knowledge_management --> claude_35_evaluation_2025
-    knowledge_management --> claude_code_skill_graphs_2026_04
-    knowledge_management --> claude_md
-    knowledge_management --> completeness_principle
-    knowledge_management --> emergent_strategies
-    knowledge_management --> escalation_protocol
-    knowledge_management --> hermes_atropos_environments
-    knowledge_management --> llm_knowledge_base_pattern
-    knowledge_management --> llm_optimized_wiki
-    knowledge_management --> markitdown_microsoft_2026_04
-    knowledge_management --> notebooklm_vs_llm_wiki
-    knowledge_management --> quantization_techniques
-    knowledge_management --> resolver_pattern
-    knowledge_management --> supersession_protocol
-    knowledge_management --> token_optimization_and_efficiency
-    knowledge_management --> user_sovereignty
-    knowledge_management --> infrastructure_handbook_2026
     kv_cache_optimization --> turboquant_kv_cache_experiments_2026_04
     kv_cache_optimization --> memvid_mp4_ai_memory_2026_04
     kv_cache_optimization --> ml_models_handbook_2026
@@ -1290,12 +1257,6 @@ graph TD
     llm_optimized_wiki --> karpathy_llm_kb_architecture_2026_04
     llm_optimized_wiki --> karpathy_llm_knowledge_base_viral_2026_04
     llm_optimized_wiki --> knowledge_layer
-    llm_optimized_wiki --> polymarket_weather_hermes_agent_0xmovez_2026_04
-    llm_optimized_wiki --> shannholmberg_ai_knowledge_layer_2026_04
-    llm_optimized_wiki --> agentic_memory_research
-    llm_optimized_wiki --> ai_content_creation
-    llm_optimized_wiki --> personal_automation
-    llm_optimized_wiki --> brand_foundation
     llm_supply_chain_attacks --> defense_in_depth_llm
     llm_supply_chain_attacks --> ai_compliance_frameworks
     llm_supply_chain_attacks --> llm_vulnerability_scanners
@@ -1379,6 +1340,8 @@ graph TD
     mcp_protocol --> context_engineering_handbook_2026
     mcp_protocol --> rohit4verse_claude_code_architecture_2026_04
     mcp_protocol --> simplemem_github_2026_04
+    mcp_protocol --> anthropic_adk_4layer_multiagent_framework_cyrilxbt_2026_04
+    mcp_protocol --> agent_development_kit
     memory_firewall --> memory_systems
     memory_firewall --> prompt_injection_comprehensive_2026
     memory_firewall --> agent_harness
@@ -1487,9 +1450,6 @@ graph TD
     mempalace --> cognee
     mempalace --> honcho
     mempalace --> openchronicle
-    mempalace --> openchronicle_einsia_2026_04
-    mempalace --> openviking_context_database
-    mempalace --> weekly_synthesis_async_subagent_2026_04_17
     meta_learning --> mistake_notebook_learning_acl_2026
     meta_learning --> ml_models_handbook_2026
     model_routing --> hermes_agent_architecture
@@ -1501,6 +1461,8 @@ graph TD
     multi_agent_collaboration --> coral_multi_agent_discovery
     multi_agent_collaboration --> multica_kimi_k26_agent_teams_multicaai_2026_04
     multi_agent_collaboration --> multica_platform
+    multi_agent_collaboration --> anthropic_adk_4layer_multiagent_framework_cyrilxbt_2026_04
+    multi_agent_collaboration --> agent_development_kit
     multi_agent_systems --> coral_multi_agent_discovery
     multi_agent_systems --> agent_orchestration_stacks
     multi_agent_systems --> sub_agents_vs_agent_teams_suryanshti777_2026_04
@@ -1509,10 +1471,6 @@ graph TD
     multi_agent_systems --> claude_caveman_token_strategy_2026_04
     multi_agent_systems --> coral_human_agent_society_2026_04
     multi_agent_systems --> global_workspace_oscillation_coordination
-    multi_agent_systems --> harness_design
-    multi_agent_systems --> microsoft_autogen_2026_04
-    multi_agent_systems --> multi_agent_collaboration
-    multi_agent_systems --> orchestrator_active_inference_mas_2025
     multi_modal_ai --> multimodal_ai_security
     multi_modal_ai --> excalidraw_claude_streaming_2026_04
     multica_platform --> ai_coding_agents
@@ -1627,8 +1585,6 @@ graph TD
     personal_automation --> ai_security
     personal_automation --> agent_orchestration_stacks
     personal_automation --> claude_code_patterns
-    personal_automation --> agentic_ai
-    personal_automation --> llm_optimized_wiki
     personal_knowledge_management --> notebooklm_vs_llm_wiki
     personal_knowledge_management --> shannholmberg_ai_knowledge_layer_2026_04
     personal_knowledge_management --> ai_content_creation
@@ -1657,7 +1613,10 @@ graph TD
     predictive_coding_active_inference --> hypermem_hypergraph_memory_2026_04
     predictive_coding_active_inference --> memory_worth_governance_2026_04
     predictive_coding_hierarchy --> predictive_coding_active_inference
+    privacy_first_ai --> privacy_first_ai
+    privacy_first_ai --> quantization_techniques
     privacy_first_ai --> local_llm_infrastructure
+    privacy_first_ai --> apple_silicon_ai
     privacy_first_ai --> mlx_turboquant_local_power_2026_04
     prompt_engineering --> claude_code_patterns
     prompt_engineering --> token_optimization
@@ -1769,10 +1728,6 @@ graph TD
     quantization_techniques --> mlx_turboquant_local_power_2026_04
     quantization_techniques --> predictive_coding_active_inference
     quantization_techniques --> quantized_model_optimization
-    quantization_techniques --> edge_ai
-    quantized_model_optimization --> quantization_techniques
-    quantized_model_optimization --> agent_evolution_stages
-    quantized_model_optimization --> ml_models_handbook_2026
     rag_security --> defense_in_depth_llm
     rag_security --> llm_vulnerability_scanners
     rag_security --> llm_supply_chain_attacks
@@ -1901,6 +1856,14 @@ graph TD
     supersession_protocol --> knowledge_lifecycle_decision_framework
     swe_agent --> ai_coding_agents
     swe_agent --> rohit4verse_claude_code_architecture_2026_04
+    systems_engineering --> agent_architecture
+    systems_engineering --> multi_agent_collaboration
+    systems_engineering --> ai_security
+    systems_engineering --> mcp_protocol
+    systems_engineering --> agent_infrastructure
+    systems_engineering --> ashpreet_bedi_systems_engineering_agentic_2026_04
+    systems_engineering --> agno_harness_vs_systems_engineering_2026_04
+    systems_engineering --> anthropic_adk_4layer_multiagent_framework_cyrilxbt_2026_04
     teaching_small_models_agentic_behavior --> emergent_agent_evolution_synthesis
     teaching_small_models_agentic_behavior --> aster_agentic_scaling
     teaching_small_models_agentic_behavior --> training_free_self_improvement

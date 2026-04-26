@@ -36,3 +36,7 @@ Hierarchical memory system for AI agents — palace graph architecture with wing
 - [[cognee]]
 - [[honcho]]
 - [[openchronicle]]
+
+- [[openchronicle-einsia-2026-04]]
+- [[openviking-context-database]]
+- [[weekly-synthesis-async-subagent-2026-04-17]]

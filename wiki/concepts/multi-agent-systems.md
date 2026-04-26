@@ -36,3 +36,7 @@ Multi-agent coordination patterns and frameworks. See coral-multi-agent-discover
 - [[claude-caveman-token-strategy-2026-04]]
 - [[coral-human-agent-society-2026-04]]
 - [[global-workspace-oscillation-coordination]]
+
+- [[harness-design]]
+- [[microsoft-autogen-2026-04]]
+- [[multi-agent-collaboration]]

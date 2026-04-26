@@ -25,3 +25,8 @@ Optimization techniques for quantized models. See quantization-techniques and em
 - Signal generation combining multiple indicators and timeframes
 - Backtesting methodology with out-of-sample validation
 - Live execution with slippage and latency considerations
+
+## Related
+- [[agent-evolution-stages]]
+- [[ml-models-handbook-2026]]
+- [[quantization-techniques]]

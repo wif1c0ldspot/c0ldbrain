@@ -62,3 +62,5 @@ See [[agno-harness-vs-systems-engineering-2026-04]] for the full argument.
 
 - [[ashpreet-bedi-systems-engineering-agentic-2026-04]] — Ashpreet Bedi, April 2026
 - [[agno-harness-vs-systems-engineering-2026-04]] — Cosette Cressler (Agno), April 2026
+
+- [[harness-engineering]]

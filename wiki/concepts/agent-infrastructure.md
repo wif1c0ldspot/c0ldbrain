@@ -33,3 +33,7 @@ Backend systems supporting agent operation — servers, APIs, state management.
 - [[pomclaw-enterprise-agent-2026-04]]
 - [[rohit4verse-claude-code-architecture-2026-04]]
 - [[infrastructure-handbook-2026]]
+
+- [[agno-harness-vs-systems-engineering-2026-04]]
+- [[ashpreet-bedi-systems-engineering-agentic-2026-04]]
+- [[systems-engineering]]

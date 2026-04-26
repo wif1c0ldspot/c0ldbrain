@@ -36,3 +36,12 @@ Redirect stub — see context-engineering-synthesis for the unified context stac
 - [[agent-orchestration-stacks]]
 - [[agent-skills-systems]]
 - [[cloudflare-agent-memory-2026-04]]
+
+- [[agent-harness]]
+- [[context-engineering-handbook-2026]]
+- [[harness-design]]
+- [[harness-engineering-trae-ai-2026-04]]
+- [[multica-platform]]
+- [[recursive-language-models]]
+- [[resolvers]]
+- [[shannholmberg-ai-knowledge-layer-2026-04]]
