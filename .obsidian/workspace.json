@@ -192,6 +192,12 @@
   },
   "active": "185a00b8c69db220",
   "lastOpenFiles": [
+    "wiki/concepts/harness-engineering.md",
+    "wiki/sources/agno-harness-vs-systems-engineering-2026-04.md",
+    "raw/social/agno-harness-vs-systems-engineering-2026-04.md",
+    "wiki/concepts/systems-engineering.md",
+    "wiki/sources/ashpreet-bedi-systems-engineering-agentic-2026-04.md",
+    "raw/social/ashpreet-bedi-systems-engineering-agentic-2026-04.md",
     "outputs/digest/2026-04-26.md",
     "outputs/health/2026-04-26.json",
     "wiki/sources/akshay-agent-harness-anatomy-2026-04.md",
@@ -221,12 +227,6 @@
     "wiki/sources/million-token-illusion-oracle-converged-db-datachaz-2026-04.md",
     "wiki/MANIFEST.json",
     "wiki/sources/jarvis-obsidian-claude-code-cyrilxbt-2026-04.md",
-    "_scripts/property_fix_log.json",
-    "SCHEMA.md",
-    "CATALINX_PTE_LTD_FRS_2025.md",
-    "wiki/sources/2026-04-20-research.md",
-    "ABOUT.md",
-    "wiki/concepts/financial-llms.md",
-    "wiki/sources/fingpt-ai4finance-2026-04.md"
+    "_scripts/property_fix_log.json"
   ]
 }

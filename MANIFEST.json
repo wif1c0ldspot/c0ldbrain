@@ -777,6 +777,22 @@
       "type": "raw",
       "status": "unprocessed",
       "discovered_at": "2026-04-26"
+    },
+    "ashpreet-bedi-systems-engineering-agentic-2026-04": {
+      "type": "social",
+      "status": "compiled",
+      "ingested_at": "2026-04-26",
+      "compiled_at": "2026-04-26",
+      "source": "X article by Ashpreet Bedi \u2014 Systems Engineering for Agentic Software",
+      "raw_path": "/Volumes/obsidian/C0ldbrain/raw/social/ashpreet-bedi-systems-engineering-agentic-2026-04.md"
+    },
+    "agno-harness-vs-systems-engineering-2026-04": {
+      "type": "social",
+      "status": "compiled",
+      "ingested_at": "2026-04-26",
+      "compiled_at": "2026-04-26",
+      "source": "Agno blog - Harness vs Systems Engineering by Cosette Cressler",
+      "raw_path": "/Volumes/obsidian/C0ldbrain/raw/social/agno-harness-vs-systems-engineering-2026-04.md"
     }
   },
   "concept_count": 197,
