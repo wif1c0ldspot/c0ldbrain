@@ -103,3 +103,5 @@ Critical questions for harnesses integrating with MCP:
 - [[context-engineering-handbook-2026]]
 - [[rohit4verse-claude-code-architecture-2026-04]]
 - [[simplemem-github-2026-04]]
+- [[anthropic-adk-4layer-multiagent-framework-cyrilxbt-2026-04]] — ADK bidirectional MCP integration
+- [[agent-development-kit]] — ADK toolkit

@@ -58,5 +58,7 @@ See [[agno-harness-vs-systems-engineering-2026-04]] for the full argument.
 
 ## Sources
 
+- [[anthropic-adk-4layer-multiagent-framework-cyrilxbt-2026-04]] — ADK 4-layer framework (production systems engineering)
+
 - [[ashpreet-bedi-systems-engineering-agentic-2026-04]] — Ashpreet Bedi, April 2026
 - [[agno-harness-vs-systems-engineering-2026-04]] — Cosette Cressler (Agno), April 2026

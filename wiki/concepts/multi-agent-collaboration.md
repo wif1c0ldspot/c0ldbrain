@@ -35,3 +35,6 @@ Multi-agent collaboration patterns. See multi-agent-systems for coordination fra
 
 ---
 *This page was auto-expanded from a stub.*
+
+- [[anthropic-adk-4layer-multiagent-framework-cyrilxbt-2026-04]] — ADK 4-layer framework demo
+- [[agent-development-kit]] — Google/Anthropic agent toolkit

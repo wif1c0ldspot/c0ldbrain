@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-04-26",
+  "updated": "2026-04-27",
   "sources": {
     "langflow-claude-code-integration": {
       "type": "concept",
@@ -793,6 +793,14 @@
       "compiled_at": "2026-04-26",
       "source": "Agno blog - Harness vs Systems Engineering by Cosette Cressler",
       "raw_path": "/Volumes/obsidian/C0ldbrain/raw/social/agno-harness-vs-systems-engineering-2026-04.md"
+    },
+    "anthropic-adk-4layer-multiagent-framework-cyrilxbt-2026-04": {
+      "type": "social",
+      "status": "compiled",
+      "ingested_at": "2026-04-27",
+      "compiled_at": "2026-04-27",
+      "source": "Video by @CyrilXBT \u2014 Anthropic/Google 4-layer multi-agent framework",
+      "raw_path": "/tmp/anthropic-agents-cyrilxbt.mp4"
     }
   },
   "concept_count": 197,

@@ -36,3 +36,6 @@ Structural patterns for building AI agents — decision loops, memory hierarchy,
 - [[multica-platform]]
 - [[recursive-language-models]]
 - [[resolvers]]
+
+- [[anthropic-adk-4layer-multiagent-framework-cyrilxbt-2026-04]] — ADK 4-layer stack
+- [[agent-development-kit]] — ADK toolkit
