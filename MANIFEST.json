@@ -811,6 +811,13 @@
       "type": "raw",
       "status": "unprocessed",
       "discovered_at": "2026-04-27"
+    },
+    "synthesis/ai-security-handbook-2026": {
+      "type": "synthesis",
+      "status": "compiled",
+      "ingested_at": "2026-04-27",
+      "compiled_at": "2026-04-27",
+      "source_page": "wiki/synthesis/ai-security-handbook-2026.md"
     }
   },
   "concept_count": 200,
