@@ -192,6 +192,8 @@
   },
   "active": "185a00b8c69db220",
   "lastOpenFiles": [
+    "wiki/sources/claude-managed-agents-memory-rlancemartin-2026-04.md",
+    "raw/social/claude-managed-agents-memory-rlancemartin-2026-04.md",
     "outputs/digest/weekly-2026-04-27.md",
     "outputs/health/2026-04-27.json",
     "wiki/concepts/agent-development-kit.md",
@@ -225,8 +227,6 @@
     "wiki/concepts/sentiment-analysis-finance.md",
     "wiki/concepts/vector-databases.md",
     "wiki/concepts/crypto-quant-factor-research.md",
-    "wiki/concepts/crypto-quant-trading.md",
-    "outputs/digest/2026-04-25.md",
     "wiki/MANIFEST.json"
   ]
 }

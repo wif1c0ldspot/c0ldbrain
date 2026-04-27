@@ -38,3 +38,9 @@ Research field on persistent memory for autonomous agents. See memory-systems fo
 - [[2026-04-19-research]]
 
 - [[weekly-synthesis-2026-04-20]]
+
+## Filesystem Memory
+
+Anthropic's Claude Managed Agents uses filesystem-based memory stores — files persisted across sessions, mounted at `/mnt/memory/`. Demonstrates that general-purpose tools (filesystem) outperform specialized memory architectures with model scaling. [[claude-managed-agents-memory-rlancemartin-2026-04]]
+
+See [[memory-systems]] for full landscape.

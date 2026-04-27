@@ -374,3 +374,14 @@ See [[hierarchical-memory-architectures]] for full analysis.
 | CLEAR (2604.07487) | Generative context via contrastive learning | 72→81% AppWorld |
 | XpandA (2505.20625) | Dynamic partitioning + shared memory | +20%, 1.5x speedup |
 | PRECEPT (2602.07321) | Exact-match rules + Bayesian reliability | +41.1pp over Reflexion |
+
+### Filesystem-Based Memory (Production)
+
+Anthropic's Claude Managed Agents uses filesystem for memory — stores mounted at `/mnt/memory/<store-name>/`, persisted across sessions. Key insight: general tools (filesystem) outperform specialized memory harnesses with scaling intelligence. Opus 4.6 self-organized memories into directories with distilled learnings vs Sonnet 3.5's flat transcripts. Multi-agent sync with concurrency handling. [[claude-managed-agents-memory-rlancemartin-2026-04]]
+
+| Approach | Model | Memory Strategy | Result |
+|----------|-------|----------------|--------|
+| Claude Pokémon (Hershey) | Sonnet 3.5 | Transcript-style flat files | 31 files, stuck in town 2 |
+| Claude Pokémon (Hershey) | Opus 4.6 | Self-organized directories + learnings | 10 files, 3 gym badges |
+| Letta AI | - | Filesystem vs specialized tools | Filesystem won |
+| Managed Agents | Claude Platform | Mounted memory stores, multi-agent sync | Production deployment |
